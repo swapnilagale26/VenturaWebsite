@@ -292,12 +292,12 @@
           </div>
         </div>
    
-  <!--   <textarea placeholder="Type message.." name="msg" required></textarea> -->
+     <textarea placeholder="Type message.." name="msg" required></textarea> -->
 
   
      </div>
   </form>
-</div> -->
+</div>
 
 <script>
 function openForm() {
