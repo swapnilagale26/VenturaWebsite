@@ -41,7 +41,7 @@
     <div></div>
   </div>
 </div>
-<div class="main-header" style="background-image: url(./img/slider/b2.jpg)">
+<div class="main-header" style="background-image: url(./img/slider/bg.png)">
 <div id="top-bar" class="hidden-md-down">
   <div class="container">
   
@@ -56,10 +56,10 @@
       <ul class="nav-menu align-to-right">
         <li><a href="index.php#about_us">Know Ventura</a></li>
         <li><a href="services.php">Expertise</a></li>
-        <li><a href="index.php#relay-on-us">Portfolio</a></li>
+        <li><a href="index.php#relay-on-us">Portfolio</a></li> 
         <li><a href="#">Resources</a></li>
         <li><a href="career.php">Careers</a></li>
-        <li><a href="#" onclick="openForm()">Let's Talk</a></li>
+        <li class="linkHeader"><a href="#" class="btn btn1" style="height: 30px;width: 100px;padding: 0px;margin-top: 10px;">Let's Talk</a></li>
       </ul>
     </div>
   </nav>

@@ -14,7 +14,8 @@ a:hover {
   color: #007bff;
 }
 #nav-transparent .nav-white-bg {
-  background: #283891;
+  /* background: #283891; */
+  background-image: url("../img/slider/bg.png");
 }
 
 #nav-transparent .nav-white-bg .nav-menu > li > a {
@@ -430,7 +431,7 @@ a:hover {
   }
   .background-shape {
     position: absolute;
-    background: #1c2e83bf;
+    /* background: #1c2e83bf; */
     height: 100%;
     width: 100%;
     content: "";
@@ -790,6 +791,17 @@ transform-style: preserve-3d;
   border-radius: 25px;
   font-size: 15px;
 }
+.linkHeader{
+  background: #4A7ACA;
+  color: #fff !important;
+  border-radius: 25px;
+  font-size: 15px;
+  margin-top: 12px;
+}
+.linkHeader:hover{
+  border-bottom: 3px solid transparent !important;
+}
+
 .expertise .service-block-2:hover .info {
   display: block;
   transition: all 0.35s ease-in-out;
@@ -2051,7 +2063,7 @@ transform-style: preserve-3d;
   border-bottom: 3px solid transparent;
 }
 .nav-menu > li:hover {
-  border-bottom: 3px solid #fff;
+  border-bottom: 3px solid #FFA405;
   transition: all 0.3s ease-in-out;
 }
 .expertise .service-block-2-content {

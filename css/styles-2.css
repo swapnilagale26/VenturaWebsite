@@ -536,7 +536,8 @@
   #nav-transparent .nav-menu > li:hover > a,
   #nav-transparent .nav-menu > li.active > a,
   #nav-transparent .nav-menu > li.focus > a {
-    color: #172990;
+    font-weight: bold;
+    font-size: 16px;
   }
   #nav-transparent .nav-menu > li:hover > a .submenu-indicator-chevron,
   #nav-transparent .nav-menu > .active > a .submenu-indicator-chevron,
@@ -548,7 +549,7 @@
     border-color: transparent #6980ff #6980ff transparent;
   }
   #nav-transparent .nav-white-bg .nav-menu > li:hover > a {
-    color: #6980ff;
+    color: #fff;
   }
 }
 .nav-dropdown > li:hover > a,
@@ -7065,7 +7066,7 @@ blockquote {
   overflow: hidden;
 }
 .bg-arrows .tparrows {
-  background: rgba(0, 0, 0, 0.2);
+  /* background: rgba(0, 0, 0, 0.2); */
   border-radius: 50px;
   width: 60px;
   height: 60px;
@@ -7074,7 +7075,12 @@ blockquote {
   transition-duration: 0.3s;
 }
 .bg-arrows .tparrows:before {
-  font-size: 17px;
+  font-size: 42px;
+  font-weight: 100;
+  color: #97A0D5;
+}
+.bg-arrows .tparrows:hover{
+  color: #fff;
 }
 .tparrows {
   background: rgba(0, 0, 0, 0);
