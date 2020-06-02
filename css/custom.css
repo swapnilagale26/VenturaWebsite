@@ -8,7 +8,7 @@ html {
   background-size: cover;
 }
 header .fixed {
-  background: #103261;
+  /* background: #103261; */
 }
 a:hover {
   color: #007bff;
@@ -82,7 +82,9 @@ a:hover {
 }
 .navigation-fixed-wrapper {
   border-bottom: 0px solid #eeeeee87;
-  background: #103261;
+  background: #192DA0;
+  /* background-image: url("../img/slider/bg.png"); */
+  
 }
 .service-block-2 .service-block-2-content h4 {
   color: #fff;

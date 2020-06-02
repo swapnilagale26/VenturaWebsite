@@ -155,9 +155,9 @@
   position: absolute;
   width: 24px;
   height: 2px;
-  background-color: #70798b;
+  background-color: #fff;
   border-radius: 10px;
-  box-shadow: 0 0.5em 0 0 #70798b, 0 1em 0 0 #70798b;
+  box-shadow: 0 0.5em 0 0 #fff, 0 1em 0 0 #fff;
 }
 
 .navigation-portrait .nav-toggle {
