@@ -25,6 +25,31 @@
   </div>
 </div>
 
+<div class="quick-link">
+
+  <div class="row mt-0 pt-0">
+    <div class="col-sm-3" style="background-color:#2F74D9;height: 250px; padding: 32px; font-size:22px;color: white">
+    <a href="" style="color: white">WHAT WE DO</a><br><br>
+    <span style="font-size: 14px">Before we start developing any content, we analyse the current situation.</span><br><br>
+    <a href="https://www.facebook.com/venturapune/" style="font-size: 20px;color:white" target="_blank"><i class="fab fa-facebook"></i></a></div>
+
+    <div class="col-sm-3" style="background-color:#628FED;height: 250px; padding: 25px; font-size:22px;color: white">
+    <a href="" style="color: white">EXPERTISE</a><br><br>
+    <span style="font-size: 14px">Before we start developing any content, we analyse the current situation.</span><br><br>
+    <a href="https://www.facebook.com/venturapune/" style="font-size: 20px;color:white" target="_blank"><i class="fab fa-facebook"></i></a></div>
+
+    <div class="col-sm-3" style="background-color:#5FEF95;height: 250px; padding: 25px; font-size:22px;color: white">
+    <a href="" style="color: white">ABOUT US</a><br><br>
+    <span style="font-size: 14px">Before we start developing any content, we analyse the current situation.</span><br><br>
+    <a href="https://www.facebook.com/venturapune/" style="font-size: 20px;color:white" target="_blank"><i class="fab fa-facebook"></i></a></div>
+
+    <div class="col-sm-3" style="background-color:#EFD95F;height: 250px; padding: 25px; font-size:22px;color: white">
+    <a href="" style="color: white">NEWS</a>
+    <br><br><span style="font-size: 14px">Before we start developing any content, we analyse the current situation.</span><br><br>
+    <a href="https://www.facebook.com/venturapune/" style="font-size: 20px;color:white" target="_blank"><i class="fab fa-facebook"></i></a></div> 
+  </div>
+</div>
+
 <div class="expertise section-block ">
 <!--   <div class="background-shape bs-right"></div> -->
   <div class="container">

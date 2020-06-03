@@ -566,10 +566,10 @@ a:hover {
     top: 460px !important;
   }
   .rev_slider_wrapper {
-    height: 835px !important;
+    height: 680px !important;
   }
   .forcefullwidth_wrapper_tp_banner {
-    height: 835px !important;
+    height: 680px !important;
   } /*responsive ends*/
 }
 .know-ventura .header {
@@ -2124,4 +2124,12 @@ transform-style: preserve-3d;
 }
 .resource .resource-box {
   padding: 150px 50px;
+}
+
+/* Quicklinks-Section */
+
+.quicklinks{
+  margin-right: -30px;
+  margin-left: -15px;
+  margin-top: -80px;
 }
