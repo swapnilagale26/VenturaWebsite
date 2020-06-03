@@ -103,7 +103,7 @@ a:hover {
 .section-heading h3:before {
   display: inline-block;
   content: "";
-  border-top: 2px solid #283891;
+  /* border-top: 2px solid #283891; */
   width: 4rem;
   margin: 5px 20px;
   /* transform: translateY(-1rem);*/
@@ -111,7 +111,7 @@ a:hover {
 .section-heading h3:after {
   display: inline-block;
   content: "";
-  border-top: 2px solid #283891;
+  /* border-top: 2px solid #283891; */
   width: 4rem;
   margin: 5px 20px;
   /*transform: translateY(-1rem);*/
@@ -165,7 +165,7 @@ a:hover {
   padding: 70px;
 }
 .section-heading-line {
-  background: #283891;
+  background: #8DF284;
 }
 .features-box-2-icon {
   border: 1px solid #283891;
@@ -2132,4 +2132,11 @@ transform-style: preserve-3d;
   margin-right: -30px;
   margin-left: -15px;
   margin-top: -80px;
+}
+
+.sub-links{
+  height: 300px; 
+  padding: 25px; 
+  font-size:22px;
+  color: white
 }

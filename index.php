@@ -28,27 +28,89 @@
 <div class="quick-link">
 
   <div class="row mt-0 pt-0">
-    <div class="col-sm-3" style="background-color:#2F74D9;height: 250px; padding: 32px; font-size:22px;color: white">
+    <div class="col-sm-3 sub-links" style="background-color:#2F74D9;height: 300px; padding: 32px; font-size:22px;color: white">
     <a href="" style="color: white">WHAT WE DO</a><br><br>
     <span style="font-size: 14px">Before we start developing any content, we analyse the current situation.</span><br><br>
-    <a href="https://www.facebook.com/venturapune/" style="font-size: 20px;color:white" target="_blank"><i class="fab fa-facebook"></i></a></div>
+    <a href="https://www.facebook.com/venturapune/" style="font-size: 20px;color:white" target="_blank"><img src="./img/quick_links_arrrow.png" style="width:40px"></img></a></div>
 
-    <div class="col-sm-3" style="background-color:#628FED;height: 250px; padding: 25px; font-size:22px;color: white">
+    <div class="col-sm-3 sub-links" style="background-color:#628FED;">
     <a href="" style="color: white">EXPERTISE</a><br><br>
     <span style="font-size: 14px">Before we start developing any content, we analyse the current situation.</span><br><br>
-    <a href="https://www.facebook.com/venturapune/" style="font-size: 20px;color:white" target="_blank"><i class="fab fa-facebook"></i></a></div>
+    <a href="https://www.facebook.com/venturapune/" style="font-size: 20px;color:white" target="_blank"><img src="./img/quick_links_arrrow.png" style="width:40px"></img></a></div>
 
-    <div class="col-sm-3" style="background-color:#5FEF95;height: 250px; padding: 25px; font-size:22px;color: white">
+    <div class="col-sm-3 sub-links" style="background-color:#5FEF95;">
     <a href="" style="color: white">ABOUT US</a><br><br>
     <span style="font-size: 14px">Before we start developing any content, we analyse the current situation.</span><br><br>
-    <a href="https://www.facebook.com/venturapune/" style="font-size: 20px;color:white" target="_blank"><i class="fab fa-facebook"></i></a></div>
+    <a href="https://www.facebook.com/venturapune/" style="font-size: 20px;color:white" target="_blank"><img src="./img/quick_links_arrrow.png" style="width:40px"></img></a></div>
 
-    <div class="col-sm-3" style="background-color:#EFD95F;height: 250px; padding: 25px; font-size:22px;color: white">
+    <div class="col-sm-3 sub-links" style="background-color:#EFD95F;">
     <a href="" style="color: white">NEWS</a>
     <br><br><span style="font-size: 14px">Before we start developing any content, we analyse the current situation.</span><br><br>
-    <a href="https://www.facebook.com/venturapune/" style="font-size: 20px;color:white" target="_blank"><i class="fab fa-facebook"></i></a></div> 
+    <a href="https://www.facebook.com/venturapune/" style="font-size: 20px;color:white" target="_blank"><img src="./img/quick_links_arrrow.png" style="width:40px"></img></a></div> 
   </div>
 </div>
+
+<section class="service-head">
+	<div class="section-heading text-center">
+      <h3 class="semi-bold font-size-30"  style="color: black">OUR EXPERTISE</h3>
+      <div class="section-heading-line line-thin" style="color: #8DF284"></div>
+      <p style="font-weight: normal">EMPORING ORGANISATIONS THROUGH IMPACTFULL LEARNING EXPERINCES.</p>
+    </div>
+</section>
+<section class="services" id="service2">
+  <div class="container">
+    <div class="row">
+     
+      <div class="col-md-6 col-sm-6 col-12">
+        <div class="pl-45-md" style="margin-top: 20%">
+          <div class="section-heading text-left mt-5">
+           <!--  <h3 class="semi-bold font-size-30">Custom Learing <span class="primary-color">vision into action!</span></h3> -->
+           <h4 class="semi-bold font-size-30" style="color:#1614A8;">CUSTOM LEARNING</h4><br>
+           <span class="font-size-20">Optimise, custom content development that fits the context</span><br> 
+            <!-- <div class="section-heading-line line-thin"></div> -->
+<!--             
+              <p>Anytime and Anywhere Learning is a necessity in the modern Workplace. With Mobility gaining popularity and the ever increasing stack	of Mobile devices, learning availability and accessibility is crucial. We create mobile learning solutions that deliver the perfect balance of contextual learning, interaction, and social collaboration.	</p> -->
+             
+           
+          </div>
+        
+          <a href="#" class="mt-25" data-target="#exampleModal" style="border: transparent;
+    background: transparent;">Read More <img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
+        </div>
+        <div class="col-md-6 col-sm-6 col-12"><img src="img/video/gd.gif" class=" service-img" alt="img"></div>
+    </div>
+  </div>
+</section>
+
+<section class="services" id="service1">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-sm-6 col-12"><img src="img/video/ml.gif" class=" service-img" alt="img"></div>
+      <div class="col-md-6 col-sm-6 col-12">
+        <div class="pl-45-md" style="margin-top: 20%">
+          <div class="section-heading text-left mt-5">
+           <!--  <h3 class="semi-bold font-size-30">Custom Learing <span class="primary-color">vision into action!</span></h3> -->
+           <h4 class="semi-bold font-size-30" style="color:#1614A8;">MOBILE LEARNING</h4><br>
+           <span class="font-size-20">Learning on the go made easy with mobile learning</span><br> 
+            <!-- <div class="section-heading-line line-thin"></div> -->
+            
+              <!-- <p>Ventura creates learning solutions with patience, designing special molds to create pieces that match the learning perspective and piecing them together to create a perfect blend of engagement and contextual learning.</p>
+              <p>We believe that every organization has a specific need which requires careful understanding and efforts to create a custom content</p> -->
+           
+          </div>
+        
+          <a href="#" class="mt-25" data-target="#exampleModal" style="border: transparent;
+    background: transparent;">Read More <img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
+        </div>
+      
+      </div>
+      <div class="link text-center" style="margin-top:60px">
+                  <a href="services.php#service1" class="btn" style="background: #1614A8; color:white;padding-left: 20px;padding-right: 20px;">View All</a>
+                </div>
+    </div>
+   
+  </div>
+</section>
 
 <div class="expertise section-block ">
 <!--   <div class="background-shape bs-right"></div> -->
