@@ -7,9 +7,9 @@ html {
 .main-header {
   background-size: cover;
 }
-header .fixed {
-  /* background: #103261; */
-}
+/* header .fixed {
+  /* background: #103261; 
+} */
 a:hover {
   color: #007bff;
 }
@@ -248,17 +248,18 @@ a:hover {
   margin-top: 30px;
 }
 .counter .countup {
-  padding-top: 47px;
-  font-size: 34px;
-  color: #123a6d;
+  padding-top: 36%;
+  font-size: 35px;
+  color: white;
+  font-weight: 300;
 }
 .counter .count-up {
-  border: 1px solid #fff;
-  width: 150px;
-  height: 150px;
+  border: 13px solid #fff;
+  width: 200px;
+  height: 200px;
   border-radius: 100px;
   transform: none;
-  background: #fff;
+  background: transparent;
   margin: auto;
 }
 
@@ -269,7 +270,7 @@ a:hover {
 }
 .countup-box h5 {
   margin-top: 17px;
-  font-size: 17px;
+  font-size: 16px;
   font-weight: 450;
   color: #ffffff;
   z-index: 2;
@@ -796,11 +797,23 @@ transform-style: preserve-3d;
   text-align: center;
 }
 .expertise .img-div .link .btn {
-  background: #17427c;
-  color: #fff;
   border-radius: 25px;
   font-size: 15px;
+  background: #1614A8;
+  color:#fff;
 }
+
+.readmore{
+  border-radius: 25px;
+  font-size: 15px;
+  background: #fff;
+  color:black;
+}
+/* .expertise .img-div .link .btn:hover{
+  background: #fff;
+  color: #17427c;
+} */
+
 .linkHeader{
   background: #4A7ACA;
   color: #fff !important;
@@ -1999,9 +2012,9 @@ transform-style: preserve-3d;
   font-size: 16px;
 }
 .services a {
-  background: #222222de;
+  background: #1614A8;
   border-radius: 310px;
-  border: 1px solid #222222de;
+  border: 1px solid #1614A8;
 }
 .services a:hover {
   background: transparent;
@@ -2076,8 +2089,8 @@ transform-style: preserve-3d;
   border-bottom: 3px solid #FFA405;
   transition: all 0.3s ease-in-out;
 }
-.expertise .service-block-2-content {
-}
+/* .expertise .service-block-2-content {
+} */
 .why-join-us img {
   font-size: 28px;
   background: #283891;

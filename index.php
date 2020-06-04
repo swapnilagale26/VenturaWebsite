@@ -105,7 +105,7 @@
       
       </div>
       <div class="link text-center" style="margin-top:60px">
-                  <a href="services.php#service1" class="btn" style="background: #1614A8; color:white;padding-left: 20px;padding-right: 20px;">View All</a>
+                  <a href="services.php#service1" class="btn button-primary" style="padding-left: 30px;padding-right: 30px;">View All</a>
                 </div>
     </div>
    
@@ -273,11 +273,79 @@
   </div>
 </div> -->
 
-<div class="work section-block" style="background: #00137A;margin-top:80px">
+<!-- style="background-image: url('img/content/bgs/bg1.png')" -->
+<section id="know_ventura" class="section-block" data-jarallax data-speed="0.6" style="background-image: url(img/about-us.jpg);margin-top:80px" >
+  <div class="container">
+  <div class="section-heading text-center">
+      <h3 class="semi-bold font-size-30" style="color:white">ABOUT US</h3>
+      <div class="section-heading-line line-thin" style="width:90px;"></div>
+      <p class="font-size-25"style="font-weight: 400;color:white">How does Learning become impactfull?</p>
+      <p class="font-size-20"style="font-weight: 300;color:white">Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder, came on board to lead the Sales and Marketing efforts.</p>
+
+      <p class="font-size-20"style="font-weight: 300;color:white;padding:30px">Our founders believe that any workplace can operate at its full efficiency only when the workforce is well equipped with the required skill sets and continued learning opportunities</p>
+      <div class="text-center" style="margin-top:60px">
+                  <a href="services.php#service1" class=" readmore btn button-primary" style="padding-left: 30px;padding-right: 30px;">Read More</a>
+                </div>
+    </div>
+</div>
+</section>
+<!-- 
+<section id="know_ventura" class=" know-ventura-1 know-ventura pl-0 pr-0 jarallax" data-jarallax data-speed="0.6" style="background-image: url(img/new-img/know-ventura.jpg);margin-top:80px" >
+  <div class="container">
+  <div class="row no-gutters">  
+    
+    <div class="col-lg-9 col-md-12 offset-lg-3 col-sm-12 col-12">
+      <div class="know-ventura-div padding-10-perc  background-80 background-no-repeat background-center" >
+        <div class="section-heading text-left">
+          <p class="semi-bold header">KNOW VENTURA</p>
+        </div>
+        <div class="row mt-45">
+          <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+            <div class="countup-box-2">
+             <i class="fas fa-copy" style="font-size: 25px;padding: 10px 12px;"></i>
+             
+              <h4>Our Story</h4>
+              <p>The foundation of Ventura was laid in the year 2012 when Tushar, our founder, kicked-off his entrepreneurial journey to help our customers design impactful learning.</p>
+              <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder, came on board to lead the Sales and Marketing efforts. It helped us expand our reach in the international market. Together as a team, it worked out to be a perfect blend of delivering best quality output and excellent customer service</p>
+              <p>Today, we have our imprints in 11 countries, <br>and counting!</p>
+              <p>Our founders believe that any workplace can operate at its full efficiency only when the workforce is well equipped with the required skill sets and continued learning opportunities.</p> 
+              <p>With the vision of empowering workplaces to go the extra mile, Ventura has been helping organisations across geographies and verticals to leverage technology and drive behavioural <br>change in the workforce.</p>
+            </div>
+           
+          </div>
+          <div class="col-lg-6 col-md-6 col-sm-6 col-12 ">
+            <div class="countup-box-2">
+              <i class="fas fa-copy" style="font-size: 25px;padding: 10px 12px;"></i>
+              
+              <h4>Our Culture</h4>
+              <p>We believe that organisations have the ability to influence the future of the people associated with them, and contribute to a bigger purpose of enriching the society.</p>
+              <p>We are obsessed about our transparent work culture. We love to empower people, offer ample growth opportunities as we grow, and maintain a harmonic work-life balance.</p>
+             <iframe width="100%" height="225px" src="https://www.youtube.com/embed/tgbNymZ7vqY"> </iframe>
+            </div>
+             <div class="countup-box-2">
+              <i class="fas fa-users" style="font-size: 25px;padding: 8px;"></i>
+             
+              <h4>Our Team</h4>
+              <p>Our people are our Greatest Asset.</p>
+              <p>We are a team of 18-ish people and growing. Being small has turned out to be our biggest advantage as we provide personalised experience to our clients. With just-the-right mix of skillsets, we cater to all kinds of eLearning projects with same enthusiasm and zeal, and are all there to add value with our experience and expertise.</p>
+              <div class="link"><a href="index.php#know_ventura" class="btn " style="font-size: 14px;; background-color: #283891;color: white; border-radius: 30px;font-weight: 600;">READ MORE</a></div>
+            </div>
+          </div>
+          
+        </div>
+       
+      </div>
+    </div>
+  </div>
+</div>
+</section> -->
+
+
+<div class="work section-block" style="background: #00137A;">
   <div class="section-angle"></div>
   <div class="container">
     <div class="section-heading text-center">
-      <h3 class="semi-bold" style="color:white">HOW WE WORK AT VENTURA </h3>
+      <h3 class="semi-bold font-size-30" style="color:white">HOW WE WORK AT VENTURA </h3>
       <div class="section-heading-line line-thin" style="width:150px"></div>
      
     </div>
@@ -333,60 +401,10 @@
   </div>
 </div>
 
-<!-- style="background-image: url('img/content/bgs/bg1.png')" -->
-<section id="know_ventura" class=" know-ventura-1 know-ventura pl-0 pr-0 jarallax" data-jarallax data-speed="0.6" style="background-image: url(img/new-img/know-ventura.jpg);" >
-  <div class="container">
-  <div class="row no-gutters">  
-    
-    <div class="col-lg-9 col-md-12 offset-lg-3 col-sm-12 col-12">
-      <div class="know-ventura-div padding-10-perc  background-80 background-no-repeat background-center" >
-        <div class="section-heading text-left">
-          <p class="semi-bold header">KNOW VENTURA</p>
-        </div>
-        <div class="row mt-45">
-          <div class="col-lg-6 col-md-6 col-sm-6 col-12">
-            <div class="countup-box-2">
-             <i class="fas fa-copy" style="font-size: 25px;padding: 10px 12px;"></i>
-             
-              <h4>Our Story</h4>
-              <p>The foundation of Ventura was laid in the year 2012 when Tushar, our founder, kicked-off his entrepreneurial journey to help our customers design impactful learning.</p>
-              <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder, came on board to lead the Sales and Marketing efforts. It helped us expand our reach in the international market. Together as a team, it worked out to be a perfect blend of delivering best quality output and excellent customer service</p>
-              <p>Today, we have our imprints in 11 countries, <br>and counting!</p>
-              <p>Our founders believe that any workplace can operate at its full efficiency only when the workforce is well equipped with the required skill sets and continued learning opportunities.</p> 
-              <p>With the vision of empowering workplaces to go the extra mile, Ventura has been helping organisations across geographies and verticals to leverage technology and drive behavioural <br>change in the workforce.</p>
-            </div>
-           
-          </div>
-          <div class="col-lg-6 col-md-6 col-sm-6 col-12 ">
-            <div class="countup-box-2">
-              <i class="fas fa-copy" style="font-size: 25px;padding: 10px 12px;"></i>
-              
-              <h4>Our Culture</h4>
-              <p>We believe that organisations have the ability to influence the future of the people associated with them, and contribute to a bigger purpose of enriching the society.</p>
-              <p>We are obsessed about our transparent work culture. We love to empower people, offer ample growth opportunities as we grow, and maintain a harmonic work-life balance.</p>
-             <!-- <iframe width="100%" height="225px" src="https://www.youtube.com/embed/tgbNymZ7vqY"> </iframe> -->
-            </div>
-             <div class="countup-box-2">
-              <i class="fas fa-users" style="font-size: 25px;padding: 8px;"></i>
-             
-              <h4>Our Team</h4>
-              <p>Our people are our Greatest Asset.</p>
-              <p>We are a team of 18-ish people and growing. Being small has turned out to be our biggest advantage as we provide personalised experience to our clients. With just-the-right mix of skillsets, we cater to all kinds of eLearning projects with same enthusiasm and zeal, and are all there to add value with our experience and expertise.</p>
-              <div class="link"><a href="index.php#know_ventura" class="btn " style="font-size: 14px;; background-color: #283891;color: white; border-radius: 30px;font-weight: 600;">READ MORE</a></div>
-            </div>
-          </div>
-          
-        </div>
-       
-      </div>
-    </div>
-  </div>
-</div>
-</section>
-<div class="counter section-block " style="background-image: url(img/new-img/clients-back1.jpg);">
-  <div class="container">
+<div class="counter section-block " style="background: #E6AA3B;border-radius: 240px;margin-top: 80px;margin: 80px 24px 20px 20px;">
+  <div class="container" >
     <div class="section-heading text-center">
-      <div class="row">
+      <div class="row" style="padding-right: 15px;">
         <div class="col-md-3 col-sm-6 col-6">
           <div class="countup-box wow flipInX">
             <div class="count-up"><h4 class="countup">50</h4></div>
@@ -402,7 +420,7 @@
         <div class="col-md-3 col-sm-6 col-6">
           <div class="countup-box wow flipInX">
             <div class="count-up"><h4 class="countup">11</h4></div>
-            <h5>Countries We Work In</h5>
+            <h5 style="margin-left: 12px">Countries We Work In</h5>
           </div>
         </div>
         <div class="col-md-3 col-sm-6 col-6">
