@@ -112,12 +112,12 @@
   </div>
 </section>
 
-<div class="expertise section-block ">
-<!--   <div class="background-shape bs-right"></div> -->
+<!-- <div class="expertise section-block ">
+  <div class="background-shape bs-right"></div>
   <div class="container">
     <div class="section-heading text-center">
       <h3 class="semi-bold">OUR EXPERTISE</h3>
-      <!-- <div class="section-heading-line line-thin"></div> -->
+      <div class="section-heading-line line-thin"></div>
       <p>EMPOWERING ORGANISATIONS THROUGH IMPACTFUL LEARNING EXPERIENCES.</p>
     </div>
     <div class="row mt-40">
@@ -249,7 +249,7 @@
         </div>
       </div>
     </div>
-   <!--  <div class="text-center mt-30"><a href="#" class="button-primary button-md">View All Services</a></div> -->
+    <div class="text-center mt-30"><a href="#" class="button-primary button-md">View All Services</a></div>
   </div>
 </div>
 <div class=" about-us-section section-block-grey background-center jarallax" id="about_us" data-jarallax data-speed="0.6" style="background-image: url('img/new-img/about-us.jpg')">
@@ -271,46 +271,52 @@
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
-<div class="work section-block">
+<div class="work section-block" style="background: #00137A;margin-top:80px">
   <div class="section-angle"></div>
   <div class="container">
     <div class="section-heading text-center">
-      <h3 class="semi-bold">HOW WE WORK AT VENTURA </h3>
-      <!-- <div class="section-heading-line line-thin"></div> -->
+      <h3 class="semi-bold" style="color:white">HOW WE WORK AT VENTURA </h3>
+      <div class="section-heading-line line-thin" style="width:150px"></div>
      
     </div>
     <div class="row mt-30">
 
       <div class="col-lg-2  offset-lg-1 col-md-4  col-sm-6 col-6">
         <div class=" features-box-2 wow zoomIn">
-          <a href="JavaScript:Void(0)"class=" tablinks active" onclick="openCity(event, 'Analysis')"><div class="analysis features-box-2-icon "><h4>ANALYSIS</h4></div></a>
+          <a href="JavaScript:Void(0)"class=" tablinks active" onclick="openCity(event, 'Analysis')"><div class="analysis features-box-2-icon "><img src="./img/icon_analysis.png" style="width:55%;margin-top: 20%"></img><h4>ANALYSIS</h4>
+      <div class="section-heading-line line-thin tabline" ></div>
+        </div></a>
           
         </div>
       </div>
       <div class="col-lg-2 col-md-4 col-sm-6 col-6">
         <div class="features-box-2 wow zoomIn">
-          <a href="JavaScript:Void(0)"class=" tablinks" onclick="openCity(event, 'Design')"><div class="features-box-2-icon"><h4>DESIGN</h4></div></a>
-          
+          <a href="JavaScript:Void(0)"class=" tablinks" onclick="openCity(event, 'Design')"><div class="features-box-2-icon"><img src="./img/icon_design.png" style="width:55%;margin-top: 20%"></img><h4>DESIGN</h4>
+          <div class="section-heading-line line-thin tabline" ></div>
+        </div></a>
         </div>
       </div>
       <div class="col-lg-2 col-md-4 col-sm-6 col-6">
         <div class="features-box-2 wow zoomIn">
-          <a href="JavaScript:Void(0)" class="tablinks" onclick="openCity(event, 'Dev')"><div class="features-box-2-icon"><h4>DEVELOP</h4></div></a>
-          
+          <a href="JavaScript:Void(0)" class="tablinks" onclick="openCity(event, 'Dev')"><div class="features-box-2-icon"><img src="./img/icon_develop.png" style="width:50%;margin-top: 20%;"></img><h4>DEVELOP</h4>
+          <div class="section-heading-line line-thin tabline" ></div>
+        </div></a>
         </div>
       </div>
       <div class="col-lg-2 col-md-4  col-sm-6 col-6">
         <div class="features-box-2 wow zoomIn">
-          <a href="JavaScript:Void(0)" class="tablinks" onclick="openCity(event, 'Imp')"><div class="features-box-2-icon"><h4>IMPLEMENT</h4></div></a>
-          
+          <a href="JavaScript:Void(0)" class="tablinks" onclick="openCity(event, 'Imp')"><div class="features-box-2-icon"><img src="./img/icon_implement.png" style="width:55%;margin-top: 20%"></img><h4>IMPLEMENT</h4>
+          <div class="section-heading-line line-thin tabline" ></div>
+        </div></a>
         </div>
       </div>
       <div class="col-lg-2 col-md-4 col-sm-6 col-6">
         <div class="features-box-2 wow zoomIn">
-          <a href="JavaScript:Void(0)" class="tablinks" onclick="openCity(event, 'Eva')"><div class="features-box-2-icon"><h4>EVALUATE</h4></div></a>
-          
+          <a href="JavaScript:Void(0)" class="tablinks" onclick="openCity(event, 'Eva')"><div class="features-box-2-icon"><img src="./img/icon_evaluate.png" style="width:55%;margin-top: 20%"></img><h4>EVALUATE</h4>
+          <div class="section-heading-line line-thin tabline" ></div>
+        </div></a>
         </div>
       </div>
     </div>

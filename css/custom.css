@@ -168,7 +168,7 @@ a:hover {
   background: #8DF284;
 }
 .features-box-2-icon {
-  border: 1px solid #283891;
+  border: 2px solid #24C6FA;
   width: 150px;
   height: 150px;
   border-radius: 100px;
@@ -178,7 +178,8 @@ a:hover {
 }
 .features-box-2-icon h4 {
   padding-top: 55px;
-  color: #283891;
+  color: #fff;
+  font-weight: 300;
 }
 
 .features-box-2 {
@@ -193,16 +194,17 @@ a:hover {
   top: 260px;
   bottom: 0;
   width: 205px;
-  border-top: 1px solid #283891;
+  /* border-top: 1px solid #283891; */
   /* border-width: 0 0 0 1px; */
 }
 .work-p {
   margin-top: 20px;
   letter-spacing: 1px;
-  font-weight: 400;
-  color: #222c;
-  text-align: left;
-  padding-left: 15px;
+  font-weight: 300;
+  color: #fff;
+  text-align: center;
+  padding-left: 44px;
+  padding-right: 30px;
 }
 .know-ventura h4 {
   color: #222c;
@@ -457,7 +459,7 @@ a:hover {
   }
   .features-box-2 {
     padding: 10px;
-    padding-bottom: 20px;
+    padding-bottom: 80px;
   }
   .features-box-2-icon {
     width: 130px;
@@ -486,12 +488,18 @@ a:hover {
   width: 100%;
 }
 .work .tablinks.active .features-box-2-icon {
-  background-color: #283891;
+  /* background-color: #283891; */
   color: #fff;
   transition: all 0.4s ease-in-out;
 }
 .work .tablinks.active .features-box-2-icon h4 {
-  color: #fff;
+  font-weight: 600;
+}
+.work .tablinks.active .features-box-2-icon .tabline {
+  background: #E6AA3B;
+}
+.tabline {
+  background: transparent;width:70px;margin-top:5px
 }
 .work .tablinks.active:before {
   content: "";
@@ -501,7 +509,7 @@ a:hover {
   left: 104px;
   top: 179px;
   bottom: 0;
-  border: 1px solid #283891;
+  /* border: 1px solid #283891; */
   border-width: 0 0 0 1px;
   transition: all 0.4s ease-in-out;
 }
