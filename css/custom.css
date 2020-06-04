@@ -2021,9 +2021,9 @@ transform-style: preserve-3d;
   color: #222222de;
   border-radius: 310px;
 }
-.services .service-img {
+/* .services .service-img {
   border: 1px solid #80808026;
-}
+} */
 
 .contact-modal input {
   height: 50px;

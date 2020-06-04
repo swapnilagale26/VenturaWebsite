@@ -1057,7 +1057,7 @@
     position: relative;
     text-decoration: none;
     font-size: 15px;
-    font-weight: 600;
+    font-weight: 350;
     color: #fff;
     -webkit-transition: color 0.3s, background 0.3s;
     transition: color 0.3s, background 0.3s;
@@ -1114,7 +1114,7 @@
     position: relative;
     text-decoration: none;
     font-size: 15px;
-    font-weight: 600;
+    font-weight: 350;
     color: #222;
     -webkit-transition: color 0.3s, background 0.3s;
     transition: color 0.3s, background 0.3s;

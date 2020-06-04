@@ -77,7 +77,7 @@
           <a href="#" class="mt-25" data-target="#exampleModal" style="border: transparent;
     background: transparent;">Read More <img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
         </div>
-        <div class="col-md-6 col-sm-6 col-12"><img src="img/video/gd.gif" class=" service-img" alt="img"></div>
+        <div class="col-md-6 col-sm-6 col-12"><img src="img/COSTUM-LEARNING.png" class=" service-img" alt="img"></div>
     </div>
   </div>
 </section>
@@ -85,7 +85,7 @@
 <section class="services" id="service1">
   <div class="container">
     <div class="row">
-      <div class="col-md-6 col-sm-6 col-12"><img src="img/video/ml.gif" class=" service-img" alt="img"></div>
+      <div class="col-md-6 col-sm-6 col-12"><img src="img/MOBILE-LEARNING.png" class=" service-img" alt="img"></div>
       <div class="col-md-6 col-sm-6 col-12">
         <div class="pl-45-md" style="margin-top: 20%">
           <div class="section-heading text-left mt-5">
@@ -346,7 +346,7 @@
   <div class="container">
     <div class="section-heading text-center">
       <h3 class="semi-bold font-size-30" style="color:white">HOW WE WORK AT VENTURA </h3>
-      <div class="section-heading-line line-thin" style="width:150px"></div>
+      <div class="section-heading-line line-thin" style="width:250px"></div>
      
     </div>
     <div class="row mt-30">
@@ -457,11 +457,11 @@
 <section class="relay-on-us section-block" id="relay-on-us">
   <div class="container ">
      <div class="section-heading text-center">
-      <h3 class="semi-bold">RELAY ON US </h3>
-      <!-- <div class="section-heading-line line-thin"></div> -->
-     
+      <h3 class="semi-bold font-size-30">RELAY ON US </h3>
+      <div class="section-heading-line line-thin"></div>
+      <img src="./img/map.png" class="pt-5"></img>
     </div>
-    <div class="row relay-row">
+    <div class="row relay-row pt-5">
       <div class="col-md-12">
         <div class="customer-logos clients-grid">
             <div class="slide"><img src="img/new-img/client-logo1.png"></div>

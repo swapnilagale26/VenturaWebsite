@@ -537,7 +537,6 @@
   #nav-transparent .nav-menu > li.active > a,
   #nav-transparent .nav-menu > li.focus > a {
     font-weight: bold;
-    font-size: 16px;
   }
   #nav-transparent .nav-menu > li:hover > a .submenu-indicator-chevron,
   #nav-transparent .nav-menu > .active > a .submenu-indicator-chevron,
