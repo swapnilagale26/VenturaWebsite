@@ -459,7 +459,13 @@
      <div class="section-heading text-center">
       <h3 class="semi-bold font-size-30">RELAY ON US </h3>
       <div class="section-heading-line line-thin"></div>
-      <img src="./img/map.png" class="pt-5"></img>
+      <div class="main-responsive-div">
+      <img src="./img/map.png" class="pt-5 behind-image"></img>
+      <i id="first-pointer" style="left: 16%;bottom: 60%;" class="fas fa-map-marker-alt fa-2x front-pointer behind-image"></i>
+      <i id="second-pointer" style="left: 67%;bottom: 68%;" class="fas fa-map-marker-alt fa-2x front-pointer behind-image"></i>
+      <i id="third-pointer" style="left: 84%;bottom: 52%;" class="fas fa-map-marker-alt fa-2x front-pointer behind-image"></i>
+      <i id="fourth-pointer" style="left: 45%;bottom: 36%;" class="fas fa-map-marker-alt fa-2x front-pointer behind-image"></i>
+      </div>
     </div>
     <div class="row relay-row pt-5">
       <div class="col-md-12">

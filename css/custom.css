@@ -2161,3 +2161,21 @@ transform-style: preserve-3d;
   font-size:22px;
   color: white
 }
+
+/* rely-on-us Section */
+
+.main-responsive-div{
+  width: 100%;
+  position: relative;
+}
+
+.behind-image{
+  max-width:100%;
+  height:auto;
+}
+
+.front-pointer{
+  color: #F0A61B;
+  position: absolute;
+  z-index: 99;
+}
