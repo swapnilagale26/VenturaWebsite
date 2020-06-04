@@ -394,7 +394,7 @@ a:hover {
   display: none;
 }
 .background-shape:before {
-  background: transparent;
+  background: #142998;
 }
 .background-shape {
   position: absolute;
@@ -432,11 +432,11 @@ a:hover {
     border-radius: 0;
   }
   .background-shape.bs-right {
-    left: -3%;
+    left: 68%;
   }
   .background-shape {
     position: absolute;
-    /* background: #1c2e83bf; */
+    background: #142998;
     height: 100%;
     width: 100%;
     content: "";
