@@ -461,10 +461,62 @@
       <div class="section-heading-line line-thin"></div>
       <div class="main-responsive-div">
       <img src="./img/map.png" class="pt-5 behind-image"></img>
-      <i id="first-pointer" style="left: 16%;bottom: 60%;" class="fas fa-map-marker-alt fa-2x front-pointer behind-image"></i>
-      <i id="second-pointer" style="left: 67%;bottom: 68%;" class="fas fa-map-marker-alt fa-2x front-pointer behind-image"></i>
-      <i id="third-pointer" style="left: 84%;bottom: 52%;" class="fas fa-map-marker-alt fa-2x front-pointer behind-image"></i>
-      <i id="fourth-pointer" style="left: 45%;bottom: 36%;" class="fas fa-map-marker-alt fa-2x front-pointer behind-image"></i>
+
+
+      <i id="first-pointer"  class="fas fa-map-marker-alt fa-4x"></i>
+      <div id="first-pointer-hover" >
+              
+              <p style="font-size: 10px;height: auto;width: 237px;font-weight: 400;color: white;background: #FFAB0B;padding: 4px;" class="text-center">We display multiple posts each in a bootstrap carousel, that is we display multiple images using the matrix table.</p>
+              <div class="pointer" style=" width: 0; height: 0; border-left: 20px solid transparent;border-top: 20px solid #C27C00;"></div>
+  
+        </div>
+      <i id="second-pointer"  class="fas fa-map-marker-alt fa-4x"></i>
+
+
+      <div id="second-pointer-hover">
+              
+              <p style="font-size: 10px;height: auto;width: 180px;font-weight: 400;color: white;background: #FFAB0B;padding: 4px;" class="text-center">We display multiple posts each in a bootstrap carousel, that is we display multiple images using the matrix table.</p>
+              <div class="pointer" style=" width: 0; height: 0; border-left: 20px solid transparent;border-top: 20px solid #C27C00;"></div>
+  
+        </div>
+      <i id="third-pointer" class="fas fa-map-marker-alt fa-4x"></i>
+
+
+      <div id="third-pointer-hover">
+              
+              <p style="font-size: 10px;height: auto;width: 131px;font-weight: 400;color: white;background: #FFAB0B;padding: 4px;" class="text-center">We display multiple posts each in a bootstrap carousel, that is we display multiple images using the matrix table.</p>
+              <div class="pointer" style=" width: 0; height: 0; border-right: 20px solid transparent;border-top: 20px solid #C27C00;float:right"></div>
+  
+        </div>
+      <i id="fourth-pointer" class="fas fa-map-marker-alt fa-4x ok"></i>
+
+
+      <div id="fourth-pointer-hover">
+              
+              <p style="font-size: 10px;height: auto;width: 237px;font-weight: 400;color: white;background: #FFAB0B;padding: 4px;" class="text-center">We display multiple posts each in a bootstrap carousel, that is we display multiple images using the matrix table.</p>
+              <div class="pointer" style=" width: 0; height: 0; border-left: 20px solid transparent;border-top: 20px solid #C27C00;"></div>
+  
+        </div>
+   
+
+
+
+
+
+
+
+
+
+ 
+        
+      
+      
+      
+      
+      
+      
+      
+      </div>
       </div>
     </div>
     <div class="row relay-row pt-5">
@@ -489,23 +541,21 @@
   </div>
 </section>
 
-<div class=" portfolio1 section-block"  style="background-image: url('img/new-img/portfolio-back.jpg');" id="talk">
+<div class=" portfolio1 section-block"  style="background: #fff" id="talk ">
   <div class="container">
     <div class="section-heading text-center">
-      <h3 class="semi-bold">PORTFOLIO </h3>
-      <!-- <div class="section-heading-line line-thin"></div> -->
-     
+      <h3 class="semi-bold font-size-30" style="color: black">PORTFOLIO </h3>
+      <div class="section-heading-line line-thin"></div>
     </div>
+    <div class="owl-carousel owl-theme customizable-carousel mt-40" data-loop="true" data-items="2" data-md-items="2" data-sm-items="1" data-xs-items="1" data-space="15" data-autoplay="true" data-autospeed="3500" data-nav-dots="false" data-nav-arrows="true">
 
-    
-    <div class="owl-carousel owl-theme customizable-carousel mt-40" data-loop="true" data-items="3" data-md-items="3" data-sm-items="2" data-xs-items="1" data-space="15" data-autoplay="true" data-autospeed="3500" data-nav-dots="false" data-nav-arrows="true">
       <div class="item"> <img src="img/new-img/portfolio-img.jpg" alt="img"> </div>
-      <div class="item"> <img src="img/new-img/portfolio-img3.jpg" alt="img"> </div>
+      <!-- <div class="item"> <img src="img/new-img/portfolio-img3.jpg" alt="img"> </div> -->
       <div class="item"> <img src="img/new-img/portfolio-img4.jpg" alt="img"> </div>
       <div class="item"> <img src="img/new-img/s1.png" alt="img"> </div>
       <div class="item"> <img src="img/new-img/s2.png" alt="img"> </div>
      
-    <!--   <div class="item"> <img src="img/new-img/s4.png" alt="img"> </div> -->
+      <div class="item"> <img src="img/new-img/s4.png" alt="img"> </div>
      
       <div class="item"> <img src="img/new-img/s6.png" alt="img"> </div>
       <div class="item"> <img src="img/new-img/s7.png" alt="img"> </div>
@@ -517,15 +567,16 @@
         <div class="item"> <img src="img/new-img/s3.png" alt="img"> </div>
       <div class="item"> <img src="img/new-img/s12.jpg" alt="img"> </div>
        <div class="item"> <img src="img/new-img/s5.png" alt="img"> </div>
+
     </div>
-    
- 
   </div>
 </div>
+
+
 <div class="talk section-block talk-bg" >
   <div class="container">
     <div class="section-heading text-center">
-      <h3 class="semi-bold font-size-30 text-center"  style="color: black;padding-left:10%">LET'S TALK</h3>
+      <h3 class="semi-bold font-size-30 text-center"  style="color: black;padding-left:8%">LET'S TALK</h3>
       <div class="section-heading-line line-thin" style="color: #8DF284"></div>
       <!-- <div class="section-heading-line line-thin"></div> -->
      
@@ -539,13 +590,13 @@
             <div id="check1"></div>
           <div class="row">
             <div class="col-sm-6 col-12">
-              <input type="text" name="name" id="name" placeholder="First Name*">
+              <input class="inp" type="text" name="name" id="name" placeholder="First Name*">
             </div>
             <div class="col-sm-6 col-12">
-              <input type="text" name="phone" id="phone" placeholder="Contact Number*" maxlength="10" minlength="10"> 
+              <input class="inp" type="text" name="phone" id="phone" placeholder="Contact Number*" maxlength="10" minlength="10"> 
             </div>
             <div class="col-sm-6 col-12">
-              <input type="email" name="email" id="email" placeholder="Email*">
+              <input class="inp" type="email" name="email" id="email" placeholder="Email*">
             </div>
             <div class="col-sm-6 col-12">
               <button type="submit" name="submit" value="send" id="btn_submit" class="button-md button-primary" style="border-radius: 310px">REQUEST A CALL<span><i class="fas fa-arrow-right"></i></span></button>

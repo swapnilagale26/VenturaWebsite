@@ -122,10 +122,10 @@ a:hover {
 .talk i {
   margin-left: 10px;
 }
-.portfolio1 .section-heading h3:before,
+/* .portfolio1 .section-heading h3:before,
 .portfolio1 .section-heading h3:after {
   border-top: 2px solid #fff;
-}
+} */
 .about-us {
   background: #fff;
   border-radius: 0;
@@ -300,11 +300,13 @@ a:hover {
   color: #fff;
 }
 .talk-bg {
-  background-color: #f1f5f4;
+  background-color: #fff;
 }
 .talk input {
   padding-left: 15px;
+  border: 1px solid;
 }
+
 .talk button {
   margin: 15px 0;
   background-color: #283891;
@@ -675,7 +677,7 @@ a:hover {
     padding-bottom: 0;
 }*/
 .portfolio1 .item img {
-  height: 250px;
+  height: 350px;
 }
 .open-button {
   background-color: #172990;
@@ -2182,3 +2184,126 @@ transform-style: preserve-3d;
   position: absolute;
   z-index: 99;
 }
+
+#first-pointer{
+  cursor: pointer;
+  left: 16%;
+  bottom: 60%;
+  max-width:100%;
+  height:auto;
+  color: #F0A61B;
+  position: absolute;
+  z-index: 99;
+}
+
+#second-pointer{
+  cursor: pointer;
+  left: 67%;
+  bottom: 68%;
+  max-width:100%;
+  height:auto;
+  color: #F0A61B;
+  position: absolute;
+  z-index: 99;
+}
+
+#third-pointer{
+  cursor: pointer;
+  left: 84%;
+  bottom: 52%;
+  max-width:100%;
+  height:auto;
+  color: #F0A61B;
+  position: absolute;
+  z-index: 99;
+}
+
+#fourth-pointer{
+  cursor: pointer;
+  left: 45%;
+  bottom: 36%;
+  max-width:100%;
+  height:auto;
+  color: #F0A61B;
+  position: absolute;
+  z-index: 99;
+}
+
+
+
+/* #first-pointer:hover + .front-pointer #first-pointer-hover{
+display: block;
+} */
+
+
+#first-pointer-hover{
+  left: 12%;
+  bottom: 67.5%;
+  display: none;
+  max-width:100%;
+  height:auto;
+  color: #F0A61B;
+  position: absolute;
+  z-index: 99;
+}
+
+#first-pointer:hover + #first-pointer-hover{ 
+  display: block;
+  }
+
+#second-pointer:hover + #second-pointer-hover{ 
+  display: block;
+  }
+
+#third-pointer:hover + #third-pointer-hover{ 
+    display: block;
+    }
+
+#fourth-pointer:hover + #fourth-pointer-hover{ 
+      display: block;
+      }
+
+#second-pointer-hover{
+  left: 62%;
+  bottom: 75%;
+  display: none;
+  max-width:100%;
+  height:auto;
+  color: #F0A61B;
+  position: absolute;
+  z-index: 99;
+}
+
+#third-pointer-hover{
+  left: 75%;
+  bottom: 61%;
+  display: none;
+  max-width:100%;
+  height:auto;
+  color: #F0A61B;
+  position: absolute;
+  z-index: 99;
+}
+
+#fourth-pointer-hover{
+  left: 40.5%;
+  bottom: 43%;
+  display: none;
+  max-width:100%;
+  height:auto;
+  color: #F0A61B;
+  position: absolute;
+  z-index: 99;
+}
+
+
+/* lets talk*/
+
+
+
+
+::placeholder {
+  color: black;
+  opacity: 1; /* Firefox */
+}
+
