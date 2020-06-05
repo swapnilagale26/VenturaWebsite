@@ -195,17 +195,17 @@
 </script>
 
 <footer>
-  <div class="footer-1 " style="background-image: url('img/new-img/footer-back1.jpg')">
+  <div class="footer-1 " style="background: #272E51;">
     <div class="container">
       <div class="row">
-          <div class="col-md-4 col-sm-6 col-12">
+          <div class="col-md-6 col-sm-6 col-12">
           <h2>VENTURA INDIA</h2>
           
           <ul class="footer-news mt-25">
             <li><div class="media">
               <i class="fas fa-map-marker-alt"></i>
               <div class="media-body">
-                <p>Ventura Digital Technologies India LLP, Vistar Shubharambh, Balewadi, Pune - 411045 INDIA</p>
+                <p style="width:60%">Ventura Digital Technologies India LLP, Vistar Shubharambh, Balewadi, Pune - 411045 INDIA</p>
               </div>
             </div></li>
             <li><div class="media">
@@ -222,7 +222,7 @@
               </div></li>
           </ul>
         </div>
-        <div class="col-md-4 col-sm-6 col-12">
+        <!-- <div class="col-md-4 col-sm-6 col-12">
           <h2>RECENT POST</h2>
           <div class="row mt-25">
             <div class="col-md-12 col-sm-6" style="line-height: 35px;">
@@ -232,13 +232,13 @@
                 <li><a href="#">How to leverage video learning in the corporate workplace</a></li>
                 <li><a href="#">Best practices for converting ILT to eLearning</a></li>
               </ul>
-              <!-- <a href="https://api.whatsapp.com/send?phone=919529925142&text=Hello%20Ventura%20E-Learning,%20Please%20let%20me%20know%20more%20about%20Analytics,%20Finance%20and%20technology%20offerings" class="btn whatsapp"> <i class="fab fa-whatsapp"></i> WhatsApp <i class="fas fa-arrow-right"></i></a> -->
+              <a href="https://api.whatsapp.com/send?phone=919529925142&text=Hello%20Ventura%20E-Learning,%20Please%20let%20me%20know%20more%20about%20Analytics,%20Finance%20and%20technology%20offerings" class="btn whatsapp"> <i class="fab fa-whatsapp"></i> WhatsApp <i class="fas fa-arrow-right"></i></a>
             </div>
          
           </div>
-        </div>
+        </div> -->
         
-        <div class="col-md-4 col-sm-6 col-12">
+        <div class="col-md-6 col-sm-6 col-12">
           <h2>QUICK LINKS</h2>
           <div class="row mt-25">
             <div class="col-lg-4  col-md-4  col-sm-6">
@@ -247,8 +247,8 @@
                 <li><a href="career.php">Careers </a></li>
 				   <li><a href="#"  data-toggle="modal" data-target="#exampleModal">Schedule Call</a></li>
                 <li><a href="privacypolicy.php">Privacy Policy</a></li>
-                <li style="margin-top: 20px; font-size:20px" ><a href="https://www.facebook.com/venturapune/" style="font-size: 20px" target="_blank"><i class="fab fa-facebook"></i></a><a href="https://in.linkedin.com/company/ventura_technologies" style="margin-left:10px;font-size: 20px" target="_blank"><i class="fab fa-linkedin"></i></a> <a href="https://www.youtube.com/channel/UCg90U3cuSLJnqjJun4YE0nQ" style="margin-left:4px;font-size: 20px" target="_blank"><i class="fab fa-youtube"></i></a></li>
-                <li><a href="https://www.instagram.com/venturatechpune/" style="font-size: 20px" target="_blank"><i class="fab fa-instagram"></i></a><a href="https://api.whatsapp.com/send?phone=919529925142&text=Hello%20Ventura%20E-Learning,%20Please%20let%20me%20know%20more%20about%20Analytics,%20Finance%20and%20technology%20offerings" style="margin-left:10px; font-size: 20px" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
+                <li style="margin-top: 20px; font-size:20px" ><a href="https://www.facebook.com/venturapune/" style="font-size: 20px" target="_blank"><i class="fab fa-facebook"></i></a><a href="https://in.linkedin.com/company/ventura_technologies" style="margin-left:10px;font-size: 20px" target="_blank"><i class="fab fa-linkedin"></i></a> <a href="https://www.youtube.com/channel/UCg90U3cuSLJnqjJun4YE0nQ" style="margin-left:4px;font-size: 20px" target="_blank"><i class="fab fa-youtube"></i></a><a href="https://www.instagram.com/venturatechpune/" style="margin-left: 10px;font-size: 20px" target="_blank"><i class="fab fa-instagram"></i></a><a href="https://api.whatsapp.com/send?phone=919529925142&text=Hello%20Ventura%20E-Learning,%20Please%20let%20me%20know%20more%20about%20Analytics,%20Finance%20and%20technology%20offerings" style="margin-left:10px; font-size: 20px" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
+                
               </ul>
       </div>
      

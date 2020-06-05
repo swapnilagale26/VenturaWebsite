@@ -316,9 +316,11 @@ a:hover {
 .testmonials .section-heading p {
   color: #eee;
   font-weight: 400;
+  font-size: 23px;
 }
 .testmonials .testmonial-box .testmonial-item p:before {
   content: "“";
+  /* background-image: url(./img/testmonials.png) ; */
   display: block;
   font-size: 90px;
   color: #979797;
@@ -331,7 +333,7 @@ a:hover {
   font-size: 14px;
   color: #eeeeeef2;
   line-height: 1.7;
-  font-weight: 300;
+  font-weight: 400;
   margin-bottom: 15px;
 }
 /*.testmonials .testmonial-box:before
@@ -384,7 +386,7 @@ a:hover {
   border-top: 0;
   padding: 15px 0px;
   margin-top: 35px;
-  background: #051424;
+  background: #202746;
 }
 .footer-1 {
   background-size: cover;
@@ -595,13 +597,14 @@ a:hover {
 }
 .testmonials .testmonial-box .testmonial-item p:before {
   content: "“";
+  /* background-image: url(./img/testmonials.png) ; */
   display: block;
   font-size: 140px;
-  color: #27368d;
+  color: #fff;
   font-weight: 600;
   height: 45px;
-  transform: translateY(-50px);
-  font-family: "Poppins", sans-serif !important;
+  transform: translateY(-80px);
+  font-family: "Elephant", Elephant !important;
 }
 .footer-nav1 li {
   list-style-type: disc;

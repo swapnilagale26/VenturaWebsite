@@ -524,8 +524,9 @@
 </div>
 <div class="talk section-block talk-bg" >
   <div class="container">
-    <div class="section-heading text-left">
-      <h3 class="semi-bold">LET'S TALK</h3>
+    <div class="section-heading text-center">
+      <h3 class="semi-bold font-size-30 text-center"  style="color: black;padding-left:10%">LET'S TALK</h3>
+      <div class="section-heading-line line-thin" style="color: #8DF284"></div>
       <!-- <div class="section-heading-line line-thin"></div> -->
      
     </div>
@@ -557,11 +558,11 @@
     </div>
   </div>
 </div>
-<div class="testmonials section-block" style="background-image: url('img/new-img/testmonials-back.png')">
+<div class="testmonials section-block" style="background: #2C2AB0;">
   <div class="container">
     <div class="section-heading text-center">
-      <h3 class="semi-bold" style="color:white">TESTMONIALS</h3>
-     <!--  <div class="section-heading-line"></div> -->
+      <h3 class="semi-bold font-size-30" style="color:white">TESTMONIALS</h3>
+      <div class="section-heading-line"></div>
       <p>What Clients Say About Us</p>
     </div>
     <div class="row">
