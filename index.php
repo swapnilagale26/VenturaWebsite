@@ -28,25 +28,25 @@
 <div class="quick-link">
 
   <div class="row mt-0 pt-0">
-    <div class="col-sm-3 sub-links" style="background-color:#2F74D9;height: 300px; padding: 32px; font-size:22px;color: white">
-    <a href="" style="color: white">WHAT WE DO</a><br><br>
+    <div class="col-sm-3 sub-links">
+    <a href="" >WHAT WE DO</a><br><br>
     <span style="font-size: 14px">Before we start developing any content, we analyse the current situation.</span><br><br>
-    <a href="https://www.facebook.com/venturapune/" style="font-size: 20px;color:white" target="_blank"><img src="./img/quick_links_arrrow.png" style="width:40px"></img></a></div>
+    <a href="" style="font-size: 20px;color:white" target="_blank"><img src="./img/quick_links_arrrow.png" style="width:40px"></img></a></div>
 
     <div class="col-sm-3 sub-links" style="background-color:#628FED;">
-    <a href="" style="color: white">EXPERTISE</a><br><br>
+    <a href="" >EXPERTISE</a><br><br>
     <span style="font-size: 14px">Before we start developing any content, we analyse the current situation.</span><br><br>
-    <a href="https://www.facebook.com/venturapune/" style="font-size: 20px;color:white" target="_blank"><img src="./img/quick_links_arrrow.png" style="width:40px"></img></a></div>
+    <a href="" style="font-size: 20px;color:white" target="_blank"><img src="./img/quick_links_arrrow.png" style="width:40px"></img></a></div>
 
     <div class="col-sm-3 sub-links" style="background-color:#5FEF95;">
-    <a href="" style="color: white">ABOUT US</a><br><br>
+    <a href="" >ABOUT US</a><br><br>
     <span style="font-size: 14px">Before we start developing any content, we analyse the current situation.</span><br><br>
-    <a href="https://www.facebook.com/venturapune/" style="font-size: 20px;color:white" target="_blank"><img src="./img/quick_links_arrrow.png" style="width:40px"></img></a></div>
+    <a href="" style="font-size: 20px;color:white" target="_blank"><img src="./img/quick_links_arrrow.png" style="width:40px"></img></a></div>
 
     <div class="col-sm-3 sub-links" style="background-color:#EFD95F;">
-    <a href="" style="color: white">NEWS</a>
+    <a href="" >NEWS</a>
     <br><br><span style="font-size: 14px">Before we start developing any content, we analyse the current situation.</span><br><br>
-    <a href="https://www.facebook.com/venturapune/" style="font-size: 20px;color:white" target="_blank"><img src="./img/quick_links_arrrow.png" style="width:40px"></img></a></div> 
+    <a href="" style="font-size: 20px;color:white" target="_blank"><img src="./img/quick_links_arrrow.png" style="width:40px"></img></a></div> 
   </div>
 </div>
 
@@ -75,7 +75,7 @@
           </div>
         
           <a href="#" class="mt-25" data-target="#exampleModal" style="border: transparent;
-    background: transparent;">Read More <img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
+    background: transparent;font-size: 14px;">Read More <img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
         </div>
         <div class="col-md-6 col-sm-6 col-12"><img src="img/COSTUM-LEARNING.png" class=" service-img" alt="img"></div>
     </div>
@@ -100,7 +100,7 @@
           </div>
         
           <a href="#" class="mt-25" data-target="#exampleModal" style="border: transparent;
-    background: transparent;">Read More <img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
+    background: transparent;font-size: 14px;">Read More <img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
         </div>
       
       </div>
@@ -498,24 +498,6 @@
   
         </div>
    
-
-
-
-
-
-
-
-
-
- 
-        
-      
-      
-      
-      
-      
-      
-      
       </div>
       </div>
     </div>
@@ -541,16 +523,16 @@
   </div>
 </section>
 
-<div class=" portfolio1 section-block"  style="background: #fff" id="talk ">
+<!-- <div class=" portfolio1 section-block"  style="background: #fff" id="talk ">
   <div class="container">
     <div class="section-heading text-center">
       <h3 class="semi-bold font-size-30" style="color: black">PORTFOLIO </h3>
       <div class="section-heading-line line-thin"></div>
     </div>
-    <div class="owl-carousel owl-theme customizable-carousel mt-40" data-loop="true" data-items="2" data-md-items="2" data-sm-items="1" data-xs-items="1" data-space="15" data-autoplay="true" data-autospeed="3500" data-nav-dots="false" data-nav-arrows="true">
+    <div class="owl-carousel owl-theme customizable-carousel mt-40" data-loop="true" data-items="2" data-md-items="2" data-sm-items="1" data-xs-items="1" data-space="15" data-autoplay="true" data-autospeed="3500" data-nav-dots="true" data-nav-arrows="true">
 
       <div class="item"> <img src="img/new-img/portfolio-img.jpg" alt="img"> </div>
-      <!-- <div class="item"> <img src="img/new-img/portfolio-img3.jpg" alt="img"> </div> -->
+      <div class="item"> <img src="img/new-img/portfolio-img3.jpg" alt="img"> </div>
       <div class="item"> <img src="img/new-img/portfolio-img4.jpg" alt="img"> </div>
       <div class="item"> <img src="img/new-img/s1.png" alt="img"> </div>
       <div class="item"> <img src="img/new-img/s2.png" alt="img"> </div>
@@ -570,7 +552,171 @@
 
     </div>
   </div>
+</div> -->
+
+<div class="testmonials section-block">
+  <div class="container">
+    <div class="section-heading text-center">
+      <h3 class="semi-bold font-size-30" style="color:black">PORTFOLIO</h3>
+      <div class="section-heading-line"></div>
+
+    </div>
+    <div class="row">
+      <div class="owl-carousel owl-theme testmonials-carousel">
+        <div class="testmonial-box">
+        
+         <div class="testmonial-item">
+         <div> <img src="img/new-img/s9.png" alt="img"> </div>
+           
+              <!-- <span class="testmonial-name"> Jamel Ahmed 
+              </span><br>
+              <span class="test-prof">Director, Learning Programs</span> -->
+          </div>
+        </div>
+        <div class="testmonial-box">
+         
+           <div class="testmonial-item">
+           <div> <img src="img/new-img/s2.png" alt="img"> </div>
+            <!-- <span class="testmonial-name"> didier brackx 
+            </span><br>
+            <span class="test-prof">eLearning Project Manager</span> -->
+          </div>
+        </div>
+        <div class="testmonial-box">
+        
+          <div class="testmonial-item">
+          <div> <img src="img/new-img/s3.png" alt="img"> </div>
+           
+              <!-- <span class="testmonial-name"> Jamel Ahmed 
+              </span><br>
+              <span class="test-prof">Director, Learning Programs</span> -->
+          </div>
+        </div>
+        <div class="testmonial-box">
+        
+          <div class="testmonial-item">
+          <div> <img src="img/new-img/s4.png" alt="img"> </div>
+           
+              <!-- <span class="testmonial-name"> Jamel Ahmed 
+              </span><br>
+              <span class="test-prof">Director, Learning Programs</span> -->
+          </div>
+        </div>
+        <div class="testmonial-box">
+        
+          <div class="testmonial-item">
+          <div> <img src="img/new-img/portfolio-img.jpg" alt="img"> </div>
+           
+             <!--  <span class="testmonial-name"> Jamel Ahmed 
+              </span><br>
+              <span class="test-prof">Director, Learning Programs</span> -->
+          </div>
+        </div>
+        <div class="testmonial-box">
+        
+          <div class="testmonial-item">
+          <div> <img src="img/new-img/s8.png" alt="img"> </div>
+           
+             <!--  <span class="testmonial-name"> Jamel Ahmed 
+              </span><br>
+              <span class="test-prof">Director, Learning Programs</span> -->
+          </div>
+        </div>
+        <div class="testmonial-box">
+        
+          <div class="testmonial-item">
+          <div> <img src="img/new-img/s5.png" alt="img"> </div>
+           
+              <!-- <span class="testmonial-name"> Jamel Ahmed 
+              </span><br>
+              <span class="test-prof">Director, Learning Programs</span> -->
+          </div>
+        </div>
+        <div class="testmonial-box">
+        
+          <div class="testmonial-item">
+          <div> <img src="img/new-img/s7.png" alt="img"> </div>
+           
+             <!--  <span class="testmonial-name"> Jamel Ahmed 
+              </span><br>
+              <span class="test-prof">Director, Learning Programs</span> -->
+          </div>
+        </div>
+        <div class="testmonial-box">
+        
+          <div class="testmonial-item">
+          <div> <img src="img/new-img/portfolio-img3.jpg" alt="img"> </div>
+           
+             <!--  <span class="testmonial-name"> Jamel Ahmed 
+              </span><br>
+              <span class="test-prof">Director, Learning Programs</span> -->
+          </div>
+        </div>
+        <div class="testmonial-box">
+        
+          <div class="testmonial-item">
+          <div> <img src="img/new-img/portfolio-img4.jpg" alt="img"> </div>
+           
+             <!--  <span class="testmonial-name"> Jamel Ahmed 
+              </span><br>
+              <span class="test-prof">Director, Learning Programs</span> -->
+          </div>
+        </div>
+        
+        <div class="testmonial-box">
+        
+          <div class="testmonial-item">
+          <div> <img src="img/new-img/s1.png" alt="img"> </div>
+           
+             <!--  <span class="testmonial-name"> Jamel Ahmed 
+              </span><br>
+              <span class="test-prof">Director, Learning Programs</span> -->
+          </div>
+        </div>
+        <div class="testmonial-box">
+        
+          <div class="testmonial-item">
+          <div> <img src="img/new-img/s11.jpg" alt="img"> </div>
+           
+             <!--  <span class="testmonial-name"> Jamel Ahmed 
+              </span><br>
+              <span class="test-prof">Director, Learning Programs</span> -->
+          </div>
+        </div>
+        <div class="testmonial-box">
+        
+          <div class="testmonial-item">
+          <div> <img src="img/new-img/s10.png" alt="img"> </div>
+           
+             <!--  <span class="testmonial-name"> Jamel Ahmed 
+              </span><br>
+              <span class="test-prof">Director, Learning Programs</span> -->
+          </div>
+        </div>
+        <div class="testmonial-box">
+        
+          <div class="testmonial-item">
+          <div> <img src="img/new-img/s12.jpg" alt="img"> </div>
+           
+             <!--  <span class="testmonial-name"> Jamel Ahmed 
+              </span><br>
+              <span class="test-prof">Director, Learning Programs</span> -->
+          </div>
+        </div>
+      </div>
+          <div class="container-fluid" style="z-index:9999">
+              <div class="row">
+                <div class="col-12">
+              <a href="#" class="mt-25 p-readm" data-target="#exampleModal">Veiw All <img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a>
+                </div>
+              </div>
+          </div>
+    </div>
+  </div>
 </div>
+
+
+
 
 
 <div class="talk section-block talk-bg" >
@@ -692,6 +838,10 @@
     </div>
   </div>
 </div>
+
+
+
+
 
 <script>
   

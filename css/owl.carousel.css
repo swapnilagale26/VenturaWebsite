@@ -180,7 +180,7 @@
   .owl-theme .owl-nav [class*='owl-'] {
     color: #FFF;
     font-size: 14px;
-    margin: 5px;
+    margin: -70px 5px 5px 5px;
     padding: 4px 7px;
     background: #D6D6D6;
     display: inline-block;

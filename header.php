@@ -20,6 +20,7 @@
 <link rel="stylesheet" type="text/css" href="css/styles-2.css" id="main_styles">
 <link rel="stylesheet" href="css/custom.css">
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Elephant&display=swap" rel="stylesheet">
 
 </head>
 <body>

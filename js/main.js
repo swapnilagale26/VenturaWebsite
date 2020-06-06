@@ -112,7 +112,7 @@ $(document).ready(function() {
         smartSpeed: 850,
         responsiveClass: true,
         nav:true,
-        navText: ["<i class='fas fa-arrow-left'></i>","<i class='fas fa-arrow-right'></i>"],
+        navText: ["<i class='ti-angle-left fa-4x' style='font-size: 40px;color: #848484;'></i>","<i class='ti-angle-right fa-4x'style='font-size: 40px;color: #848484;'></i>"],
         responsive: {
             0: {
                 items: 1,
@@ -128,7 +128,7 @@ $(document).ready(function() {
             },
             1000: {
                 items: 2,
-                dots: false,
+                dots: true,
                 margin: 0,
             }
         }

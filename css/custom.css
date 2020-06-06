@@ -429,7 +429,7 @@ a:hover {
   border-color: #007bff;
   margin-top: 0;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 900px) {
   .about-us-section {
     padding: 0;
     padding-top: 20px;
@@ -440,13 +440,13 @@ a:hover {
   }
   .background-shape {
     position: absolute;
-    /* background: #1c2e83bf; */
+    background: #1c2e83bf;
     height: 100%;
     width: 100%;
     content: "";
     top: -196px;
     left: 520px;
-    transform: rotate(57deg);
+    transform: rotate(10deg);
     transform-origin: left top;
     padding: 1000px;
   }
@@ -565,6 +565,7 @@ a:hover {
   border-top: 4px solid #283891;
 }
 
+
 @media only screen and (min-width: 768px) {
   .head1 .tp-parallax-wrap {
     left: 90px !important;
@@ -619,11 +620,11 @@ a:hover {
   color: #283891;
 }
 .testmonials .owl-next {
-  border: 1px solid #fff;
+  border: 0px solid transparent;
   background: transparent !important;
 }
 .testmonials .owl-prev {
-  border: 1px solid #fff;
+  border: 0px solid transparent;
   background: transparent !important;
 }
 .testmonials i {
@@ -2022,8 +2023,9 @@ transform-style: preserve-3d;
   border: 1px solid #1614A8;
 }
 .services a:hover {
+  font-weight: 600;
   background: transparent;
-  color: #222222de;
+  color: #182C9F;
   border-radius: 310px;
 }
 /* .services .service-img {
@@ -2161,12 +2163,15 @@ transform-style: preserve-3d;
 }
 
 .sub-links{
-  height: 300px; 
-  padding: 25px; 
-  font-size:22px;
-  color: white
+  background-color:#2F74D9;height: 300px; padding: 32px; font-size:22px;color: white;
+}
+.sub-links a{
+  color: #fff;
 }
 
+.sub-links a:hover{
+  color: #182C9F;
+}
 /* rely-on-us Section */
 
 .main-responsive-div{
@@ -2307,3 +2312,14 @@ display: block;
   opacity: 1; /* Firefox */
 }
 
+/*portfolio read more*/
+
+.p-readm{
+  border: transparent;
+            background: transparent;font-size: 16px;float: right;
+    margin-top: -40px;
+}
+
+.p-readm:hover{
+  color: #1614A8;
+}
