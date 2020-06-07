@@ -450,6 +450,23 @@ a:hover {
     transform-origin: left top;
     padding: 1000px;
   }
+
+  .background-shape1 {
+    position: absolute;
+    background: #1c2e83bf;
+    height: 100%;
+    width: 104%;
+    content: "";
+    top: -196px;
+    /* left: 520px; */
+    right: 0px;
+    transform: rotate(0deg);
+    transform-origin: left top;
+    padding: 348px;
+  }
+
+
+
   .rev_slider_wrapper {
     height: 350px !important;
   }
@@ -1290,7 +1307,7 @@ transform-style: preserve-3d;
   font-weight: 550;
 }
 .top-head-section h3 {
-  text-align: center;
+  /* text-align: center; */
   color: #fff;
   font-size: 50px;
   letter-spacing: 1px;
@@ -1301,8 +1318,9 @@ transform-style: preserve-3d;
   font-size: 18px;
 }
 .top-head-section {
-  padding: 350px;
-  height: 800px;
+  padding: 160px 0px 0px 49px;
+  height: 500px;
+}
 }
 .career-section {
   padding: 60px;

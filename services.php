@@ -1,6 +1,7 @@
 <?php include('header.php');?><!-- img/new-img/services/wave1.jpg -->
-<div class="top-head-section section-block-grey background-center "  style="background-image: url('img/slider/career-back2.jpg');background-size:cover;background-position: bottom;">
-  <div class="container">
+<div class="top-head-section section-block-grey background-center "  style="background-image: url('img/slider/career-back2.jpg');">
+<div class="background-shape1"></div>
+  <div class="container-fluid">
     <div class="row">
       <div class="col-md-12">
         <h3>Expertise</h3>
@@ -8,8 +9,8 @@
     </div>
   </div>
 </div>
-<section class=" services-tabs">
-	<div class="container">
+<section class=" services-tabs mt-25">
+	<div class="container-fluid">
 		<div class="table-responsive">
 		<table class="table">
 		  <thead>
