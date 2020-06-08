@@ -435,6 +435,10 @@ a:hover {
     padding-top: 20px;
     border-radius: 0;
   }
+
+
+
+
   .background-shape.bs-right {
     left: -3%;
   }
@@ -457,7 +461,7 @@ a:hover {
     height: 100%;
     width: 104%;
     content: "";
-    top: -196px;
+    top: 89px;
     /* left: 520px; */
     right: 0px;
     transform: rotate(0deg);
@@ -1313,9 +1317,11 @@ transform-style: preserve-3d;
   letter-spacing: 1px;
 }
 .top-head-section p {
-  text-align: center;
-  color: #fff;
-  font-size: 18px;
+  /* text-align: center; */
+  color: #000;
+  font-size: 22px;
+  font-weight: 300;
+  width:450px;
 }
 .top-head-section {
   padding: 160px 0px 0px 49px;
@@ -1646,6 +1652,25 @@ transform-style: preserve-3d;
   background-size: cover;
   width: 100%;
 }
+
+@media only screen and (max-width: 990px) {
+  .top-head-section {
+    padding: 160px 0px 0px 49px;
+height: 304px;
+margin-top: -19px;
+}
+.top-head-section h3 {
+  font-size: 34px;
+  margin-top: -87px;
+}
+.top-head-section p {
+  font-size: 18px;
+  width:300px
+}
+}
+
+
+
 @media only screen and (max-width: 767px) {
   .privacypolicy {
     padding: 10px;
@@ -1667,11 +1692,29 @@ transform-style: preserve-3d;
     line-height: 27px;
   }
   .top-head-section {
-    padding: 45px 10px;
+    padding: 160px 0px 0px 49px;
+    height: 304px;
+    margin-top: -19px;
   }
   .top-head-section h3 {
-    font-size: 34px;
+    font-size: 30px;
+    margin-top: -110px;
   }
+  .top-head-section p {
+    font-size: 14px;
+    width:200px
+  }
+
+  .allservices{
+    border-bottom: 3px solid transparent !important;
+  
+  }
+
+  .allservices:active{
+    border-bottom: 3px solid red;
+  
+  }
+
   .career-section {
     padding: 10px;
     padding-top: 20px;
@@ -2017,7 +2060,21 @@ transform-style: preserve-3d;
 .services-tabs table tr th {
   vertical-align: middle;
   text-align: center;
+  border-bottom: 3px solid transparent;
 }
+
+.line-bottom{
+  background-color: transparent;
+  width: 130px;
+}
+
+.services-tabs table tr th:hover + #line-bottom{
+  background: #FFBA35;
+}
+.services-tabs table tr th:hover + .services-tabs h6{
+  font-weight: 600;
+}
+
 .services-tabs img {
   width: 55px;
 }
@@ -2027,6 +2084,10 @@ transform-style: preserve-3d;
   letter-spacing: 1px;
   margin-top: 10px;
 }
+.services-tabs h6:hover {
+   font-weight: 600;
+}
+
 .services-tabs {
   padding: 25px;
 }
@@ -2036,16 +2097,19 @@ transform-style: preserve-3d;
   font-size: 16px;
 }
 .services a {
-  background: #1614A8;
+  background: white;
   border-radius: 310px;
+  font-size: 16px;
+  color: #1614A8;
   border: 1px solid #1614A8;
 }
 .services a:hover {
   font-weight: 600;
-  background: transparent;
-  color: #182C9F;
+  background: #1614A8;
+  color: white;
   border-radius: 310px;
 }
+
 /* .services .service-img {
   border: 1px solid #80808026;
 } */
@@ -2188,7 +2252,7 @@ transform-style: preserve-3d;
 }
 
 .sub-links a:hover{
-  color: #182C9F;
+  font-size: 25px;
 }
 /* rely-on-us Section */
 
@@ -2334,10 +2398,31 @@ display: block;
 
 .p-readm{
   border: transparent;
-            background: transparent;font-size: 16px;float: right;
-    margin-top: -40px;
+  background: transparent;
+  font-size: 16px;
+  float: right;
+  margin-top: -40px;
 }
 
 .p-readm:hover{
+  font-size: 18px;
   color: #1614A8;
+}
+
+#readm{
+  font-size: 14px;
+}
+
+#readm:hover{
+  color: #1614A8;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.next_arrow{
+  width:40px;
+}
+
+.next_arrow:hover{
+  width:50px;
 }

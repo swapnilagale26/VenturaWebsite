@@ -31,22 +31,22 @@
     <div class="col-sm-3 sub-links">
     <a href="" >WHAT WE DO</a><br><br>
     <span style="font-size: 14px">Before we start developing any content, we analyse the current situation.</span><br><br>
-    <a href="" style="font-size: 20px;color:white" target="_blank"><img src="./img/quick_links_arrrow.png" style="width:40px"></img></a></div>
+    <a href="" style="font-size: 20px;color:white" target="_blank"><img class="next_arrow" src="./img/quick_links_arrrow.png" ></img></a></div>
 
     <div class="col-sm-3 sub-links" style="background-color:#628FED;">
     <a href="" >EXPERTISE</a><br><br>
     <span style="font-size: 14px">Before we start developing any content, we analyse the current situation.</span><br><br>
-    <a href="" style="font-size: 20px;color:white" target="_blank"><img src="./img/quick_links_arrrow.png" style="width:40px"></img></a></div>
+    <a href="" style="font-size: 20px;color:white" target="_blank"><img class="next_arrow" src="./img/quick_links_arrrow.png" ></img></a></div>
 
     <div class="col-sm-3 sub-links" style="background-color:#5FEF95;">
     <a href="" >ABOUT US</a><br><br>
     <span style="font-size: 14px">Before we start developing any content, we analyse the current situation.</span><br><br>
-    <a href="" style="font-size: 20px;color:white" target="_blank"><img src="./img/quick_links_arrrow.png" style="width:40px"></img></a></div>
+    <a href="" style="font-size: 20px;color:white" target="_blank"><img class="next_arrow" src="./img/quick_links_arrrow.png" ></img></a></div>
 
     <div class="col-sm-3 sub-links" style="background-color:#EFD95F;">
     <a href="" >NEWS</a>
     <br><br><span style="font-size: 14px">Before we start developing any content, we analyse the current situation.</span><br><br>
-    <a href="" style="font-size: 20px;color:white" target="_blank"><img src="./img/quick_links_arrrow.png" style="width:40px"></img></a></div> 
+    <a href="" style="font-size: 20px;color:white" target="_blank"><img class="next_arrow" src="./img/quick_links_arrrow.png" ></img></a></div> 
   </div>
 </div>
 
@@ -74,10 +74,10 @@
            
           </div>
         
-          <a href="#" class="mt-25" data-target="#exampleModal" style="border: transparent;
-    background: transparent;font-size: 14px;">Read More <img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
+          <a href="services.php#cl" class="mt-25 readm" data-target="#exampleModal" style="border: transparent;
+    background: transparent;" id="readm">Read More <img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
         </div>
-        <div class="col-md-6 col-sm-6 col-12"><img src="img/COSTUM-LEARNING.png" class=" service-img" alt="img"></div>
+        <div class="col-md-6 col-sm-6 col-12"><img src="img/video/gd.gif" class="service-img" alt="img"></div>
     </div>
   </div>
 </section>
@@ -85,7 +85,7 @@
 <section class="services" id="service1">
   <div class="container">
     <div class="row">
-      <div class="col-md-6 col-sm-6 col-12"><img src="img/MOBILE-LEARNING.png" class=" service-img" alt="img"></div>
+      <div class="col-md-6 col-sm-6 col-12"><img src="img/video/ml.gif" class=" service-img" alt="img"></div>
       <div class="col-md-6 col-sm-6 col-12">
         <div class="pl-45-md" style="margin-top: 20%">
           <div class="section-heading text-left mt-5">
@@ -99,13 +99,13 @@
            
           </div>
         
-          <a href="#" class="mt-25" data-target="#exampleModal" style="border: transparent;
-    background: transparent;font-size: 14px;">Read More <img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
+          <a href="services.php#service1" class="mt-25 readm" data-target="#exampleModal" style="border: transparent;
+    background: transparent;" id="readm">Read More <img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
         </div>
       
       </div>
       <div class="link text-center" style="margin-top:60px">
-                  <a href="services.php#service1" class="btn button-primary" style="padding-left: 30px;padding-right: 30px;">View All</a>
+                  <a href="services.php" class="btn button-primary" style="padding-left: 30px;padding-right: 30px;">View All</a>
                 </div>
     </div>
    
@@ -284,7 +284,7 @@
 
       <p class="font-size-20"style="font-weight: 300;color:white;padding:30px">Our founders believe that any workplace can operate at its full efficiency only when the workforce is well equipped with the required skill sets and continued learning opportunities</p>
       <div class="text-center" style="margin-top:60px">
-                  <a href="services.php#service1" class=" readmore btn button-primary" style="padding-left: 30px;padding-right: 30px;">Read More</a>
+                  <a href="services.php#service1" class=" readmore btn button-primary " style="padding-left: 30px;padding-right: 30px;">Read More</a>
                 </div>
     </div>
 </div>
