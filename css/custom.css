@@ -1536,15 +1536,16 @@ transform-style: preserve-3d;
 
 .why-join-us h4 {
   font-size: 16px;
-  min-height: 50px;
-  font-weight: 550;
-  color: #343a40;
+  min-height: 30px;
+  font-weight: 400;
+  color: black;
   line-height: 22px;
 }
 .why-join-us p {
-  color: #222222c7;
+  color: black;
   line-height: 25px;
   font-size: 13px;
+  font-weight: 400;
 }
 .why-join-us .section-heading {
   margin-bottom: 55px;
@@ -2181,13 +2182,16 @@ margin-top: -19px;
 /* .expertise .service-block-2-content {
 } */
 .why-join-us img {
-  font-size: 28px;
-  background: #283891;
-  padding: 10px;
-  color: #fff;
-  border-radius: 50px;
-  margin-bottom: 15px;
-  width: 60px;
+    /* background: #283891; */
+    padding: 10px;
+    /* color: #fff; */
+    /* border-radius: 50px; */
+    padding: 15px;
+    padding-top: 0px;
+    margin-bottom: 15px;
+    width: 100%;
+    height: 100%;
+
 }
 .whatsapp {
   border: 1px solid #2a3ead;
@@ -2425,4 +2429,89 @@ display: block;
 
 .next_arrow:hover{
   width:50px;
+}
+
+/* Career page*/
+
+.open-positions{
+  padding: 0px 0px 80px 0px;
+
+}
+
+.open-positions p{
+  margin-top: 15px;
+  color: black;
+  font-size: 20px;
+}
+
+.above-border{
+  margin-top: 25px;
+  width: auto;
+  border-top: 1px solid;
+}
+
+.job-heading{
+  margin-top: 25px;
+  margin-bottom: 25px;
+  color: #000;
+}
+
+.job-designation{
+  font-weight: 400;
+  font-size: 25px;
+  color: #000;
+}
+
+.job-experince{
+  font-size: 18px;
+  margin-top: 10px;
+  color: #000;
+}
+
+.job-code{
+  font-size: 18px;
+  margin-top: 15px;
+  color: #000;
+  margin-bottom: 25px;
+}
+
+.job-data p{
+  margin-top: 15px;
+  color: black;
+  font-weight: 400;
+  font-size:14px
+}
+
+.apply{
+  border-radius: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background: #1614A8;
+}
+
+.job-description{
+  display: none;
+}
+
+.jd{
+  color: #1614A8;
+}
+
+.jd:hover{
+cursor: pointer;
+color: black;
+font-size: 38px;
+}
+
+.va{
+  background-color: #1614A8;
+}
+
+#viewall{
+  background-color: #1614A8;
+  color: white;
+}
+
+#viewall:hover{
+  background-color: #222;
 }

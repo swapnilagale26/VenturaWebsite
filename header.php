@@ -58,12 +58,12 @@
     </div>
     <div class="nav-menus-wrapper">
       <ul class="nav-menu align-to-right">
-        <li><a href="index.php#about_us">Know Ventura</a></li>
-        <li><a href="services.php">Expertise</a></li>
-        <li><a href="index.php#relay-on-us">Portfolio</a></li> 
-        <li><a href="#">Resources</a></li>
-        <li><a href="career.php">Careers</a></li>
-        <li class="linkHeader"><a href="#" class="btn btn1" style="height: 30px;width: 100px;padding: 0px;margin-top: 10px;">Let's Talk</a></li>
+        <li><a href="index.php#about_us">KNOW VENTURA</a></li>
+        <li><a href="services.php">EXPERTISE</a></li>
+        <li><a href="portfolio.php">PORTFOLIO</a></li> 
+        <li><a href="#">RESOURCES</a></li>
+        <li><a href="career.php">CAREERS</a></li>
+        <li class="linkHeader"><a href="#" class="btn btn1" style="height: 30px;width: 115px;padding: 0px;margin-top: 10px;">LET'S TALK</a></li>
       </ul>
     </div>
   </nav>

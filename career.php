@@ -1,270 +1,187 @@
 <?php include('header.php');?>
-
-<div class="top-head-section section-block-grey background-center "  style="background-image: url('img/slider/career-back2.jpg');background-size:cover;">
-  <div class="container">
+<div class="top-head-section section-block-grey background-center "  style="background-image: url('img/slider/careers.png');">
+<!-- <div class="background-shape1"></div> -->
+  <div class="container-fluid">
     <div class="row">
       <div class="col-md-12">
-        <h3>Careers</h3>
+        <h3 style="color: black; text-transform: uppercase;">careers</h3>
+      <div class="section-heading-line line-thin" style="color: #8DF284; margin-left:0px;width:160px"></div>
+      <p>Join us and be assureed of a career that is both, stimulating and exciting.</p>
+
+
       </div>
     </div>
   </div>
 </div>
-<div class="career-main-div  section-block grey-bg background-center background-no-repeat background-contain" style="background-image: url('img/content/bgs/bg2.png');">
-<section class="career-section">
-  <div class="container">
-    <div class="row ">
-      <div class="col-md-12">
-        <p>Join us and be assured of a career that is both, stimulating and exciting. Our friendly, performance-oriented work culture gives you the flexibility to think creatively and learn collectively, while our open–door culture encourages expression of ideas. We give you the opportunity to learn and grow with us. Are you ready to seize it?</p>
-      </div>
-    </div>
+<!-- <div class="breadcrumb-section jarallax pixels-bg" data-jarallax data-speed="0.6">
+  <div class="container text-center">
+    <h1>Portfolio Boxed Grid</h1>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="#">Pages</a></li>
+      <li><a href="portfolio-boxed-grid.html">Portfolio Boxed Grid</a></li>
+    </ul>
   </div>
-</section>
-<section class="career">
+</div> -->
+<div class="container mt-30">
+<p class="font-size-15 text-center"style="font-weight: 400;color:black;padding-left:20px;padding-right-20px">Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder, came on board to lead the Sales and Marketing efforts.Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder.</p>
+</div>
+<section class="career mt-80">
   <div class="container">
     <div class="section-heading text-center">
-      <h3 class="semi-bold">OPEN POSITIONS</h3>
+    <h3 class="semi-bold font-size-30" style="color: black">OPEN POSITIONS </h3>
+      <div class="section-heading-line line-thin"></div>
       <!-- <div class="section-heading-line line-thin"></div> -->
       <!-- <p>EMPOWERING ORGANIZATIONS THROUGH IMPACTFUL LEARNING EXPERIENCES</p> -->
     </div>
-    <div class="row vaccuncies">
-      <div class="col-md-12">
-    <div id="logo-slider">
-      <button class='arrow prev'></button>
-      <button class='arrow next'></button>
-      <div class="logo-slider-frame">
-
-      <div class="logo-slider-item">
-        <a href="JavaScript:Void(0)"class=" tablinks" onclick="openCity(event, 'p1')">
-        <div class="logo-slider-inset career1" style="background-image: url('img/id-lead.jpg');background-size:cover;">
-            <h4 class="post-head">Sr. Instructional Designer</h4>
-              <div class="bottom-text">
-                <div class="posCode ">Job Code ‒ Sr.ID</div>
-                <div class="posNum">1 Positions</div>
-              </div>
-        </div>
-         </a>
-      </div>
-
-      <div class="logo-slider-item">
-        <a href="JavaScript:Void(0)"class=" tablinks " onclick="openCity(event, 'p2')">
-
-        <div class="logo-slider-inset career2" style="background-image: url('img/id.jpg');background-size:cover;">
-          
-            <h4 class="post-head">Instructional Designers</h4>
-              <div class="bottom-text">
-                <div class="posCode ">Job Code ‒  ID</div>
-                <div class="posNum">2 Positions</div>
-              </div>
-           
-        </div>
-        </a>
-      </div>
-
-      <div class="logo-slider-item">
-        <a href="JavaScript:Void(0)"class=" tablinks " onclick="openCity(event, 'p3')">
-        <div class="logo-slider-inset career3" style="background-image: url('img/video-animator.jpg');background-size:cover;">
-          
-            <h4 class="post-head">Video Animator</h4>
-              <div class="bottom-text">
-                <div class="posCode ">VA</div>
-                <div class="posNum">2 Positions</div>
-              </div>
-          
-        </div>
-        </a>
-      </div>
-
-
-      <div class="logo-slider-item">
-        <a href="JavaScript:Void(0)"class=" tablinks " onclick="openCity(event, 'p4')">
-        <div class="logo-slider-inset career4" style="background-image: url('img/story.jpg');background-size:cover;">
-          
-            <h4 class="post-head">Storyline Developers</h4>
-              <div class="bottom-text">
-                <div class="posCode ">SD</div>
-                <div class="posNum">2 Positions</div>
-              </div>
-           
-        </div>
-        </a>
-      </div>
-
-      <div class="logo-slider-item">
-        <a href="JavaScript:Void(0)"class=" tablinks " onclick="openCity(event, 'p5')">
-        <div class="logo-slider-inset career5" style="background-image: url('img/captivate.jpg');background-size:cover;">
-          
-            <h4 class="post-head">Captivate Developer</h4>
-              <div class="bottom-text">
-                <div class="posCode ">Job Code ‒ CD</div>
-                <div class="posNum">2 Positions</div>
-              </div>
-           
-        </div>
-      </a>
-      </div>
-
-      <div class="logo-slider-item career6">
-        <a href="JavaScript:Void(0)"class=" tablinks " onclick="openCity(event, 'p6')">
-        <div class="logo-slider-inset" style="background-image: url('img/quality.jpg');background-size:cover;" >
-          
-            <h4 class="post-head">Sr. Quality Analyst</h4>
-              <div class="bottom-text">
-                <div class="posCode ">Job Code ‒ Sr. QA</div>
-                <div class="posNum">1 Positions</div>
-              </div>
-           
-        </div>
-         </a>
-      </div>
-
-    </div>
-    
-    </div>
   </div>
-</div>
-      <div class="row post-desc">
-        <div class="col-lg-10 offset-lg-1 col-md-10 offset-md-1 col-sm-12">
-          <div class="inner-div tabcontent " id="p1">
-            <div class="postname">
-              <h4>Sr. Instructional Designer</h4>
-              <span>Job Code ‒ Sr. ID</span>
-            </div>
-            <div class="main-div">
-                <div class="inner-div1">
-                  <h5>Experience:</h5>
-                  <p>6 - 8 Years</p>
-                </div>
-                 <div class="inner-div1">
-                  <h5>Position: </h5>
-                  <p>1</p>
-                </div>
-               <!--  <div class="inner-div1">
-                  <h5>Education:</h5>
-                  <p>Any Graduate. A Degree / Diploma / Certificate in Journalism or Mass Communication or English Literature or Instructional Design / Instructional Technology or Education is an added bonus or preference</p>
-                </div> -->
-                <!-- <div class="inner-div1">
-                  <h5>Skills:</h5>
-                  <p>Excellent English Language – Written and Oral; Strong Content Analysis and Grasping Capability; Creativity; Meticulousness; Project and Process Planning and Monitoring; Reviewing; Very good working knowledge of MS Word, MS PowerPoint, and MS Excel; At least 3-4 years of experience in instructional designing; Ability to implement instructional design theories and models; Ability to interact with clients and SMEs; Ability to lead a team of instructional designers on a project.</p>
-                </div> -->
-              <!-- <div class="inner-div1">
-                    <h5>Job Description:</h5>
-                    <ul>
-                      <li><p>To lead teams of instructional designers on multiple project and plan, co-ordinate, and monitor instructional design tasks on these projects.</p></li>
-                      <li><p>To provide guidance, feedback, and training to all members of the Instructional Design team<p></li>
-                        <li><p>To review instructional design approaches, blueprints, and storyboards.</p></li>
-                      <li><p>To carry out organizational (non-project) tasks such as writing for the company website/newsletter and project portfolio.<p></li>
-                        <li><p>To work on all instructional design tasks for demos.</p></li>
-                      <li><p>To support project / business managers in communication related to (new) clients or projects.<p></li>
-                        <li><p>To establish functional and project-specific processes and procedures by creating, revising, and reviewing training material, guidelines, checklists, templates, etc, and training team members on the same.</p></li>
-                      <li><p>To provide guidance, feedback, and training to all members of the Instructional Design team<p></li>
-                      
-                    </ul>
-                  </div> -->
-                  <span>To apply for this position, mail your details to <a href="">careers@ventura.</a>com with the Job Code mentioned in the subject line.</span>
-            </div>
-          </div> 
-          <div class="inner-div tabcontent" id="p2">
-            <div class="postname">
-              <h4>Instructional Designers</h4>
-              <span>Job Code ‒ ID</span>
-            </div>
-            <div class="main-div">
-                <div class="inner-div1">
-                  <h5>Experience:</h5>
-                  <p>3-5 years</p>
-                </div>
-                <div class="inner-div1">
-                  <h5>Position:</h5>
-                  <p>2</p>
-                </div>
-                
-                  <span>To apply for this position, mail your details to <a href="">careers@ventura.</a>com with the Job Code mentioned in the subject line.</span>
-            </div>
-          </div>
-          <div class="inner-div tabcontent" id="p3">
-            <div class="postname">
-              <h4>Video Animator</h4>
-              <span>Job Code ‒ VA</span>
-            </div>
-            <div class="main-div">
-                <div class="inner-div1">
-                  <h5>Experience:</h5>
-                  <p>3-5 years</p>
-                </div>
-                <div class="inner-div1">
-                  <h5>Position:</h5>
-                  <p>2</p>
-                </div>
-               
-                  <span>To apply for this position, mail your details to <a href="">careers@ventura.</a>com with the Job Code mentioned in the subject line.</span>
-            </div>
-          </div>
-              <div class="inner-div tabcontent" id="p4">
-            <div class="postname">
-              <h4>Storyline Developers</h4>
-              <span>Job Code ‒  GD</span>
-            </div>
-            <div class="main-div">
-                <div class="inner-div1">
-                  <h5>Experience:</h5>
-                  <p>3 - 5 Years</p>
-                </div>
-                 <div class="inner-div1">
-                  <h5>Position:</h5>
-                  <p>2</p>
-                </div>
-                
-                
-            
-                  <span>To apply for this position, mail your details to <a href="">careers@ventura.</a>com with the Job Code mentioned in the subject line.</span>
-            </div>
-          </div>
-          <div class="inner-div tabcontent" id="p5">
-            <div class="postname">
-              <h4>Captivate Developer</h4>
-              <span>Job Code ‒ CD</span>
-            </div>
-            <div class="main-div">
-                <div class="inner-div1">
-                  <h5>Experience:</h5>
-                  <p>3-5 years</p>
-                </div>
-                <div class="inner-div1">
-                  <h5>Position:</h5>
-                  <p>2</p>
-                </div>
-            
-                  <span>To apply for this position, mail your details to <a href="">careers@ventura.</a>com with the Job Code mentioned in the subject line.</span>
-            </div>
-          </div> 
-          <div class="inner-div tabcontent" id="p6">
-            <div class="postname">
-              <h4>Sr. Quality Analyst</h4>
-              <span>Job Code ‒ Sr. QA</span>
-            </div>
-            <div class="main-div">
-                <div class="inner-div1">
-                  <h5>Experience:</h5>
-                  <p>3 - 5 Years</p>
-                </div>
-                <div class="inner-div1">
-                  <h5>Position:</h5>
-                  <p>1</p>
-                </div>
-                  <span>To apply for this position, mail your details to <a href="">careers@ventura.</a>com with the Job Code mentioned in the subject line.</span>
-            </div>
-          </div>
-      </div>
-    </div>
-  
-  </div>
-  
 </section>
-<section class="life-at">
-  <div class="container">
+
+<section class="open-positions">
+<div class="container">
+
+<div class="position-section mt-25">
+<h3 class="semi-bold font-size-30 jd"  id="jd1">Sr. Instructional Designer<h3>
+<p>Experince: 6 - 8 years  |  Position: 1</p>
+<p style="font-size:16px">To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p>
+</div>
+
+<div class="job-description" id="job-description1">
+  <div class="above-border"></div>
+  <div class="job-heading semi-bold font-size-25">Job Desciption</div>
+  <div class="job-designation">Sr. Instructional Designer</div>
+  <div class="job-experince">Experince: 6 - 8 years  |  Position: 1</div>
+  <div class="job-code">Job Code - ID</div>
+  <div class="job-data">
+  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder, came on board to lead the Sales and Marketing efforts.Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder.</p>
+
+  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design</p> 
+  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design</p> 
+  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design</p>
+  
+  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna.</p> 
+
+  <p>To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p> 
+  <button type="submit" name="submit" value="send" id="btn_submit" class="button-md button-primary mt-25 apply">Apply</button>
+  
+  </div>
+  
+</div>
+
+
+
+<div class="position-section mt-80">
+<h3 class="semi-bold font-size-30 jd"  id="jd2">Instructional Designers<h3>
+<p>Experience: 3-5 years  |  Position: 2</p>
+<p style="font-size:16px">To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p>
+</div>
+
+<div class="job-description" id="job-description2">
+  <div class="above-border"></div>
+  <div class="job-heading semi-bold font-size-25">Job Desciption</div>
+  <div class="job-designation">Instructional Designers</div>
+  <div class="job-experince">Experience: 3-5 years  |  Position: 2</div>
+  <div class="job-code">Job Code - ID</div>
+  <div class="job-data">
+  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder, came on board to lead the Sales and Marketing efforts.Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder.</p>
+
+  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design</p> 
+  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design</p> 
+  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design</p>
+  
+  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna.</p> 
+
+  <p>To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p> 
+  <button type="submit" name="submit" value="send" id="btn_submit" class="button-md button-primary mt-25 apply">Apply</button>
+  
+  </div>
+  
+</div>
+
+
+<div class="position-section mt-80">
+<h3 class="semi-bold font-size-30 jd"  id="jd3">Video Animator<h3>
+<p>Experience: 3-5 years  |  Position: 2</p>
+<p style="font-size:16px">To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p>
+</div>
+
+<div class="job-description" id="job-description3">
+  <div class="above-border"></div>
+  <div class="job-heading semi-bold font-size-25">Job Desciption</div>
+  <div class="job-designation">Video Animator</div>
+  <div class="job-experince">Experience: 3-5 years  |  Position: 2</div>
+  <div class="job-code">Job Code - VD</div>
+  <div class="job-data">
+  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder, came on board to lead the Sales and Marketing efforts.Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder.</p>
+
+  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design</p> 
+  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design</p> 
+  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design</p>
+  
+  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna.</p> 
+
+  <p>To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p> 
+  <button type="submit" name="submit" value="send" id="btn_submit" class="button-md button-primary mt-25 apply">Apply</button>
+  
+  </div>
+  
+</div>
+
+
+
+<div class="position-section mt-80">
+<h3 class="semi-bold font-size-30 jd" id="jd4">Storyline Developers<h3>
+<p>Experience: 3-5 years  |  Position: 2</p>
+<p style="font-size:16px">To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p>
+</div>
+
+<div class="job-description" id="job-description4">
+  <div class="above-border"></div>
+  <div class="job-heading semi-bold font-size-25">Job Desciption</div>
+  <div class="job-designation">Storyline Developers</div>
+  <div class="job-experince">Experience: 3-5 years  |  Position: 2</div>
+  <div class="job-code">Job Code - GD</div>
+  <div class="job-data">
+  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder, came on board to lead the Sales and Marketing efforts.Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder.</p>
+
+  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design</p> 
+  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design</p> 
+  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design</p>
+  
+  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna.</p> 
+
+  <p>To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p> 
+  <button type="submit" name="submit" value="send" id="btn_submit" class="button-md button-primary mt-25 apply">Apply</button>
+  
+  </div>
+  
+</div>
+
+
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="life-at" style="background: #F3F3F3">
     <div class="section-heading text-center">
-        <h3 class="semi-bold">LIFE AT VENTURA TECHNOLOGIES</h3>
-        <!-- <div class="section-heading-line line-thin"></div> -->
+        <h3 class="semi-bold font-size-30" style="color: black;padding-top:40px">LIFE AT VENTURA TECHNOLOGIES</h3>
+        <div class="section-heading-line line-thin"></div>
         <!-- <p>EMPOWERING ORGANIZATIONS THROUGH IMPACTFUL LEARNING EXPERIENCES</p> -->
       </div>
       <div class="row">
@@ -317,30 +234,47 @@
 <section class="why-join-us">
   <div class="container">
     <div class="section-heading text-center">
-        <h3 class="semi-bold">WHY JOIN US</h3>
+        <h3 class="semi-bold font-size-30" style="color: black;padding-top:40px">WHY JOIN US</h3>
+        <div class="section-heading-line line-thin"></div>
         <!-- <div class="section-heading-line line-thin"></div> -->
         <!-- <p>EMPOWERING ORGANIZATIONS THROUGH IMPACTFUL LEARNING EXPERIENCES</p> -->
       </div>
       <div class="row">
-        <div class="col-lg-3 col-md-6 col-sm-12">
-          <div class="why-join">
-            <img src="img/food.png">
-         
+            
+            <img class="col-md-1 col-4 mb-30" src="img/Portfolio/recog.png">
+            <div class="col-md-5 col-8 mb-30">
             <h4>Enjoy recognition</h4>
             <p>We are small-scale and hence every team member is an important part of the organisation. Contribute to the success of the company together with us!</p>
-          </div>
-        </div>
+            </div>
+            
         
-        <div class="col-lg-3 col-md-6 col-sm-12">
-          <div class="why-join">
-        
-             <img src="img/train.png">
-       
+
+           
+            <img class="col-md-1 col-4 mb-30" src="img/Portfolio/train.png">
+            <div class="col-md-5 col-8 mb-30">
             <h4>Offsite Trainings</h4>
             <p>We believe learning is a continuous process and an important one to be competitive.Enjoy offsite trainings and team bonding time twice a year.</p>
-          </div>
+            </div>
+            
+
+            
+            <img class="col-md-1 col-4 mb-30" src="img/Portfolio/leaves.png">
+            <div class="col-md-5 col-8 mb-30">
+            <h4>Leaves and Holidays</h4>
+            <p>We believe in work-life balance. We offer 8 paid leaves and 10 public holidays a year and encourage employees to plan vacations to rejuvenate.</p>
+            </div>
+            
+
+
+            
+            <img class="col-md-1 mb-30 col-4" src="img/Portfolio/wfh.png">
+            <div class="col-md-5 mb-30 col-8">
+            <h4>Work From Home</h4>
+            <p>We understand this is the need of the hour as everyone is playing multiple roles in their life. Enjoy flexibility at work with our 'Work From Home' policy</p>
+            </div>
+            
         </div>
-        <div class="col-lg-3 col-md-6 col-sm-12">
+        <!-- <div class="col-lg-3 col-md-6 col-sm-12">
           <div class="why-join">
              <img src="img/holidays.png">
          
@@ -354,7 +288,7 @@
             <h4>Work From Home</h4>
             <p>We understand this is the need of the hour as everyone is playing multiple roles in their life. Enjoy flexibility at work with our 'Work From Home' policy</p>
           </div>
-        </div>
+        </div> -->
         
       </div>
   </div>
@@ -537,9 +471,9 @@
 </div>
 </section> -->
 </div> 
-<section   class="single-img  section-block grey-bg background-center background-no-repeat background-contain" style="background-image: url('img/new-img/career1.jpg');">
+<!-- <section   class="single-img  section-block grey-bg background-center background-no-repeat background-contain" style="background-image: url('img/new-img/career1.jpg');">
   
-</section>
+</section> -->
 <!-- Button trigger modal -->
 <!-- Footer -->
 <?php include('footer.php');?>
@@ -612,6 +546,29 @@ defer(function() {
       }
     }); // end on arrow click
     
+    $("#jd1").click(function(){
+      
+      $("#job-description1").slideToggle("slow");
+  });
+
+  $("#jd2").click(function(){
+      
+      $("#job-description2").slideToggle("slow");
+  });
+
+  $("#jd3").click(function(){
+      
+      $("#job-description3").slideToggle("slow");
+  });
+
+  $("#jd4").click(function(){
+      
+      $("#job-description4").slideToggle("slow");
+  });
+
+
+
+
     $(window).on("load resize", function() {
       checkArrows();
       $('#logo-slider .logo-slider-item').each(function(i) {

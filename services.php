@@ -4,7 +4,7 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-12">
-        <h3 style="color: black">Expertise</h3>
+        <h3 style="color: black;text-transform: uppercase;">Expertise</h3>
       <div class="section-heading-line line-thin" style="color: #8DF284; margin-left:0px;width:160px"></div>
       <p>Tailor-made learning experiences to suit your business requirements</p>
 

@@ -105,7 +105,7 @@
       
       </div>
       <div class="link text-center" style="margin-top:60px">
-                  <a href="services.php" class="btn button-primary" style="padding-left: 30px;padding-right: 30px;">View All</a>
+                  <a href="services.php" class="btn button-primary va" id="viewall" style="padding-left: 30px;padding-right: 30px;">View All</a>
                 </div>
     </div>
    
@@ -707,7 +707,7 @@
           <div class="container-fluid" style="z-index:9999">
               <div class="row">
                 <div class="col-12">
-              <a href="#" class="mt-25 p-readm" data-target="#exampleModal">Veiw All <img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a>
+              <a href="portfolio1.php" class="mt-25 p-readm" data-target="#exampleModal">View All <img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a>
                 </div>
               </div>
           </div>
@@ -745,7 +745,7 @@
               <input class="inp" type="email" name="email" id="email" placeholder="Email*">
             </div>
             <div class="col-sm-6 col-12">
-              <button type="submit" name="submit" value="send" id="btn_submit" class="button-md button-primary" style="border-radius: 310px">REQUEST A CALL<span><i class="fas fa-arrow-right"></i></span></button>
+              <button type="submit" name="submit" value="send" id="btn_submit" class="button-md button-primary" >REQUEST A CALL<span><i class="fas fa-arrow-right"></i></span></button>
             </div>
             
           </div>
