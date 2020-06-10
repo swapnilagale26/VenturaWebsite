@@ -284,7 +284,7 @@
 
       <p class="font-size-20"style="font-weight: 300;color:white;padding:30px">Our founders believe that any workplace can operate at its full efficiency only when the workforce is well equipped with the required skill sets and continued learning opportunities</p>
       <div class="text-center" style="margin-top:60px">
-                  <a href="services.php#service1" class=" readmore btn button-primary " style="padding-left: 30px;padding-right: 30px;">Read More</a>
+                  <a href="knowvt.php" class=" readmore btn button-primary " style="padding-left: 30px;padding-right: 30px;">Read More</a>
                 </div>
     </div>
 </div>
@@ -566,7 +566,7 @@
         <div class="testmonial-box">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/s9.png" alt="img"> </div>
+         <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -576,7 +576,7 @@
         <div class="testmonial-box">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/s2.png" alt="img"> </div>
+           <div> <img src="img/new-img/a21.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
@@ -585,7 +585,7 @@
         <div class="testmonial-box">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/s3.png" alt="img"> </div>
+          <div> <img src="img/new-img/a20.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -595,7 +595,7 @@
         <div class="testmonial-box">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/s4.png" alt="img"> </div>
+          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -605,7 +605,7 @@
         <div class="testmonial-box">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/portfolio-img.jpg" alt="img"> </div>
+          <div> <img src="img/new-img/a18.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -615,7 +615,7 @@
         <div class="testmonial-box">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/s8.png" alt="img"> </div>
+          <div> <img src="img/new-img/a17.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -625,7 +625,7 @@
         <div class="testmonial-box">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/s5.png" alt="img"> </div>
+          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -635,7 +635,7 @@
         <div class="testmonial-box">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/s7.png" alt="img"> </div>
+          <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -645,7 +645,7 @@
         <div class="testmonial-box">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/portfolio-img3.jpg" alt="img"> </div>
+          <div> <img src="img/new-img/a14.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -655,7 +655,7 @@
         <div class="testmonial-box">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/portfolio-img4.jpg" alt="img"> </div>
+          <div> <img src="img/new-img/a13.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -666,7 +666,7 @@
         <div class="testmonial-box">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/s1.png" alt="img"> </div>
+          <div> <img src="img/new-img/a12.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -676,7 +676,7 @@
         <div class="testmonial-box">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/s11.jpg" alt="img"> </div>
+          <div> <img src="img/new-img/a11.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -686,23 +686,14 @@
         <div class="testmonial-box">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/s10.png" alt="img"> </div>
+          <div> <img src="img/new-img/a10.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
-        
-          <div class="testmonial-item">
-          <div> <img src="img/new-img/s12.jpg" alt="img"> </div>
-           
-             <!--  <span class="testmonial-name"> Jamel Ahmed 
-              </span><br>
-              <span class="test-prof">Director, Learning Programs</span> -->
-          </div>
-        </div>
+
       </div>
           <div class="container-fluid" style="z-index:9999">
               <div class="row">

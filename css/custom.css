@@ -2515,3 +2515,47 @@ font-size: 38px;
 #viewall:hover{
   background-color: #222;
 }
+
+/* know ventura*/
+
+#tagline{
+  width:490px;
+}
+
+.vision{
+  line-height: 60px;
+  padding:25px
+}
+
+.mission .vision h3{
+  color: #1614A8;
+  font-weight: 400;
+  font-size:26px;
+  line-height: 60px;
+}
+
+.mission .vision p{
+  color: black;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.culture{
+  padding:25px
+}
+
+.mission .culture h3{
+  color: #1614A8;
+  font-weight: 400;
+  font-size:22px;
+  line-height: 60px;
+  width: 88%;
+}
+
+.mission .culture p{
+  color: black;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  width: 88%;
+}

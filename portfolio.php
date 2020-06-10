@@ -30,7 +30,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-4 col-sm-6 col-12">  <!--<a href="#">-->
-        <div class="portolio-boxed"> <img src="img/new-img/portfolio-img.jpg" alt="Avatar" class="image">
+        <div class="portolio-boxed"> <img src="img/new-img/a22.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <!-- <div class="portolio-boxed-content">
               <h3>Dangerous Rocks Kanga</h3>
@@ -40,7 +40,7 @@
         <!-- </a>--> </div>
   
       <div class="col-md-4 col-sm-6 col-12"> <!--<a href="#">-->
-        <div class="portolio-boxed"> <img src="img/new-img/portfolio-img3.jpg" alt="Avatar" class="image">
+        <div class="portolio-boxed"> <img src="img/new-img/a21.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <!-- <div class="portolio-boxed-content">
               <h3>The Bomb Squad</h3>
@@ -49,7 +49,7 @@
         </div>
         <!-- </a>--> </div>
       <div class="col-md-4 col-sm-6 col-12"> <!--<a href="#">-->
-        <div class="portolio-boxed"> <img src="img/new-img/portfolio-img4.jpg" alt="Avatar" class="image">
+        <div class="portolio-boxed"> <img src="img/new-img/a20.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <!-- <div class="portolio-boxed-content">
               <h3>Yellow Moose</h3>
@@ -58,7 +58,7 @@
         </div>
         <!-- </a>--> </div>
       <div class="col-md-4 col-sm-6 col-12"> <!--<a href="#">-->
-        <div class="portolio-boxed"> <img src="img/new-img/s1.png" alt="Avatar" class="image">
+        <div class="portolio-boxed"> <img src="img/new-img/a19.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <!-- <div class="portolio-boxed-content">
               <h3>Pure Panther</h3>
@@ -67,7 +67,7 @@
         </div>
         <!-- </a>--> </div>
       <div class="col-md-4 col-sm-6 col-12"> <!--<a href="#">-->
-        <div class="portolio-boxed"> <img src="img/new-img/s2.png" alt="Avatar" class="image">
+        <div class="portolio-boxed"> <img src="img/new-img/a18.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <!-- <div class="portolio-boxed-content">
               <h3>Lemon Drops</h3>
@@ -76,7 +76,7 @@
         </div>
         <!-- </a>--> </div>
       <div class="col-md-4 col-sm-6 col-12"> <!--<a href="#">-->
-        <div class="portolio-boxed"> <img src="img/new-img/s6.png" alt="Avatar" class="image">
+        <div class="portolio-boxed"> <img src="img/new-img/a17.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <!-- <div class="portolio-boxed-content">
               <h3>Gray Panthers</h3>
