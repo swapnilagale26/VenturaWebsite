@@ -102,7 +102,7 @@
         </div>
 
         <div class="link text-center" style="margin-top: 60px;margin-bottom: 50px;">
-            <a href="services.php" class="btn button-primary va" id="viewall" style="padding-left: 30px;padding-right: 30px;">View All</a>
+            <a href="#" class="btn button-primary va" id="viewall" style="padding-left: 30px;padding-right: 30px;">View All</a>
         </div>
 
     </div> 

@@ -2510,51 +2510,49 @@ display: block;
   background-color: #222;
 }
 
-<<<<<<< HEAD
 /* know ventura*/
 
-#tagline{
-  width:490px;
+#tagline {
+  width: 490px;
 }
 
-.vision{
+.vision {
   line-height: 60px;
-  padding:25px
+  padding: 25px;
 }
 
-.mission .vision h3{
-  color: #1614A8;
+.mission .vision h3 {
+  color: #1614a8;
   font-weight: 400;
-  font-size:26px;
+  font-size: 26px;
   line-height: 60px;
 }
 
-.mission .vision p{
+.mission .vision p {
   color: black;
   font-weight: 400;
   font-size: 20px;
 }
 
-.culture{
-  padding:25px
+.culture {
+  padding: 25px;
 }
 
-.mission .culture h3{
-  color: #1614A8;
+.mission .culture h3 {
+  color: #1614a8;
   font-weight: 400;
-  font-size:22px;
+  font-size: 22px;
   line-height: 60px;
   width: 88%;
 }
 
-.mission .culture p{
+.mission .culture p {
   color: black;
   font-weight: 400;
   font-size: 14px;
   line-height: 20px;
   width: 88%;
 }
-=======
 /* Resource page*/
 .readm1 {
   font-size: 14px;
@@ -2584,4 +2582,3 @@ display: block;
     margin-left: 12%;
   }
 }
->>>>>>> resource-page

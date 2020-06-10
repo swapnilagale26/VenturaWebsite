@@ -718,7 +718,7 @@
         <div class="testmonial-box">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a10.jpg" alt="img"> </div>
+          <div> <img src="img/new-img/a10.jpg" id="talk"  alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -742,7 +742,7 @@
 
 
 
-<div class="talk section-block talk-bg" id="talk">
+<div class="talk section-block talk-bg" >
   <div class="container">
     <div class="section-heading text-center">
       <h3 class="semi-bold font-size-30 text-center"  style="color: black;padding-left:8%">LET'S TALK</h3>
