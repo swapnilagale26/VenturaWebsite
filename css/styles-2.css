@@ -2606,7 +2606,7 @@ a:hover {
   /* background: #cecece; */
   cursor: pointer;
   display: block;
-  border: 1px solid #A4A4A4;
+  border: 1px solid #a4a4a4;
   -webkit-backface-visibility: visible;
   border-radius: 30px;
   -webkit-transition-duration: 0.3s;
@@ -2621,7 +2621,7 @@ a:hover {
 .custom-dot.active span {
   width: 13px;
   height: 13px;
-  background: #1614A8;
+  background: #1614a8;
   -webkit-transition-duration: 0.3s;
   transition-duration: 0.3s;
 }
@@ -7077,9 +7077,9 @@ blockquote {
 .bg-arrows .tparrows:before {
   font-size: 42px;
   font-weight: 100;
-  color: #97A0D5;
+  color: #97a0d5;
 }
-.bg-arrows .tparrows:hover{
+.bg-arrows .tparrows:hover {
   color: #fff;
 }
 .tparrows {
@@ -7194,4 +7194,13 @@ blockquote {
   color: #fff;
   font-size: 13px;
   font-weight: 400;
+}
+
+.imgbox {
+  width: 100%;
+  height: 100%;
+  /* padding: 15px; */
+  margin-top: 40px;
+  margin-bottom: 40px;
+  /* position: relative; */
 }
