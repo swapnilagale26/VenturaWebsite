@@ -61,7 +61,7 @@
         <li><a href="index.php#about_us">KNOW VENTURA</a></li>
         <li><a href="services.php">EXPERTISE</a></li>
         <li><a href="portfolio.php">PORTFOLIO</a></li> 
-        <li><a href="#">RESOURCES</a></li>
+        <li><a href="resources.php">RESOURCES</a></li>
         <li><a href="career.php">CAREERS</a></li>
         <li class="linkHeader"><a href="#" class="btn btn1" style="height: 30px;width: 115px;padding: 0px;margin-top: 10px;">LET'S TALK</a></li>
       </ul>
