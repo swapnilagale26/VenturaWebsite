@@ -718,7 +718,7 @@
         <div class="testmonial-box">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a10.jpg" id="talk"  alt="img"> </div>
+          <div> <img src="img/new-img/a10.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -730,7 +730,7 @@
           <div class="container-fluid" style="z-index:9999">
               <div class="row">
                 <div class="col-12">
-              <a href="portfolio1.php" class="mt-25 p-readm" data-target="#exampleModal">View All <img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a>
+              <a href="portfolio1.php" class="mt-25 p-readm" id="talk" data-target="#exampleModal">View All <img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a>
                 </div>
               </div>
           </div>
