@@ -25,7 +25,7 @@
            
            <th onmouseover="hover2();" onmouseout="unhover2();" scope="col"><a href="#service3"><img img id="resp" src="img/Expertise/rl.png" alt="img"><h6 id="rl">Responsive Learning</h6><div id="line-bottom2" class="section-heading-line line-thin line-bottom" style="width:160px"></div></a></th>
            
-           <th onmouseover="hover3();" onmouseout="unhover3();" scope="col"><a href="#service4"><img img id="id"src="img/Expertise/id.png" alt="img"><h6 id="id">Instructional Design</h6><div id="line-bottom3" class="section-heading-line line-thin line-bottom" style="width:155px"></div></a></th>
+           <th onmouseover="hover3();" onmouseout="unhover3();" scope="col"><a href="#service4"><img img id="id"src="img/Expertise/id.png" alt="img"><h6 id="id1">Instructional Design</h6><div id="line-bottom3" class="section-heading-line line-thin line-bottom" style="width:155px"></div></a></th>
            
            <th onmouseover="hover4();" onmouseout="unhover4();" scope="col"><a href="#service5"><img img id="htm" src="img/Expertise/fl.png" alt="img"><h6 id="fl">Flash to HTML5</h6><div id="line-bottom4" class="section-heading-line line-thin line-bottom" style="width:120px"></div></a></th>
            
@@ -365,14 +365,14 @@ function unhover2(element) {
 
 function hover3(element) {
   document.getElementById("line-bottom3").style.backgroundColor = "#FFBA35";
-  document.getElementById("id").setAttribute('src', 'img/Expertise/id1.png');
-  document.getElementById("id").style.fontWeight = "600";
+  document.getElementById("id1").setAttribute('src', 'img/Expertise/id1.png');
+  document.getElementById("id1").style.fontWeight = "600";
 }
 
 function unhover3(element) {
   document.getElementById("line-bottom3").style.backgroundColor = "transparent";
-  document.getElementById("id").setAttribute('src', 'img/Expertise/id.png');
-  document.getElementById("id").style.fontWeight = "400";
+  document.getElementById("id1").setAttribute('src', 'img/Expertise/id.png');
+  document.getElementById("id1").style.fontWeight = "400";
 }
 
 function hover4(element) {
