@@ -34,25 +34,19 @@
           <h3>Our Culture</h3>
           <p>We believe that organisations have the ability to influence the future of the people associated with them, and contribute to a bigger purpose of enriching the society.<br><br>We are obsessed about our transparent work culture. We love to empower people, offer ample growth opportunities as we grow, and maintain a harmonic work-life balance.</p>
           </div>
+  </div>
+</div>
 
+<div class="team container">
+  <div class="row">
+    <div class="member col-md-4 col-sm-6 col-12">
+      
 
-
-
-
-
-
-
-
-
-
-
-
+    </div>
 
 
   </div>
-
-
-
 </div>
+
 
 <?php include('footer.php');?><!-- img/new-img/services/wave1.jpg -->
