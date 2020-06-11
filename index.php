@@ -109,7 +109,7 @@
           <a href="services.php#cl" class="mt-25 readm" data-target="#exampleModal" style="border: transparent;
     background: transparent;" id="readm">Read More <img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
         </div>
-        <div class="col-md-6 col-sm-6 col-12"><img src="img/video/gd.gif" class="service-img" alt="img"></div>
+        <div class="col-md-6 col-sm-6 col-12"><img src="img/Expertise/illustration1.png" class="service-img" alt="img"></div>
     </div>
   </div>
 </section>
@@ -117,7 +117,7 @@
 <section class="services" id="service1">
   <div class="container">
     <div class="row">
-      <div class="col-md-6 col-sm-6 col-12"><img src="img/video/ml.gif" class=" service-img" alt="img"></div>
+      <div class="col-md-6 col-sm-6 col-12"><img src="img/Expertise/illustration2.png" class=" service-img" alt="img"></div>
       <div class="col-md-6 col-sm-6 col-12">
         <div class="pl-45-md" style="margin-top: 20%">
           <div class="section-heading text-left mt-5">

@@ -1,6 +1,6 @@
 <?php include('header.php');?>
 
-<div class="top-head-section section-block-grey background-center "  style="background-image: url('img/slider/news-back1.jpeg')">
+<div class="top-head-section section-block-grey background-center "  style="background-image: url('img/slider/news-back1.jpeg');background-size: cover;">
   <div class="container">
     <div class="row">
       <div class="col-md-12">

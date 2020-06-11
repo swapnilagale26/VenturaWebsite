@@ -59,7 +59,7 @@ h6 {
   font-weight: 600;
 }
 img {
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
   -webkit-transition-duration: 0.3s;
   transition-duration: 0.3s;

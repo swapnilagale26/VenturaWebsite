@@ -1,5 +1,5 @@
 <?php include('header.php');?>
-<div class="top-head-section section-block-grey background-center "  style="background-image: url('img/slider/resources.jpg');">
+<div class="top-head-section section-block-grey background-center "  style="background-image: url('img/slider/resources.jpg');background-size: cover;">
 <!-- <div class="background-shape1"></div> -->
   <div class="container-fluid">
     <div class="row">
