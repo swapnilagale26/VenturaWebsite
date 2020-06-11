@@ -37,16 +37,89 @@
   </div>
 </div>
 
-<div class="team container">
-  <div class="row">
-    <div class="member col-md-4 col-sm-6 col-12">
-      
-
+<div class="expertisee section-block grey-bg background-center background-no-repeat background-contain" style="background-image: url('img/content/bgs/bg2.png');">
+  <div class="container">
+    <div class="section-heading text-center">
+    <h3 class="semi-bold font-size-30"  style="color: black">OUR TEAM</h3>
+      <div class="section-heading-line line-thin" style="color: #8DF284"></div>
+      <!-- <div class="section-heading-line line-thin"></div> -->
+  
     </div>
-
-
+    <div class="row mt-20">
+      <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+        <div class="service-box-3">
+          <div class="inner">
+            <div class="service-box-3-icon"><!-- <i class="icon-locked-combination-padlock-stroke"></i> --><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
+            <h4>Tushar Agale</h4>
+            <p><span>Senior Instructional Designer</span></p>
+            <p>Amruta Patidar is a learning design practitioner with about 15 years of experience in learning consulting, client account management and capability development</p>
+            <a href="#" class="service-box-3-btn btn">VIEW MORE</a></div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+        <div class="service-box-3">
+          <div class="inner">
+            <div class="service-box-3-icon"><!-- <i class="icon-worldwide"></i> --><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
+            <h4>Aparna Desai</h4>
+            <p><span>Senior Instructional Designer</span></p>
+            <p>Amruta Patidar is a learning design practitioner with about 15 years of experience in learning consulting, client account management and capability development.</p>
+             <a href="#" class="service-box-3-btn btn">VIEW MORE</a></div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+        <div class="service-box-3">
+          <div class="inner">
+            <div class="service-box-3-icon"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
+            <h4>Ashwin Moghe</h4>
+            <p><span>Senior Instructional Designer</span></p>
+            <p>Amruta Patidar is a learning design practitioner with about 15 years of experience in learning consulting, client account management and capability development.</p>
+             <a href="#" class="service-box-3-btn btn">VIEW MORE</a></div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+        <div class="service-box-3">
+          <div class="inner">
+            <div class="service-box-3-icon"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
+            <h4>Amruta patidar</h4>
+            <p><span>Senior Instructional Designer</span></p>
+            <p>Amruta Patidar is a learning design practitioner with about 15 years of experience in learning consulting, client account management and capability development.</p>
+             <a href="#" class="service-box-3-btn btn">VIEW MORE</a></div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+        <div class="service-box-3">
+          <div class="inner">
+            <div class="service-box-3-icon"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
+            <h4>Amit Jadhav</h4>
+            <p><span>Senior Instructional Designer</span></p>
+            <p>Amruta Patidar is a learning design practitioner with about 15 years of experience in learning consulting, client account management and capability development.</p>
+             <a href="#" class="service-box-3-btn btn">VIEW MORE</a></div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+        <div class="service-box-3">
+          <div class="inner">
+            <div class="service-box-3-icon"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
+            <h4>Ruchita Banchpalliwar</h4>
+            <p><span>Senior Instructional Designer</span></p>
+            <p>Amruta Patidar is a learning design practitioner with about 15 years of experience in learning consulting, client account management and capability development.</p>
+             <a href="#" class="service-box-3-btn btn">VIEW MORE</a></div>
+        </div>
+      </div>
+      <div class="col-lg-4 offset-lg-4 col-md-6 offset-md-3 col-sm-12 col-12">
+        <div class="service-box-3">
+          <div class="inner">
+            <div class="service-box-3-icon"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
+            <h4>Prachi Moghe</h4>
+            <p><span>Senior Instructional Designer</span></p>
+            <p>Amruta Patidar is a learning design practitioner with about 15 years of experience in learning consulting, client account management and capability development.</p>
+             <a href="#" class="service-box-3-btn btn">VIEW MORE</a></div>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
+
 
 
 <?php include('footer.php');?><!-- img/new-img/services/wave1.jpg -->

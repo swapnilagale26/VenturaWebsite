@@ -3035,8 +3035,8 @@ owl-next {
 .service-box-3 {
   display: block;
   background: #fff;
-  border-radius: 5px;
-  border: 2px solid transparent;
+  border-radius: 20px;
+  border: 1px solid lightgray;
   box-shadow: 0 20px 30px rgba(0, 0, 0, 0.05);
   padding: 10px;
   margin: 15px 0px;
@@ -3050,7 +3050,7 @@ owl-next {
 }
 .service-box-3 .inner {
   text-align: center;
-  padding: 30px 15px;
+  padding: 40px 15px;
 }
 .service-box-3-icon {
   width: 120px;
@@ -3061,7 +3061,7 @@ owl-next {
   -ms-transform: rotate(45deg);
   -o-transform: rotate(45deg);
   transform: rotate(45deg);
-  background-image: linear-gradient(rgba(210, 24, 37, 0.15), transparent);
+  /* background-image: linear-gradient(rgba(210, 24, 37, 0.15), transparent); */
   margin: auto;
 }
 .service-box-3-icon i {
@@ -3074,11 +3074,12 @@ owl-next {
   font-size: 17px;
   font-weight: 600;
   margin-top: 15px;
+  color: #1614a8;
 }
 .service-box-3 p {
   font-size: 14px;
   color: #999;
-  font-weight: 500;
+  font-weight: 400;
   margin-top: 15px;
 }
 .service-box-3-btn {
@@ -3087,6 +3088,7 @@ owl-next {
   font-size: 14px;
   font-weight: 600;
   margin-top: 20px;
+  display: none;
 }
 .service-box-3-btn i {
   color: #6980ff;

@@ -31,69 +31,87 @@
     <div class="container">
         <div class="row">
            
-                <div class="col-md-4 col-lg-4 col-6 col-sm-6 imgbox">
+                <div class="col-md-6 col-lg-6 col-12  imgbox">
                     <div style="border:1px solid grey;">    
-                        <img src="img/r_1.jpg" alt="Responsive image">
-                        <p style="font-weight: 400;color:black;margin: 10px;">Blog</p>
-                        <hr style="width: 95%;border: 0.2px solid gray;">
-                        <p style="font-weight: 400;color:#182ca0;padding: 8PX;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                        <div style="height:50px;"><a href="" class="readm1" data-target="">Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
-
+                        <img src="img/r_1.jpg" alt="Responsive image" class="min-vh-100">
+                        <div class="innercontent" style="padding:4%">
+                        <div class="service-box-3-icon" style="float:left;width:7%;height: 7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 4, 2020</p></div>
+                        <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:10px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor maximus velit sed accumsan. Pellentesque eu dapibus neque. Morbi pellentesque odio vitae nisl aliquet vulputate. In quis posuere lorem. Morbi accumsan semper convallis. Praesent laoreet finibus mi, </p>
+                        <div><a href="" class="readm1" data-target="">Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
+                        </div>
                     </div>
                 </div>
 
-                <div class="col-md-4 col-lg-4 col-6 col-sm-6 imgbox">
+                <div class="col-md-6 col-lg-6 col-12  imgbox">
                     <div style="border:1px solid grey;">    
-                        <img src="img/r_1.jpg" alt="Responsive image">
-                        <p style="font-weight: 400;color:black;margin: 10px;">Blog</p>
-                        <hr style="width: 95%;border: 0.2px solid gray;">
-                        <p style="font-weight: 400;color:#182ca0;padding: 8PX;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                        <div style="height:50px;"><a href="" class="readm1" data-target="">Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
-
+                        <img src="img/r_1.jpg" alt="Responsive image" class="min-vh-100">
+                        <div class="innercontent" style="padding:4%">
+                        <div class="service-box-3-icon" style="float:left;width:7%;height: 7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 4, 2020</p></div>
+                        <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:10px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor maximus velit sed accumsan. Pellentesque eu dapibus neque. Morbi pellentesque odio vitae nisl aliquet vulputate. In quis posuere lorem. Morbi accumsan semper convallis. Praesent laoreet finibus mi, </p>
+                        <div><a href="" class="readm1" data-target="">Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
+                        </div>
                     </div>
                 </div>
 
-                <div class="col-md-4 col-lg-4 col-6 col-sm-6 imgbox">
+                <div class="col-md-6 col-lg-6 col-12  imgbox">
                     <div style="border:1px solid grey;">    
-                        <img src="img/r_1.jpg" alt="Responsive image">
-                        <p style="font-weight: 400;color:black;margin: 10px;">Blog</p>
-                        <hr style="width: 95%;border: 0.2px solid gray;">
-                        <p style="font-weight: 400;color:#182ca0;padding: 8PX;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                        <div style="height:50px;"><a href="" class="readm1" data-target="">Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
-
+                        <img src="img/r_1.jpg" alt="Responsive image" class="min-vh-100">
+                        <div class="innercontent" style="padding:4%">
+                        <div class="service-box-3-icon" style="float:left;width:7%;height: 7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 4, 2020</p></div>
+                        <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:10px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor maximus velit sed accumsan. Pellentesque eu dapibus neque. Morbi pellentesque odio vitae nisl aliquet vulputate. In quis posuere lorem. Morbi accumsan semper convallis. Praesent laoreet finibus mi, </p>
+                        <div><a href="" class="readm1" data-target="">Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
+                        </div>
                     </div>
                 </div>
 
-                <div class="col-md-4 col-lg-4 col-6 col-sm-6 imgbox">
+                <div class="col-md-6 col-lg-6 col-12  imgbox">
                     <div style="border:1px solid grey;">    
-                        <img src="img/r_1.jpg" alt="Responsive image">
-                        <p style="font-weight: 400;color:black;margin: 10px;">Blog</p>
-                        <hr style="width: 95%;border: 0.2px solid gray;">
-                        <p style="font-weight: 400;color:#182ca0;padding: 8PX;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                        <div style="height:50px;"><a href="" class="readm1" data-target="">Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
-
+                        <img src="img/r_1.jpg" alt="Responsive image" class="min-vh-100">
+                        <div class="innercontent" style="padding:4%">
+                        <div class="service-box-3-icon" style="float:left;width:7%;height: 7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 4, 2020</p></div>
+                        <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:10px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor maximus velit sed accumsan. Pellentesque eu dapibus neque. Morbi pellentesque odio vitae nisl aliquet vulputate. In quis posuere lorem. Morbi accumsan semper convallis. Praesent laoreet finibus mi, </p>
+                        <div><a href="" class="readm1" data-target="">Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
+                        </div>
                     </div>
                 </div>
 
-                <div class="col-md-4 col-lg-4 col-6 col-sm-6 imgbox">
+                <div class="col-md-6 col-lg-6 col-12  imgbox">
                     <div style="border:1px solid grey;">    
-                        <img src="img/r_1.jpg" alt="Responsive image">
-                        <p style="font-weight: 400;color:black;margin: 10px;">Blog</p>
-                        <hr style="width: 95%;border: 0.2px solid gray;">
-                        <p style="font-weight: 400;color:#182ca0;padding: 8PX;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                        <div style="height:50px;"><a href="" class="readm1" data-target="">Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
-
+                        <img src="img/r_1.jpg" alt="Responsive image" class="min-vh-100">
+                        <div class="innercontent" style="padding:4%">
+                        <div class="service-box-3-icon" style="float:left;width:7%;height: 7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 4, 2020</p></div>
+                        <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:10px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor maximus velit sed accumsan. Pellentesque eu dapibus neque. Morbi pellentesque odio vitae nisl aliquet vulputate. In quis posuere lorem. Morbi accumsan semper convallis. Praesent laoreet finibus mi, </p>
+                        <div><a href="" class="readm1" data-target="">Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
+                        </div>
                     </div>
                 </div>
 
-                <div class="col-md-4 col-lg-4 col-6 col-sm-6 imgbox">
+                <div class="col-md-6 col-lg-6 col-12  imgbox">
                     <div style="border:1px solid grey;">    
-                        <img src="img/r_1.jpg" alt="Responsive image">
-                        <p style="font-weight: 400;color:black;margin: 10px;">Blog</p>
-                        <hr style="width: 95%;border: 0.2px solid gray;">
-                        <p style="font-weight: 400;color:#182ca0;padding: 8PX;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                        <div style="height:50px;"><a href="" class="readm1" data-target="">Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
-
+                        <img src="img/r_1.jpg" alt="Responsive image" class="min-vh-100">
+                        <div class="innercontent" style="padding:4%">
+                        <div class="service-box-3-icon" style="float:left;width:7%;height: 7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 4, 2020</p></div>
+                        <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:10px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor maximus velit sed accumsan. Pellentesque eu dapibus neque. Morbi pellentesque odio vitae nisl aliquet vulputate. In quis posuere lorem. Morbi accumsan semper convallis. Praesent laoreet finibus mi, </p>
+                        <div><a href="" class="readm1" data-target="">Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
+                        </div>
                     </div>
                 </div>
           

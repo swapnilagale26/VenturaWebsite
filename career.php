@@ -231,18 +231,18 @@
 </div> 
 
 </section>
-<section class="why-join-us">
+<section class="why-join-us mb-80 mt-80">
   <div class="container">
     <div class="section-heading text-center">
-        <h3 class="semi-bold font-size-30" style="color: black;padding-top:40px">WHY JOIN US</h3>
+        <h3 class="semi-bold font-size-30" style="color: black;">WHY JOIN US</h3>
         <div class="section-heading-line line-thin"></div>
         <!-- <div class="section-heading-line line-thin"></div> -->
         <!-- <p>EMPOWERING ORGANIZATIONS THROUGH IMPACTFUL LEARNING EXPERIENCES</p> -->
       </div>
       <div class="row">
             
-            <img class="col-md-1 col-4 mb-30" src="img/Portfolio/recog.png">
-            <div class="col-md-5 col-8 mb-30">
+            <img class="col-md-1 col-2 mb-30" src="img/Portfolio/recog.png">
+            <div class="col-md-5 col-10 mb-30">
             <h4>Enjoy recognition</h4>
             <p>We are small-scale and hence every team member is an important part of the organisation. Contribute to the success of the company together with us!</p>
             </div>
@@ -250,16 +250,16 @@
         
 
            
-            <img class="col-md-1 col-4 mb-30" src="img/Portfolio/train.png">
-            <div class="col-md-5 col-8 mb-30">
+            <img class="col-md-1 col-2 mb-30" src="img/Portfolio/train.png">
+            <div class="col-md-5 col-10 mb-30">
             <h4>Offsite Trainings</h4>
             <p>We believe learning is a continuous process and an important one to be competitive.Enjoy offsite trainings and team bonding time twice a year.</p>
             </div>
             
 
             
-            <img class="col-md-1 col-4 mb-30" src="img/Portfolio/leaves.png">
-            <div class="col-md-5 col-8 mb-30">
+            <img class="col-md-1 col-2 mb-30" src="img/Portfolio/leaves.png">
+            <div class="col-md-5 col-10 mb-30">
             <h4>Leaves and Holidays</h4>
             <p>We believe in work-life balance. We offer 8 paid leaves and 10 public holidays a year and encourage employees to plan vacations to rejuvenate.</p>
             </div>
@@ -267,8 +267,8 @@
 
 
             
-            <img class="col-md-1 mb-30 col-4" src="img/Portfolio/wfh.png">
-            <div class="col-md-5 mb-30 col-8">
+            <img class="col-md-1 mb-30 col-2" src="img/Portfolio/wfh.png">
+            <div class="col-md-5 mb-30 col-10">
             <h4>Work From Home</h4>
             <p>We understand this is the need of the hour as everyone is playing multiple roles in their life. Enjoy flexibility at work with our 'Work From Home' policy</p>
             </div>

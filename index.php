@@ -60,22 +60,22 @@
 <div class="quick-link">
 
   <div class="row mt-0 pt-0">
-    <div class="col-sm-3 sub-links">
+    <div class="col-md-6 col-lg-3 sub-links">
     <a href="" >Our story</a><br><br>
     <span style="font-size: 14px">Since our inception in 2012, we are on a mission to boost productivity at workplaces</span><br><br>
     <a href="" style="font-size: 20px;color:white" target="_blank"><img class="next_arrow" src="./img/quick_links_arrrow.png" ></img></a></div>
 
-    <div class="col-sm-3 sub-links" style="background-color:#628FED;">
+    <div class="col-md-6 col-lg-3 sub-links" style="background-color:#628FED;">
     <a href="" >What we do</a><br><br>
     <span style="font-size: 14px">Crafting learning experiences that help achieve performance improvements in organisations</span><br><br>
     <a href="resources.php" style="font-size: 20px;color:white" target="_blank"><img class="next_arrow" src="./img/quick_links_arrrow.png" ></img></a></div>
 
-    <div class="col-sm-3 sub-links" style="background-color:#5FEF95;">
+    <div class="col-md-6 col-lg-3 sub-links" style="background-color:#5FEF95;">
     <a href="" >Why us</a><br><br>
     <span style="font-size: 14px">The right-sized team, the right mix of skill sets and the zeal to make an impact = 95% repeat business</span><br><br>
     <a href="" style="font-size: 20px;color:white" target="_blank"><img class="next_arrow" src="./img/quick_links_arrrow.png" ></img></a></div>
 
-    <div class="col-sm-3 sub-links" style="background-color:#EFD95F;">
+    <div class="col-md-6 col-lg-3 sub-links" style="background-color:#EFD95F;">
     <a href="" >Life at Ventura</a>
     <br><br><span style="font-size: 14px">A happy workplace, fostering collaborative and transparent work culture</span><br><br>
     <a href="" style="font-size: 20px;color:white" target="_blank"><img class="next_arrow" src="./img/quick_links_arrrow.png" ></img></a></div> 

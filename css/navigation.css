@@ -1099,8 +1099,8 @@
   /*White Options*/
   #nav-transparent .nav-white-bg {
     background: #fff;
-    border-bottom: 1px solid #eee;
-    box-shadow: 0 0 65px rgba(0, 0, 0, 0.09);
+    /* border-bottom: 1px solid #eee; */
+    box-shadow: 0 0 65px rgba(0.1, 0.1, 0.1, 0.2);
   }
 
   #nav-transparent .nav-white-bg {

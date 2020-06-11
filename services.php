@@ -66,14 +66,14 @@
         
           <a href="#" class="button-md button-primary mt-25" data-toggle="modal" data-target="#exampleModal" id="service2">Tell Me More</a></div>
         </div>
-        <div class="col-md-6 col-sm-6 col-12"><img src="img/Expertise/illustration1.png" class=" service-img" alt="img"></div>
+        <div class="col-md-6 col-sm-6 col-12"><img class="img-margin-change" src="img/Expertise/illustration1.png" class=" service-img" alt="img"></div>
     </div>
   </div>
 </section>
 <section class="services section-block">
   <div class="container">
     <div class="row">
-      <div class="col-md-6 col-sm-6 col-12"><img src="img/Expertise/illustration2.png" class=" service-img" alt="img"></div>
+      <div class="col-md-6 col-sm-6 col-12"><img style="width: 80%" src="img/Expertise/illustration2.png" class=" service-img" alt="img"></div>
       <div class="col-md-6 col-sm-6 col-12">
         <div class="pl-45-md">
           <div class="section-heading text-left mt-5">
@@ -110,14 +110,14 @@
         
           <a href="#" class="button-md button-primary mt-25" data-toggle="modal" data-target="#exampleModal" id="service4">Tell Me More</a></div>
         </div>
-        <div class="col-md-6 col-sm-6 col-12"><img src="img/Expertise/illustration3.png" class=" service-img" alt="img"></div>
+        <div class="col-md-6 col-sm-6 col-12 "><img class="img-margin-change" src="img/Expertise/illustration3.png" class=" service-img" alt="img"></div>
     </div>
   </div>
 </section>
 <section class="services section-block " id="service4">
   <div class="container">
     <div class="row">
-      <div class="col-md-6 col-sm-6 col-12"><img src="img/Expertise/illustration4.png" class=" service-img" alt="img" width="100%"></div>
+      <div class="col-md-6 col-sm-6 col-12"><img style="width: 80%" src="img/Expertise/illustration4.png" class=" service-img" alt="img" width="100%"></div>
       <div class="col-md-6 col-sm-6 col-12">
         <div class="pl-45-md">
           <div class="section-heading text-left mt-5">
@@ -155,14 +155,14 @@
 	    
 	      <a href="#" class="button-md button-primary mt-25" data-toggle="modal" data-target="#exampleModal" id="service6">Tell Me More</a></div>
 	  </div>
-       <div class="col-md-6 col-sm-6 col-12"><img src="img/Expertise/illustration5.png" class=" service-img" alt="img"></div>
+       <div class="col-md-6 col-sm-6 col-12 "><img class="img-margin-change" src="img/Expertise/illustration5.png" class=" service-img" alt="img"></div>
     </div>
   </div>
 </section>
 <section class="services section-block " id="service6">
   <div class="container">
     <div class="row">
-      <div class="col-md-6 col-sm-6 col-12"><img src="img/Expertise/illustration6.png" class=" service-img" alt="img" width="100%"></div>
+      <div class="col-md-6 col-sm-6 col-12"><img style="width: 80%" src="img/Expertise/illustration6.png" class=" service-img" alt="img" width="100%"></div>
       <div class="col-md-6 col-sm-6 col-12">
         <div class="pl-45-md">
           <div class="section-heading text-left mt-5">
@@ -201,7 +201,7 @@
 	    
 	      <a href="#" class="button-md button-primary mt-25" data-toggle="modal" data-target="#exampleModal">Tell Me More</a></div>
 	  </div>
-       <div class="col-md-6 col-sm-6 col-12"><img style="max-width: 80%" src="img/Expertise/illustration7.png" class=" service-img" alt="img"></div>
+       <div class="col-md-6 col-sm-6 col-12 "><img class="img-margin-change" src="img/Expertise/illustration7.png" class=" service-img" alt="img"></div>
     </div>
   </div>
 </section>
