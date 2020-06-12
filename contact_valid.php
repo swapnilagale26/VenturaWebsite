@@ -53,7 +53,7 @@ if($error=="")
         $message_body.="<tr><td>Contact's Mobile Number : </td><td>".$_POST['phone']."</td></tr>";
         $message_body.="</table></body></html>"; 
      
-        $mail->addAddress('aparna@venturatechnologies.in');
+        $mail->addAddress('swapnil@venturatechnologies.in');
        
         $mail->Subject  = 'ventura.com';
         $mail->isHTML(true);

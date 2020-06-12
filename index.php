@@ -894,13 +894,13 @@ function phonenumber(inputtxt)
             var name = $('#name').val();
             var email = $('#email').val();
             var phone = $('#phone').val();
-      var error = false;
-      var flg=1;
+        var error = false;
+        var flg=1;
       
-       var name_regex="^[a-zA-Z\\s]*$";
+        var name_regex="^[a-zA-Z\\s]*$";
         var email_regex =/\b(^(\S+@).+((\.com)|(\.net)|(\.edu)|(\.mil)|(\.gov)|(\.org)|(\.info)|(\.in)|(\.biz)|(\.aero)|(\.coop)|(\.museum)|(\.name)|(\.pro)|(\..{2,2}))$)\b/gi;
         var mobile_regex=/\d{10}/;
-    
+        
       if(!name.match(name_regex) || name == "")
       {
         $('#check1').html('** Please Enter your Name **').css( "color", "red");

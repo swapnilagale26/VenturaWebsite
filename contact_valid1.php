@@ -88,7 +88,7 @@ if($error=="")
         $message_body.="<tr><td>Contact's Services Interested in: </td><td>".$_POST['services']."</td></tr>";
         $message_body.="</table></body></html>"; 
      
-        $mail->addAddress('aparna@venturatechnologies.in');
+        $mail->addAddress('swapnil@venturatechnologies.in');
        
         $mail->Subject  = 'ventura.com';
         $mail->isHTML(true);
