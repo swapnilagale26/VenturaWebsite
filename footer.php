@@ -16,35 +16,35 @@
           <div id="check2"style="margin-bottom: 12px;"></div>
             <div class="form-group row">
               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <input type="text" class="form-control" name="name" id="name" placeholder="First name">
+                <input type="text" class="form-control" name="name" id="name" placeholder="First name*">
               </div>
               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <input type="text" class="form-control" name="lname" id="lname" placeholder="Last name" >
-              </div>
-            </div>
-            <div class="form-group row">
-              <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <input type="email" class="form-control" name="email" id="email" placeholder="Email Address" >
-              </div>
-              <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <input type="text" class="form-control" name="org" id="org" placeholder="Organization" >
+                <input type="text" class="form-control" name="lname" id="lname" placeholder="Last name*" >
               </div>
             </div>
             <div class="form-group row">
               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <input type="text" class="form-control" name="city" id="city" placeholder="City" >
+                <input type="email" class="form-control" name="email" id="email" placeholder="Email Address*" >
               </div>
               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <input type="text" class="form-control" name="country" id="country" placeholder="Country"  >
+                <input type="text" class="form-control" name="org" id="org" placeholder="Organization*" >
               </div>
             </div>
             <div class="form-group row">
               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <input type="text" class="form-control" name="prefertime" id="prefertime" placeholder="Preferred time to call" >
+                <input type="text" class="form-control" name="city" id="city" placeholder="City*" >
+              </div>
+              <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <input type="text" class="form-control" name="country" id="country" placeholder="Country*"  >
+              </div>
+            </div>
+            <div class="form-group row">
+              <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <input type="text" class="form-control" name="prefertime" id="prefertime" placeholder="Preferred time to call*" >
               </div>
               
               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <input type="text" class="form-control" name="phone" id="phone" placeholder="Phone Number"  >
+                <input type="text" class="form-control" name="phone" id="phone" placeholder="Phone Number*"  >
               </div>
             </div>
             <div class="form-group row">
@@ -79,6 +79,66 @@
   </div>
 </div>
 
+<div class="schedule modal fade  " id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" >Your Details</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+
+      <div class="modal-body">
+         <!--  <form action=""  method="post" id="myForm1"> -->
+         <form action="" class="form-validation" autocomplete="off" method="post" id="myForm2" enctype="multipart/form-data">
+          <div id="check3" style="margin-bottom: 12px;"></div>
+            <div class="form-group row">
+              <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <input type="text" class="form-control" name="name" id="name1" placeholder="First name*">
+              </div>
+              <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <input type="text" class="form-control" name="phone" id="phone1" placeholder="Phone Number*"  >
+              </div>
+            </div>
+            <div class="form-group row">
+              <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <input type="email" class="form-control" name="email" id="email1" placeholder="Email Address*" >
+              </div>
+              <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+              <select class="form-control" name="services" id="services1" required>
+                  <option value="Services Interested in">Total Experience*</option>
+                  <option value="Less than 2 years">Less than 2 years</option>
+                  <option value="2-5 years">2-5 years</option>
+                  <option value="5-10 years">5-10 years</option>
+                  <option value="10+ years">More than 10 years </option>
+              </select>
+              </div>
+            </div>
+            <div class="form-group row">
+              <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+              <input type="text" style="height: 100px;" class="form-control" name="desc" id="desc1" placeholder="Desciption" >
+              </div>
+            </div>
+            <div class="form-group row">
+              <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <p><strong>Note :</strong> Field marked with * are mandatory</p>
+              </div>
+            </div>
+          <div class="modal-footer">
+        <button type="submit" name="submit" value="send" id="btn_submit2" class="btn submit ">Submit</button>
+      </div>
+      </form>
+      </div>
+      
+    </div>
+    
+  </div>
+</div>
+
+
+
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script type="text/javascript">
     $(document).ready(function(){
@@ -93,7 +153,7 @@
             var city = $('#city').val();
             var country = $('#country').val();
             var prefertime = $('#prefertime').val();
-            
+            var services  = $('#services').val();
 
       var error = false;
       var flg=1;
@@ -159,6 +219,15 @@
         var error = true;
         return false;
       }
+
+      if (services == "") 
+      {
+        $('#check2').html('** Please Enter Select Service **').css( "color", "red");
+        $("#services").focus();
+        var error = true;
+        return false;
+      }
+
       if(error!=true)
       {
         $('#btn_submit1').attr({'disabled' : 'true', 'value' : 'Sending...' });  
@@ -193,6 +262,91 @@
         });
     });
 </script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+        $('#myForm2').submit(function(e){
+      // alert('bye');
+            e.preventDefault();
+            var name = $('#name1').val();
+            var email = $('#email1').val();
+            var phone = $('#phone1').val();
+            var desciption = $('#desc1').val();
+            var services  = $('#services1').val();
+
+      var error = false;
+      var flg=1;
+      
+       var name_regex="^[a-zA-Z\\s]*$";
+        var email_regex =/\b(^(\S+@).+((\.com)|(\.net)|(\.edu)|(\.mil)|(\.gov)|(\.org)|(\.info)|(\.in)|(\.biz)|(\.aero)|(\.coop)|(\.museum)|(\.name)|(\.pro)|(\..{2,2}))$)\b/gi;
+        var mobile_regex=/\d{10}/;
+    
+      if(!name.match(name_regex) || name == "")
+      {
+        $('#check3').html('** Please Enter your Name **').css( "color", "red");
+        $("#name1").focus();
+        var error = true;
+        return false;
+      }
+      if (!phone.match(mobile_regex)|| phone == "") 
+      {
+        $('#check3').html('** Please Enter Your Mobile Number **').css( "color", "red");
+        $("#phone1").focus();
+        var error = true;
+        return false;
+      }
+      if (!email.match(email_regex)|| email == "") 
+      {
+        $('#check3').html('** Please Enter Your Email Id **').css( "color", "red");
+        $("#email1").focus();
+        var error = true;
+        return false;
+      }
+      if (services == "") 
+      {
+        $('#check3').html('** Please Enter Select Experince In Years **').css( "color", "red");
+        $("#services1").focus();
+        var error = true;
+        return false;
+      }
+
+      if(error!=true)
+      {
+        $('#btn_submit2').attr({'disabled' : 'true', 'value' : 'Sending...' });  
+         var form = $('#myForm2')[0];
+        var formData = new FormData(form);
+        $.ajax({
+          url: "contact_valid2.php", 
+          type: "POST",             
+          data: formData,
+          contentType: false,       
+          cache: false,             
+          processData:false, 
+          success: function(data) {
+          
+            
+            if(data=='sent')
+            {
+              $('#btn_submit2').removeAttr('disabled').attr('value', 'Sent')
+                 $('#check3').html(data).css("color","green");
+               $("#myForm2").get(0).reset();
+              
+            }
+            else
+            {
+                $('#btn_submit2').removeAttr('disabled').attr('value', 'Retry');
+              $('#check3').html(data).css("color","red");
+            }
+          }
+        });
+        return false;
+      }
+        });
+    });
+</script>
+ 
+
 
 <footer>
   <div class="footer-1 " style="background: #272E51;">

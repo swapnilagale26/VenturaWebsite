@@ -62,7 +62,7 @@
   <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna.</p> 
 
   <p>To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p> 
-  <button type="submit" name="submit" value="send" id="btn_submit" class="button-md button-primary mt-25 apply">Apply</button>
+  <button data-toggle="modal" data-target="#exampleModal2" class="button-md button-primary mt-25 apply">Apply</button>
   
   </div>
   
@@ -92,7 +92,7 @@
   <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna.</p> 
 
   <p>To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p> 
-  <button type="submit" name="submit" value="send" id="btn_submit" class="button-md button-primary mt-25 apply">Apply</button>
+  <button data-toggle="modal" data-target="#exampleModal2" class="button-md button-primary mt-25 apply">Apply</button>
   
   </div>
   
@@ -121,7 +121,7 @@
   <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna.</p> 
 
   <p>To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p> 
-  <button type="submit" name="submit" value="send" id="btn_submit" class="button-md button-primary mt-25 apply">Apply</button>
+  <button data-toggle="modal" data-target="#exampleModal2" class="button-md button-primary mt-25 apply">Apply</button>
   
   </div>
   
@@ -151,7 +151,7 @@
   <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna.</p> 
 
   <p>To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p> 
-  <button type="submit" name="submit" value="send" id="btn_submit" class="button-md button-primary mt-25 apply">Apply</button>
+  <button data-toggle="modal" data-target="#exampleModal2" class="button-md button-primary mt-25 apply">Apply</button>
   
   </div>
   
@@ -196,7 +196,7 @@
                 </video>
                 <div id="videoMessageBox2">
                     <div id="videoMessage2 text-center">
-                        <a href="video-btn" data-toggle="modal" data-src="img/video/team-video.mp4" data-target="#myModal"><img src="img/new-img/play-btn.png" alt="plybtn"></a>
+                        <!-- <a href="video-btn" data-toggle="modal" data-src="img/video/team-video.mp4" data-target="#myModal"><img src="img/new-img/play-btn.png" alt="plybtn"></a> -->
                     </div>
                 </div>
               </div>
