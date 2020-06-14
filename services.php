@@ -386,7 +386,6 @@ function unhover4(element) {
   document.getElementById("line-bottom4").style.backgroundColor = "transparent";
   document.getElementById("htm").setAttribute('src', 'img/Expertise/fl.png');
   document.getElementById("fl").style.fontWeight = "400";
-
 }
 
 function hover5(element) {

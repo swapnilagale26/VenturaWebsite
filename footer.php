@@ -4,7 +4,7 @@
   <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="myForm1">Schedule A Call</h5>
+        <h5 class="modal-title" >Schedule A Call</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -12,39 +12,39 @@
 
       <div class="modal-body">
          <!--  <form action=""  method="post" id="myForm1"> -->
-         <form action="contact_valid1.php" class="form-validation" autocomplete="off" method="post" id="myForm1" enctype="multipart/form-data">
-          <div id="check2"></div>
+         <form action="" class="form-validation" autocomplete="off" method="post" id="myForm1" enctype="multipart/form-data">
+          <div id="check2"style="margin-bottom: 12px;"></div>
             <div class="form-group row">
               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <input type="text" class="form-control" name="name" id="name" placeholder="First name" required>
+                <input type="text" class="form-control" name="name" id="name" placeholder="First name">
               </div>
               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <input type="text" class="form-control" name="lname" id="lname" placeholder="Last name" required>
+                <input type="text" class="form-control" name="lname" id="lname" placeholder="Last name" >
               </div>
             </div>
             <div class="form-group row">
               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <input type="email" class="form-control" name="email" id="email" placeholder="Email Address" required>
+                <input type="email" class="form-control" name="email" id="email" placeholder="Email Address" >
               </div>
               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <input type="text" class="form-control" name="org" id="org" placeholder="Organization" required>
-              </div>
-            </div>
-            <div class="form-group row">
-              <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <input type="text" class="form-control" name="city" id="city" placeholder="City" required>
-              </div>
-              <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <input type="text" class="form-control" name="country" id="country" placeholder="Country"  required>
+                <input type="text" class="form-control" name="org" id="org" placeholder="Organization" >
               </div>
             </div>
             <div class="form-group row">
               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <input type="text" class="form-control" name="prefertime" id="prefertime" placeholder="Preferred time to call" required>
+                <input type="text" class="form-control" name="city" id="city" placeholder="City" >
+              </div>
+              <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <input type="text" class="form-control" name="country" id="country" placeholder="Country"  >
+              </div>
+            </div>
+            <div class="form-group row">
+              <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <input type="text" class="form-control" name="prefertime" id="prefertime" placeholder="Preferred time to call" >
               </div>
               
               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <input type="text" class="form-control" name="phone" id="phone" placeholder="Phone Number"  required>
+                <input type="text" class="form-control" name="phone" id="phone" placeholder="Phone Number"  >
               </div>
             </div>
             <div class="form-group row">
@@ -69,7 +69,7 @@
               </div>
             </div>
           <div class="modal-footer">
-        <button type="submit" name="submit" value="Get request" id="btn_submit1" class="btn submit ">Submit</button>
+        <button type="submit" name="submit" value="send" id="btn_submit1" class="btn submit ">Submit</button>
       </div>
       </form>
       </div>
@@ -81,117 +81,117 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script type="text/javascript">
-    // $(document).ready(function(){
-    //     $('#myForm1').submit(function(e){
-    //   alert('hi');
-    //         e.preventDefault();
-    //         var name = $('#name').val();
-    //         var lname = $('#lname').val();
-    //         var email = $('#email').val();
-    //         var phone = $('#phone').val();
-    //         var org = $('#org').val();
-    //         var city = $('#city').val();
-    //         var country = $('#country').val();
-    //         var prefertime = $('#prefertime').val();
+    $(document).ready(function(){
+        $('#myForm1').submit(function(e){
+      // alert('bye');
+            e.preventDefault();
+            var name = $('#name').val();
+            var lname = $('#lname').val();
+            var email = $('#email').val();
+            var phone = $('#phone').val();
+            var org = $('#org').val();
+            var city = $('#city').val();
+            var country = $('#country').val();
+            var prefertime = $('#prefertime').val();
             
 
-    //   var error = false;
-    //   var flg=1;
+      var error = false;
+      var flg=1;
       
-    //    var name_regex="^[a-zA-Z\\s]*$";
-    //     var email_regex =/\b(^(\S+@).+((\.com)|(\.net)|(\.edu)|(\.mil)|(\.gov)|(\.org)|(\.info)|(\.in)|(\.biz)|(\.aero)|(\.coop)|(\.museum)|(\.name)|(\.pro)|(\..{2,2}))$)\b/gi;
-    //     var mobile_regex=/\d{10}/;
+       var name_regex="^[a-zA-Z\\s]*$";
+        var email_regex =/\b(^(\S+@).+((\.com)|(\.net)|(\.edu)|(\.mil)|(\.gov)|(\.org)|(\.info)|(\.in)|(\.biz)|(\.aero)|(\.coop)|(\.museum)|(\.name)|(\.pro)|(\..{2,2}))$)\b/gi;
+        var mobile_regex=/\d{10}/;
     
-    //   if(!name.match(name_regex) || name == "")
-    //   {
-    //     $('#check2').html('** Please Enter your Name **').css( "color", "red");
-    //     $("#name").focus();
-    //     var error = true;
-    //     return false;
-    //   }
-    //     if (lname == "") 
-    //   {
-    //     $('#check2').html('** Please Enter Your Last Name **').css( "color", "red");
-    //     $("#lname").focus();
-    //     var error = true;
-    //     return false;
-    //   }
-    //   if (!email.match(email_regex)|| email == "") 
-    //   {
-    //     $('#check2').html('** Please Enter Your Email Id **').css( "color", "red");
-    //     $("#email").focus();
-    //     var error = true;
-    //     return false;
-    //   }
-    //   if (!phone.match(mobile_regex)|| phone == "") 
-    //   {
-    //     $('#check2').html('** Please Enter Your Mobile Number **').css( "color", "red");
-    //     $("#phone").focus();
-    //     var error = true;
-    //     return false;
-    //   }
-    //     if (org == "") 
-    //   {
-    //     $('#check2').html('** Please Enter Your Organization **').css( "color", "red");
-    //     $("#org").focus();
-    //     var error = true;
-    //     return false;
-    //   }
+      if(!name.match(name_regex) || name == "")
+      {
+        $('#check2').html('** Please Enter your Name **').css( "color", "red");
+        $("#name").focus();
+        var error = true;
+        return false;
+      }
+        if (lname == "") 
+      {
+        $('#check2').html('** Please Enter Your Last Name **').css( "color", "red");
+        $("#lname").focus();
+        var error = true;
+        return false;
+      }
+      if (!email.match(email_regex)|| email == "") 
+      {
+        $('#check2').html('** Please Enter Your Email Id **').css( "color", "red");
+        $("#email").focus();
+        var error = true;
+        return false;
+      }
+      if (!phone.match(mobile_regex)|| phone == "") 
+      {
+        $('#check2').html('** Please Enter Your Mobile Number **').css( "color", "red");
+        $("#phone").focus();
+        var error = true;
+        return false;
+      }
+        if (org == "") 
+      {
+        $('#check2').html('** Please Enter Your Organization **').css( "color", "red");
+        $("#org").focus();
+        var error = true;
+        return false;
+      }
 
-    //     if (city == "") 
-    //   {
-    //     $('#check2').html('** Please Enter Your City **').css( "color", "red");
-    //     $("#city").focus();
-    //     var error = true;
-    //     return false;
-    //   }
-    //     if (country == "") 
-    //   {
-    //     $('#check2').html('** Please Enter Your Country **').css( "color", "red");
-    //     $("#country").focus();
-    //     var error = true;
-    //     return false;
-    //   }
-    //     if (prefertime == "") 
-    //   {
-    //     $('#check2').html('** Please Enter Your Preferred Time To Call **').css( "color", "red");
-    //     $("#prefertime").focus();
-    //     var error = true;
-    //     return false;
-    //   }
-    //   if(error!=true)
-    //   {
-    //     $('#btn_submit1').attr({'disabled' : 'true', 'value' : 'Sending...' });  
-    //      var form = $('#myForm1')[0];
-    //     var formData = new FormData(form);
-    //     $.ajax({
-    //       url: "contact_valid1.php", 
-    //       type: "POST",             
-    //       data: formData,
-    //       contentType: false,       
-    //       cache: false,             
-    //       processData:false, 
-    //       success: function(data) {
+        if (city == "") 
+      {
+        $('#check2').html('** Please Enter Your City **').css( "color", "red");
+        $("#city").focus();
+        var error = true;
+        return false;
+      }
+        if (country == "") 
+      {
+        $('#check2').html('** Please Enter Your Country **').css( "color", "red");
+        $("#country").focus();
+        var error = true;
+        return false;
+      }
+        if (prefertime == "") 
+      {
+        $('#check2').html('** Please Enter Your Preferred Time To Call **').css( "color", "red");
+        $("#prefertime").focus();
+        var error = true;
+        return false;
+      }
+      if(error!=true)
+      {
+        $('#btn_submit1').attr({'disabled' : 'true', 'value' : 'Sending...' });  
+         var form = $('#myForm1')[0];
+        var formData = new FormData(form);
+        $.ajax({
+          url: "contact_valid1.php", 
+          type: "POST",             
+          data: formData,
+          contentType: false,       
+          cache: false,             
+          processData:false, 
+          success: function(data) {
           
             
-    //         if(data=='sent')
-    //         {
-    //           $('#btn_submit1').removeAttr('disabled').attr('value', 'Sent')
-    //              $('#check2').html(data).css("color","green");
-    //            $("#myForm1").get(0).reset();
+            if(data=='sent')
+            {
+              $('#btn_submit1').removeAttr('disabled').attr('value', 'Sent')
+                 $('#check2').html(data).css("color","green");
+               $("#myForm1").get(0).reset();
               
-    //         }
-    //         else
-    //         {
-    //             $('#btn_submit1').removeAttr('disabled').attr('value', 'Retry');
-    //           $('#check2').html(data).css("color","red");
-    //         }
-    //       }
-    //     });
-    //     return false;
-    //   }
-    //     });
-    // });
+            }
+            else
+            {
+                $('#btn_submit1').removeAttr('disabled').attr('value', 'Retry');
+              $('#check2').html(data).css("color","red");
+            }
+          }
+        });
+        return false;
+      }
+        });
+    });
 </script>
 
 <footer>

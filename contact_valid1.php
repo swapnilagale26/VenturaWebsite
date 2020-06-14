@@ -33,7 +33,6 @@ if(!isset($_POST['phone']) || $_POST['phone']=="")
     $error .="\nMobile Number is required";
 }
 
-
 else
 {
     if(!preg_match('/\d{10}/',$_POST['phone']))
