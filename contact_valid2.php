@@ -82,9 +82,6 @@ if($error=="")
         $mail->Subject  = 'ventura.com';
         $mail->Body = $message_body;
         $mail->send();
-         
-
-
 }
 else
 {	

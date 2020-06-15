@@ -58,7 +58,22 @@
     </div>
     <div class="nav-menus-wrapper">
       <ul class="nav-menu align-to-right">
-        <li><a href="index.php#about_us">KNOW VENTURA</a></li>
+        <li><div class="dpdw dpbtn"  onclick="myFunction1()" >KNOW VENTURA  <i class="fa fa-caret-down"></i></div>
+        <div class="dpdw-content" id="mydpdw">
+              <a href="index.php">HOME</a>
+              <a href="knowvt.php">KNOW VENTURA</a>
+            </div>
+      </li>
+        <!-- <li>
+            <div class="dropdown">
+            <button class="dropbtn" onclick="myFunction()">KNOW VENTURA
+            <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content" id="myDropdown">
+              <a href="#knowvt.php">KNOW VENTURA</a>
+            </div>
+            </div>
+        </li>  -->
         <li><a href="services.php">EXPERTISE</a></li>
         <li><a href="portfolio.php">PORTFOLIO</a></li> 
         <li><a href="resources.php">RESOURCES</a></li>
@@ -69,3 +84,22 @@
   </nav>
 </header>
 </div>
+
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction1() {
+  document.getElementById("mydpdw").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(e) {
+  if (!e.target.matches('.dpbtn')) {
+  var myDropdown = document.getElementById("mydpdw");
+    if (myDropdown.classList.contains('show')) {
+      myDropdown.classList.remove('show');
+    }
+  }
+}
+
+  </script>
