@@ -6,7 +6,7 @@
       <div class="col-md-12">
         <h3 style="color: black; text-transform: uppercase;">KNOW VENTURA</h3>
       <div class="section-heading-line line-thin" style="color: #8DF284; margin-left:0px;width:160px"></div>
-      <p id="tagline">Empowering workplaces to go the extra mile</p>
+      <p id="tagline">A perfect blend of creativity and <br>technology.  Designers. <br>Thinkers. Strategists.</p>
 
 
       </div>
@@ -27,13 +27,20 @@
 
           <div class="culture col-md-6 col-12" >
           <h3 >Our Story</h3>
-          <p>The foundation of Ventura was laid in the year 2012 when Tushar, our founder, kicked-off his entrepreneurial journey to help our customers design impactful learning.Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder, came on board to lead the Sales and Marketing efforts. It helped us expand our reach in the international market. Together as a team, it worked out to be a perfect blend of delivering best quality output and excellent customer serviceToday, we have our imprints in 11 countries,and counting!Our founders believe that any workplace can operate at its full efficiency only when the workforce is well equipped with the required skill sets and continued learning opportunities.With the vision of empowering workplaces to go the extra mile, Ventura has been helping organisations across geographies and verticals to leverage technology and drive behavioural change in the workforce.</p>
+          <p>The foundation of Ventura was laid in the year 2012 when Tushar, our founder, kicked-off his entrepreneurial journey to help our customers design impactful learning.Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients.<br> <br> It was the year 2017 when Aparna, our co-founder, came on board to lead the Sales and Marketing efforts. It helped us expand our reach in the international market. Together as a team, it worked out to be a perfect blend of delivering best quality output and excellent customer serviceToday, we have our imprints in 11 countries,and counting!Our founders believe that any workplace can operate at its full efficiency only when the workforce is well equipped with the required skill sets and continued learning opportunities. <br><br>With the vision of empowering workplaces to go the extra mile, Ventura has been helping organisations across geographies and verticals to leverage technology and drive behavioural change in the workforce.</p>
           </div>
 
-          <div class="culture col-md-6 col-12" >
+          <div class="culture col-md-6 col-12 mb-80" >
           <h3>Our Culture</h3>
           <p>We believe that organisations have the ability to influence the future of the people associated with them, and contribute to a bigger purpose of enriching the society.<br><br>We are obsessed about our transparent work culture. We love to empower people, offer ample growth opportunities as we grow, and maintain a harmonic work-life balance.</p>
-          </div>
+          <h3 class="mt-50 ">Our Core Values</h3>
+          <p>Venturians abide by the core values of the company that serve as the foundation of our work culture</p>
+          <ul class="mt-25" style="color: black;font-weight: 400;font-size: 14px;line-height: 20px;width: 88%;margin-left: 15px;">
+          <li  style="list-style-type:disc;">Customer Centricity</li>
+          <li style="list-style-type:disc;">Honesty and Integrity</li>
+          <li style="list-style-type:disc;">Personal Accountability</li>
+          <li style="list-style-type:disc;">Respect for All</li>
+          </ul>
   </div>
 </div>
 

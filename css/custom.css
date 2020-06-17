@@ -2683,7 +2683,21 @@ display: block;
   }
   .nav-menu > li:hover {
     border-bottom: 3px solid transparent;
+
     transition: all 0.3s ease-in-out;
     background-color: #ddd;
   }
+}
+
+#view-more{
+  display: none;
+  /* padding: 15px 60px 60px 60px; */
+  margin-bottom: 30px;
+
+}
+
+#view-more1{
+  display: none;
+  /* padding: 15px 60px 60px 60px; */
+  margin-bottom: 80px;
 }

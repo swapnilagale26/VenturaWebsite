@@ -117,7 +117,7 @@
             </div>
             <div class="form-group row">
               <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" >
-              <input type="text" style="height: 100px;" class="form-control" name="desc" id="desc1" placeholder="Desciption" >
+              <input type="text" style="height: 100px;" class="form-control" name="desc" id="desc1" placeholder="Description" >
               </div>
             </div>
             <div class="form-group row">

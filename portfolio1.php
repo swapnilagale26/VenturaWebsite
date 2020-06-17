@@ -6,7 +6,7 @@
       <div class="col-md-12">
         <h3 style="color: black; text-transform: uppercase;">Portfolio</h3>
       <div class="section-heading-line line-thin" style="color: #8DF284; margin-left:0px;width:160px"></div>
-      <p>Tailor-made learning experiences to suit your business requirements</p>
+      <p>Learning that is custom designed exclusively for you.</p>
 
 
       </div>

@@ -6,7 +6,7 @@
       <div class="col-md-12">
         <h3 style="color: black; text-transform: uppercase;">Resources</h3>
       <div class="section-heading-line line-thin" style="color: #8DF284; margin-left:0px;width:160px"></div>
-      <p>A legacy consistently winng awards <br>and accolades.</p>
+      <p>The only source of knowledge is experience.<br> - Albert Einstein</p>
 
 
       </div>
@@ -24,7 +24,7 @@
   </div>
 </div> -->
 <div class="container mt-30">
-<p class="font-size-15 text-center"style="font-weight: 400;color:black;padding-left:20px;padding-right-20px">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p class="font-size-20 text-center"style="font-weight: 400;color:black;padding-left:20px;padding-right-20px"><b>Blogs</b> | eBooks | Case Studies | Cartoon Strips </p>
 </div>
 
 <section>

@@ -6,7 +6,7 @@
       <div class="col-md-12">
         <h3 style="color: black; text-transform: uppercase;">careers</h3>
       <div class="section-heading-line line-thin" style="color: #8DF284; margin-left:0px;width:160px"></div>
-      <p>Join us and be assureed of a career that is both, stimulating and exciting.</p>
+      <p>Join us for a career that challenges your creativity.</p>
 
 
       </div>
@@ -24,7 +24,7 @@
   </div>
 </div> -->
 <div class="container mt-30">
-<p class="font-size-15 text-center"style="font-weight: 400;color:black;padding-left:20px;padding-right-20px">Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder, came on board to lead the Sales and Marketing efforts.Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder.</p>
+<p class="font-size-20 text-center"style="font-weight: 400;color:black;padding-left:20px;padding-right-20px">For a growing set-up like us, every individual is an asset, and an important. Join us if you believe in making a difference by your individual contribution.</p>
 </div>
 <section class="career mt-80">
   <div class="container">

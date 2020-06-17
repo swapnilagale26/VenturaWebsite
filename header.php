@@ -60,8 +60,8 @@
       <ul class="nav-menu align-to-right">
         <li><div class="dpdw dpbtn"  onclick="myFunction1()" >KNOW VENTURA  <i class="fa fa-caret-down"></i></div>
         <div class="dpdw-content" id="mydpdw">
-              <a href="index.php">HOME</a>
-              <a href="knowvt.php">KNOW VENTURA</a>
+              <a href="knowvt.php">About Us</a>
+              <!-- <a href="knowvt.php">KNOW VENTURA</a> -->
             </div>
       </li>
         <!-- <li>
