@@ -42,7 +42,7 @@
 
 <div class="position-section mt-25">
 <h3 class="semi-bold font-size-30 jd"  id="jd1">Sr. Instructional Designer<h3>
-<p>Experince: 6 - 8 years  |  Position: 1</p>
+<p>Experince: 6-8 years  |  Position: 1</p>
 <p style="font-size:16px">To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p>
 </div>
 
@@ -50,7 +50,7 @@
   <div class="above-border"></div>
   <div class="job-heading semi-bold font-size-25">Job Desciption</div>
   <div class="job-designation">Sr. Instructional Designer</div>
-  <div class="job-experince">Experince: 6 - 8 years  |  Position: 1</div>
+  <div class="job-experince">Experince: 6-8 years  |  Position: 1</div>
   <div class="job-code">Job Code - ID</div>
   <div class="job-data">
   <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder, came on board to lead the Sales and Marketing efforts.Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder.</p>
@@ -235,7 +235,7 @@
             <img class="col-md-1 col-2 mb-30" src="img/Portfolio/train.png">
             <div class="col-md-5 col-10 mb-30">
             <h4>Offsite Trainings</h4>
-            <p>We believe learning is a continuous process and an important one to be competitive.Enjoy offsite trainings and team bonding time twice a year.</p>
+            <p>We believe learning is a continuous process and an important one to be competitive. Enjoy offsite trainings and team bonding time twice a year.</p>
             </div>
             
 
@@ -252,7 +252,7 @@
             <img class="col-md-1 mb-30 col-2" src="img/Portfolio/wfh.png">
             <div class="col-md-5 mb-30 col-10">
             <h4>Work From Home</h4>
-            <p>We understand this is the need of the hour as everyone is playing multiple roles in their life. Enjoy flexibility at work with our 'Work From Home' policy</p>
+            <p>We understand this is the need of the hour as everyone is playing multiple roles in their life. Enjoy flexibility at work with our 'Work From Home' policy.</p>
             </div>
             
         </div>

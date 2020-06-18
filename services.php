@@ -54,7 +54,7 @@
         <div class="pl-45-md">
           <div class="section-heading text-left mt-5">
            <!--  <h3 class="semi-bold font-size-30">Custom Learing <span class="primary-color">vision into action!</span></h3> -->
-           <h4 class="semi-bold font-size-30" style="color: #1614A8;">CUSTOME LEARNING</h4>
+           <h4 class="semi-bold font-size-30" style="color: #1614A8;">CUSTOM LEARNING</h4>
            <span class=" bluecolor text-uppercase" style="font-size:20px">OPTIMIZED, CUSTOM CONTENT DEVELOPMENT THAT FITS THE CONTEXT</span><br>
             <!-- <div class="section-heading-line line-thin"></div> -->
             
@@ -123,7 +123,7 @@
           <div class="section-heading text-left mt-5">
            <!--  <h3 class="semi-bold font-size-30">Custom Learing <span class="primary-color">vision into action!</span></h3> -->
            <h4 class="semi-bold font-size-30" style="color: #1614A8;">INSTRUCTIONAL DESIGN</h4>
-           <span class=" bluecolor text-uppercase" style="font-size:20px">DRIVING ORGANISATIONAL PERFORMANCE THROUGH INNOVATIVE ELEARNING SOLUTION</span><br>
+           <span class=" bluecolor" style="font-size:20px">DRIVING ORGANISATIONAL PERFORMANCE THROUGH INNOVATIVE eLEARNING SOLUTION</span><br>
             <!-- <div class="section-heading-line line-thin"></div> -->
             
             <p style="font-weight: 400;">Organisational learning and performances are closely hinged to the kind of learning solutions and training methodologies used. Ventura’s eLearning solutions are built on concrete instructional methodologies that coherently span the entire learning lifecycle starting right from learning analysis to the deployment strategy</p>
@@ -171,7 +171,7 @@
            <span class=" bluecolor text-uppercase" style="font-size:20px">BREATHE NEW LIFE INTO LEARNING WITH ANIMATED VIDEO</span><br>
             <!-- <div class="section-heading-line line-thin"></div> -->
             
-	          <p style="font-weight: 400;">Learning is no longer just about the content and the context, it is also about how the content is represented. Animated videos help in sending the point across in the best possible way, many a times making even the most difficult subjects seem humorous and easy. Ventura harnesses this fact for creating rich visual content for boosting engagement and understanding.</p>
+	          <p style="font-weight: 400;">Learning is no longer just about the content and the context, it is also about how the content is represented. Animated videos help in sending the point across in the best possible way, many a times, making even the most difficult subjects seem humorous and easy. Ventura harnesses this fact for creating rich visual content for boosting engagement and understanding.</p>
               
            
           </div>

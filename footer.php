@@ -159,8 +159,8 @@
       var flg=1;
       
        var name_regex="^[a-zA-Z\\s]*$";
-        var email_regex =/\b(^(\S+@).+((\.com)|(\.net)|(\.edu)|(\.mil)|(\.gov)|(\.org)|(\.info)|(\.in)|(\.biz)|(\.aero)|(\.coop)|(\.museum)|(\.name)|(\.pro)|(\..{2,2}))$)\b/gi;
-        var mobile_regex=/\d{10}/;
+       var email_regex =/\b(^(\S+@).+((\.com)|(\.net)|(\.edu)|(\.mil)|(\.gov)|(\.org)|(\.info)|(\.in)|(\.biz)|(\.aero)|(\.coop)|(\.museum)|(\.name)|(\.pro)|(\..{2,2}))$)\b/gi;
+       var mobile_regex=/^(\+\d{1,2}\s)?\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}$/g;
     
       if(!name.match(name_regex) || name == "")
       {
@@ -280,7 +280,7 @@
       
        var name_regex="^[a-zA-Z\\s]*$";
         var email_regex =/\b(^(\S+@).+((\.com)|(\.net)|(\.edu)|(\.mil)|(\.gov)|(\.org)|(\.info)|(\.in)|(\.biz)|(\.aero)|(\.coop)|(\.museum)|(\.name)|(\.pro)|(\..{2,2}))$)\b/gi;
-        var mobile_regex=/\d{10}/;
+        var mobile_regex=/^(\+\d{1,2}\s)?\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}$/g;
     
       if(!name.match(name_regex) || name == "")
       {
@@ -397,7 +397,7 @@
           <div class="row mt-25">
             <div class="col-lg-4  col-md-4  col-sm-6">
               <ul class="footer-nav">
-                <li><a href="news.php">Resources</a></li>
+                <li><a href="resources.php">Resources</a></li>
                 <li><a href="career.php">Careers </a></li>
 				   <li><a href="#"  data-toggle="modal" data-target="#exampleModal">Schedule Call</a></li>
                 <li><a href="privacypolicy.php">Privacy Policy</a></li>
