@@ -43,7 +43,7 @@
 <div class="position-section mt-25">
 <h3 class="semi-bold font-size-30 jd"  id="jd1">Sr. Instructional Designer<h3>
 <p>Experince: 6-8 years  |  Position: 1</p>
-<p style="font-size:16px">To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p>
+<p style="font-size:16px; display: none">To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p>
 </div>
 
 <div class="job-description" id="job-description1">
@@ -61,7 +61,7 @@
   
   <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna.</p> 
 
-  <p>To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p> 
+  <p >To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p> 
   <button data-toggle="modal" data-target="#exampleModal2" class="button-md button-primary mt-25 apply">Apply</button>
   
   </div>
@@ -73,7 +73,7 @@
 <div class="position-section mt-80">
 <h3 class="semi-bold font-size-30 jd"  id="jd2">Instructional Designers<h3>
 <p>Experience: 3-5 years  |  Position: 2</p>
-<p style="font-size:16px">To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p>
+<p style="font-size:16px;display: none">To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p>
 </div>
 
 <div class="job-description" id="job-description2">
@@ -102,7 +102,7 @@
 <div class="position-section mt-80">
 <h3 class="semi-bold font-size-30 jd"  id="jd3">Video Animator<h3>
 <p>Experience: 3-5 years  |  Position: 2</p>
-<p style="font-size:16px">To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p>
+<p style="font-size:16px;display: none">To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p>
 </div>
 
 <div class="job-description" id="job-description3">
@@ -132,7 +132,7 @@
 <div class="position-section mt-80">
 <h3 class="semi-bold font-size-30 jd" id="jd4">Storyline Developers<h3>
 <p>Experience: 3-5 years  |  Position: 2</p>
-<p style="font-size:16px">To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p>
+<p style="font-size:16px;display: none">To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p>
 </div>
 
 <div class="job-description" id="job-description4">
