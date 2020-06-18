@@ -2557,7 +2557,7 @@ display: block;
 /* Resource page*/
 .readm1 {
   font-size: 12px;
-  margin-left: 70%;
+  margin-left: 55%;
 }
 
 .readm1:hover {
@@ -2659,7 +2659,18 @@ display: block;
   display: block;
 }
 
+#my-team{
+  background-image: url('../img/new-img/knowvt/team.png');
+  height:120%;width:100%;background-position: center;background-repeat: no-repeat;background-size: cover;
+
+}
+
+
 @media only screen and (max-width: 900px) {
+
+  #my-team{
+    background-image: url('../img/new-img/knowvt/team1.png')
+  }
   .dpdw {
 
     display: inline-block;
@@ -2701,3 +2712,4 @@ display: block;
   /* padding: 15px 60px 60px 60px; */
   margin-bottom: 80px;
 }
+

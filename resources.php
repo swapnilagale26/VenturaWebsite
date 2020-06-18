@@ -31,7 +31,7 @@
     <div class="container">
         <div class="row">
            
-                <div class="col-md-6 col-lg-6 col-12  imgbox">
+                <div class="col-md-6 col-lg-4 col-12  imgbox">
                     <div style="border:1px solid grey;">    
                         <img src="img/r_1.jpg" alt="Responsive image" class="min-vh-100">
                         <div class="innercontent" style="padding:4%">
@@ -45,7 +45,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-6 col-12  imgbox">
+                <div class="col-md-6 col-lg-4 col-12  imgbox">
                     <div style="border:1px solid grey;">    
                         <img src="img/r_1.jpg" alt="Responsive image" class="min-vh-100">
                         <div class="innercontent" style="padding:4%">
@@ -59,7 +59,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-6 col-12  imgbox">
+                <div class="col-md-6 col-lg-4 col-12  imgbox">
                     <div style="border:1px solid grey;">    
                         <img src="img/r_1.jpg" alt="Responsive image" class="min-vh-100">
                         <div class="innercontent" style="padding:4%">
@@ -73,7 +73,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-6 col-12  imgbox">
+                <div class="col-md-6 col-lg-4 col-12  imgbox">
                     <div style="border:1px solid grey;">    
                         <img src="img/r_1.jpg" alt="Responsive image" class="min-vh-100">
                         <div class="innercontent" style="padding:4%">
@@ -87,7 +87,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-6 col-12  imgbox">
+                <div class="col-md-6 col-lg-4 col-12  imgbox">
                     <div style="border:1px solid grey;">    
                         <img src="img/r_1.jpg" alt="Responsive image" class="min-vh-100">
                         <div class="innercontent" style="padding:4%">
@@ -101,7 +101,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-6 col-12  imgbox">
+                <div class="col-md-6 col-lg-4 col-12  imgbox">
                     <div style="border:1px solid grey;">    
                         <img src="img/r_1.jpg" alt="Responsive image" class="min-vh-100">
                         <div class="innercontent" style="padding:4%">

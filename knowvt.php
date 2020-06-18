@@ -13,7 +13,7 @@
     </div>
   </div>
 </div>
-<div class="mission container mt-80 mb-80">
+<div class="mission container mt-80">
   <div class="row">
           <div class="vision col-md-6 col-12" >
           <h3 >VISION</h3>
@@ -44,15 +44,15 @@
   </div>
 </div>
 
-<div class="expertisee section-block grey-bg background-center background-no-repeat background-contain" style="background-image: url('img/content/bgs/bg2.png');">
-  <div class="container">
+<div class="expertisee section-block background-no-repeat " style="background-image: url('img/new-img/knowvt/team.png');display: none">
+  <div class="container-fluid" >
     <div class="section-heading text-center">
     <h3 class="semi-bold font-size-30"  style="color: black">OUR TEAM</h3>
       <div class="section-heading-line line-thin" style="color: #8DF284"></div>
       <!-- <div class="section-heading-line line-thin"></div> -->
   
     </div>
-    <div class="row mt-20">
+    <div class="row mt-20" >
       <div class="col-lg-4 col-md-6 col-sm-12 col-12">
         <div class="service-box-3">
           <div class="inner">
@@ -126,7 +126,11 @@
     </div>
   </div>
 </div>
+</div>
 
 
-
+<div class="section-heading text-center container-fluid" id="my-team">
+    <h3 class="semi-bold font-size-30" style="color: black;padding-top: 40px;">OUR TEAM</h3>
+      <div class="section-heading-line line-thin" style="color: #8DF284"></div>
+</div>
 <?php include('footer.php');?><!-- img/new-img/services/wave1.jpg -->
