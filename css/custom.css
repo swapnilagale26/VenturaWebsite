@@ -2111,9 +2111,10 @@ transform-style: preserve-3d;
   border-radius: 310px;
 }
 
-/* .services .service-img {
-  border: 1px solid #80808026;
-} */
+.services .service-img {
+  /* border: 1px solid #80808026; */
+  margin-top: 20px;
+}
 
 .contact-modal input {
   height: 50px;
@@ -2776,6 +2777,7 @@ display: block;
 .img-margin-change {
   max-width: 80%;
   margin-left: 15%;
+  margin-top: 20px;
 }
 
 @media only screen and (max-width: 1100px) {
