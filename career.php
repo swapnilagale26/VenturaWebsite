@@ -48,18 +48,36 @@
 
 <div class="job-description" id="job-description1">
   <div class="above-border"></div>
-  <div class="job-heading semi-bold font-size-25">Job Desciption</div>
-  <div class="job-designation">Sr. Instructional Designer</div>
-  <div class="job-experince">Experince: 6-8 years  |  Position: 1</div>
+  <!-- <div class="job-heading semi-bold font-size-25">Job Desciption</div>
+  <div class="job-designation">Sr. Instructional Designer</div> -->
+  <!-- <div class="job-experince">Experince: 6-8 years  |  Position: 1</div> -->
   <div class="job-code">Job Code - ID</div>
+  <div class="job-code">Job Location: Pune, India</div>
+  <div class="job-code">Education</div>
   <div class="job-data">
-  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder, came on board to lead the Sales and Marketing efforts.Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder.</p>
+  <p>Preferred: Bachelor's degree in English/Journalism/Mass communication or related field; Master's along with degree related to Instructional Design/Technology.</p>
+  <div class="job-code"><b>Skills</b></div>
+  <ul>
+  <li class="career-list" >Excellent written and verbal communication skills</li>
+  <li class="career-list">Self-motivated</li>
+  <li class="career-list">Highly creative, imaginative and good in visualisation</li>
+  <li class="career-list">Have an eye for detail</li>
+  <li class="career-list">Excellent interpersonal skills to work in a team</li>
+  <li class="career-list">Strong ability to understand content on a variety of technical and non-technical topics</li>
+  <li class="career-list">Ability to communicate thoughts and ideas to development teams</li>
+  <li class="career-list">Knowledge of MS Word/MS Office</li>
+  <li class="career-list">Good grasping capability</li>
+  </ul>
 
-  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design</p> 
-  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design</p> 
-  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design</p>
-  
-  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna.</p> 
+  <div class="job-code"><b>Job Description:</b></div>
+  <ul>
+  <li class="career-list">Develop storyboards in line with project–specific and client standards and guidelines</li>
+  <li class="career-list">Make client–supplied storyboards production ready by clearly interpreting and completing them, wherever required</li>
+  <li class="career-list">Study content on technical/non–technical, medical, financial topics, identify key points, and formulate grammatically correct and concise on-screen text</li>
+  <li class="career-list">Search for relevant visuals that support key messages in content</li>
+  <li class="career-list">Ensure that output pages communicate the desired learning message</li>
+  <li class="career-list">Compile content and restructure/rewrite/summarize it as needed</li>
+  </ul>
 
   <p >To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p> 
   <button data-toggle="modal" data-target="#exampleModal2" class="button-md button-primary mt-25 apply">Apply</button>
@@ -78,18 +96,35 @@
 
 <div class="job-description" id="job-description2">
   <div class="above-border"></div>
-  <div class="job-heading semi-bold font-size-25">Job Desciption</div>
+  <!-- <div class="job-heading semi-bold font-size-25">Job Desciption</div>
   <div class="job-designation">Instructional Designers</div>
-  <div class="job-experince">Experience: 3-5 years  |  Position: 2</div>
-  <div class="job-code">Job Code - ID</div>
+  <div class="job-experince">Experience: 3-5 years  |  Position: 2</div> -->
+  <div class="job-code">Job Location: Pune, India</div>
+  <div class="job-code">Education</div>
   <div class="job-data">
-  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder, came on board to lead the Sales and Marketing efforts.Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder.</p>
+  <p>Preferred: Bachelor's degree in English/Journalism/Mass communication or related field; Master's along with degree related to Instructional Design/Technology.</p>
+  <div class="job-code"><b>Skills</b></div>
+  <ul>
+  <li class="career-list">Excellent written and verbal communication skills</li>
+  <li class="career-list">Self-motivated</li>
+  <li class="career-list">Highly creative, imaginative and good in visualisation</li>
+  <li class="career-list">Have an eye for detail</li>
+  <li class="career-list">Excellent interpersonal skills to work in a team</li>
+  <li class="career-list">Strong ability to understand content on a variety of technical and non-technical topics</li>
+  <li class="career-list">Ability to communicate thoughts and ideas to development teams</li>
+  <li class="career-list">Knowledge of MS Word/MS Office</li>
+  <li class="career-list">Good grasping capability</li>
+  </ul>
 
-  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design</p> 
-  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design</p> 
-  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design</p>
-  
-  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna.</p> 
+  <div class="job-code"><b>Job Description:</b></div>
+  <ul>
+  <li class="career-list">Develop storyboards in line with project–specific and client standards and guidelines</li>
+  <li class="career-list">Make client–supplied storyboards production ready by clearly interpreting and completing them, wherever required</li>
+  <li class="career-list">Study content on technical/non–technical, medical, financial topics, identify key points, and formulate grammatically correct and concise on-screen text</li>
+  <li class="career-list">Search for relevant visuals that support key messages in content</li>
+  <li class="career-list">Ensure that output pages communicate the desired learning message</li>
+  <li class="career-list">Compile content and restructure/rewrite/summarize it as needed</li>
+  </ul>
 
   <p>To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p> 
   <button data-toggle="modal" data-target="#exampleModal2" class="button-md button-primary mt-25 apply">Apply</button>
@@ -107,18 +142,17 @@
 
 <div class="job-description" id="job-description3">
   <div class="above-border"></div>
-  <div class="job-heading semi-bold font-size-25">Job Desciption</div>
-  <div class="job-designation">Video Animator</div>
-  <div class="job-experince">Experience: 3-5 years  |  Position: 2</div>
   <div class="job-code">Job Code - VD</div>
+  <div class="job-code">Job Location: Pune, India</div>
+  <div class="job-code">Job Profile & Required Skills:</div>
   <div class="job-data">
-  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder, came on board to lead the Sales and Marketing efforts.Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder.</p>
-
-  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design</p> 
-  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design</p> 
-  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design</p>
-  
-  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna.</p> 
+  <ul>
+  <li class="career-list">Excellent in design tools – Adobe Flash, Illustrator, Photoshop and After Effects.</li>
+  <li class="career-list">Should understand storyboard and visualize and execute the concept described in SB</li>
+  <li class="career-list">Should do document reading and mockups and video creation.</li>
+  <li class="career-list">Needs to be proficient with English language.</li>
+  <li class="career-list">Needs to be a team player with strong problem solving skills.</li>
+  </ul>
 
   <p>To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p> 
   <button data-toggle="modal" data-target="#exampleModal2" class="button-md button-primary mt-25 apply">Apply</button>
@@ -137,23 +171,68 @@
 
 <div class="job-description" id="job-description4">
   <div class="above-border"></div>
-  <div class="job-heading semi-bold font-size-25">Job Desciption</div>
+  <!-- <div class="job-heading semi-bold font-size-25">Job Desciption</div> -->
   <div class="job-designation">Storyline Developers</div>
-  <div class="job-experince">Experience: 3-5 years  |  Position: 2</div>
+  <!-- <div class="job-experince">Experience: 3-5 years  |  Position: 2</div> -->
   <div class="job-code">Job Code - GD</div>
+  <div class="job-code">Job Location: Pune, India</div>
+  <div class="job-code">Job Profile & Required Skills:</div>
   <div class="job-data">
-  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder, came on board to lead the Sales and Marketing efforts.Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna, our co-founder.</p>
-
-  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design</p> 
-  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design</p> 
-  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design</p>
-  
-  <p>Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients. It was the year 2017 when Aparna.</p> 
+  <ul>
+  <li class="career-list">Understand storyboard and visualize and execute the concept described in SB.</li>
+  <li class="career-list">Work on higher level design tasks that give shape to the learning material and give a visual look and feel
+to the learning concept</li>
+  <li class="career-list">Assist subordinates in delivering creative output or providing assistance to comprehend to challenging
+learning needs.</li>
+  <li class="career-list">Provide inputs on the visual strategy required for achieving a higher level of engagement.</li>
+  <li class="career-list">Review the final produce to ensure business objectives have been met.</li>
+  <li class="career-list">Possess excellent skills in using authoring tools like Articulate Studio, Storyline, Adobe Flash, Captivate,
+illustrator, Photoshop and After effects</li>
+  </ul>
 
   <p>To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p> 
   <button data-toggle="modal" data-target="#exampleModal2" class="button-md button-primary mt-25 apply">Apply</button>
   
   </div>
+</div>
+
+  <div class="position-section mt-80">
+<h3 class="semi-bold font-size-30 jd"  id="jd5">Quality Analyst<h3>
+<p>Experience: 2-3 years  |  Position: 2</p>
+<p style="font-size:16px;display: none">To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p>
+</div>
+
+<div class="job-description" id="job-description5">
+  <div class="above-border"></div>
+  <div class="job-code">Job Code - QA</div>
+  <div class="job-code">Job Location: Pune, India</div>
+  <div class="job-code">Job Eductaion: B.E or B.Tech or BCA or MCA</div>
+  <div class="job-code"><b>Skills:</b></div>
+  <div class="job-data">
+  <ul>
+  <li class="career-list">Strong communication (written and oral) with good interpersonal skills.</li>
+  <li class="career-list">Testing skills such as Manual Testing, Black Box Testing, Performance Testing, and Usability Standards.</li>
+  </ul>
+
+  <div class="job-code"><b>Job Description::</b></div>
+
+  <ul>
+  <li class="career-list">Ability to analyze the project requirement and scope and prepare test plans accordingly.</li>
+  <li class="career-list">Ability to meet or exceed the quality of the project output in all parameters particularly meets or exceeds the usability standards.</li>
+  <li class="career-list">Ability to write test cases, executes test cases, and analyzes final results.</li>
+  <li class="career-list">Manage defect tracking, analyze and report, and assist in enhancements.</li>
+  <li class="career-list">Proficiency in working with eLearning application/tools, such as LMS, ADL Test suite, and Storyline, Captivate.</li>
+  <li class="career-list">Proficiency in multi-device testing, eLearning compliance (SCORM/AICC/Tin Can) testing and accessibility testing.</li>
+  <li class="career-list">Coordinate with the development team and project leads, and estimate the time required for testing.</li>
+  <li class="career-list">Should have experience in Agile Methodology </li>
+  </ul>
+
+  <p>To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p> 
+  <button data-toggle="modal" data-target="#exampleModal2" class="button-md button-primary mt-25 apply">Apply</button>
+  
+  </div>
+  
+</div>
   
 </div>
 </div>
@@ -546,6 +625,11 @@ defer(function() {
   $("#jd4").click(function(){
       
       $("#job-description4").slideToggle("slow");
+  });
+
+  $("#jd5").click(function(){
+      
+      $("#job-description5").slideToggle("slow");
   });
 
 
