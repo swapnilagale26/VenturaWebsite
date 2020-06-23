@@ -62,22 +62,22 @@
   <div class="row mt-0 pt-0">
     <div class="col-md-6 col-lg-3 sub-links">
     <a href="knowvt.php" >Our story</a><br><br>
-    <span style="font-size: 14px">Since our inception in 2012, we are on a mission to boost productivity at workplaces</span><br><br>
+    <span style="font-size: 16px">Since our inception in 2012, we are on a mission to boost productivity at workplaces</span><br><br>
     <a href="knowvt.php" style="font-size: 20px;color:white" target="_blank"><img class="next_arrow" src="./img/quick_links_arrrow.png" ></img></a></div>
 
     <div class="col-md-6 col-lg-3 sub-links" style="background-color:#628FED;">
     <a href="services.php" >What we do</a><br><br>
-    <span style="font-size: 14px">Crafting learning experiences that help achieve performance improvements in organisations</span><br><br>
+    <span style="font-size: 16px">Crafting learning experiences that help achieve performance improvements in organisations</span><br><br>
     <a href="services.php" style="font-size: 20px;color:white" target="_blank"><img class="next_arrow" src="./img/quick_links_arrrow.png" ></img></a></div>
 
     <div class="col-md-6 col-lg-3 sub-links" style="background-color:#5FEF95;">
     <a href="#why-us" >Why us</a><br><br>
-    <span style="font-size: 14px">The right-sized team, the right mix of skill sets and the zeal to make an impact = 95% repeat business</span><br><br>
+    <span style="font-size: 16px">The right-sized team, the right mix of skill sets and the zeal to make an impact = 95% repeat business</span><br><br>
     <a href="#why-us" style="font-size: 20px;color:white" target="_blank"><img class="next_arrow" src="./img/quick_links_arrrow.png" ></img></a></div>
 
     <div class="col-md-6 col-lg-3 sub-links" style="background-color:#EFD95F;">
     <a href="career.php" >Life at Ventura</a>
-    <br><br><span style="font-size: 14px">A happy workplace, fostering collaborative and transparent work culture</span><br><br>
+    <br><br><span style="font-size: 16px">A happy workplace, fostering collaborative and transparent work culture</span><br><br>
     <a href="career.php" style="font-size: 20px;color:white" target="_blank"><img class="next_arrow" src="./img/quick_links_arrrow.png" ></img></a></div> 
   </div>
 </div>
@@ -495,40 +495,124 @@
       <img src="./img/map.png" class="pt-5 behind-image"></img>
 
 
-      <i id="first-pointer"  class="fas fa-map-marker-alt fa-4x"></i>
+      <i id="first-pointer"  class="fas fa-map-marker-alt fa-3x ok"></i>
       <div id="first-pointer-hover" >
               
-              <p style="font-size: 10px;height: auto;width: 237px;font-weight: 400;color: white;background: #FFAB0B;padding: 4px;" class="text-center">We display multiple posts each in a bootstrap carousel, that is we display multiple images using the matrix table.</p>
+              <p style="font-size: 10px;height: auto;width: 131px;font-weight: 400;color: white;background: #FFAB0B;padding: 4px;" class="text-center font-size-20">India</p>
               <div class="pointer" style=" width: 0; height: 0; border-left: 20px solid transparent;border-top: 20px solid #C27C00;"></div>
   
         </div>
-      <i id="second-pointer"  class="fas fa-map-marker-alt fa-4x"></i>
+      <i id="second-pointer"  class="fas fa-map-marker-alt fa-3x ok"></i>
 
 
       <div id="second-pointer-hover">
               
-              <p style="font-size: 10px;height: auto;width: 180px;font-weight: 400;color: white;background: #FFAB0B;padding: 4px;" class="text-center">We display multiple posts each in a bootstrap carousel, that is we display multiple images using the matrix table.</p>
+              <p style="font-size: 10px;height: auto;width: 180px;font-weight: 400;color: white;background: #FFAB0B;padding: 4px;" class="text-center font-size-20">Singapore</p>
               <div class="pointer" style=" width: 0; height: 0; border-left: 20px solid transparent;border-top: 20px solid #C27C00;"></div>
   
         </div>
-      <i id="third-pointer" class="fas fa-map-marker-alt fa-4x"></i>
+      <i id="third-pointer" class="fas fa-map-marker-alt fa-3x ok"></i>
 
 
       <div id="third-pointer-hover">
               
-              <p style="font-size: 10px;height: auto;width: 131px;font-weight: 400;color: white;background: #FFAB0B;padding: 4px;" class="text-center">We display multiple posts each in a bootstrap carousel, that is we display multiple images using the matrix table.</p>
+              <p style="font-size: 10px;height: auto;width: 131px;font-weight: 400;color: white;background: #FFAB0B;padding: 4px;" class="text-center font-size-20">Australia</p>
               <div class="pointer" style=" width: 0; height: 0; border-right: 20px solid transparent;border-top: 20px solid #C27C00;float:right"></div>
   
         </div>
-      <i id="fourth-pointer" class="fas fa-map-marker-alt fa-4x ok"></i>
+      <i id="fourth-pointer" class="fas fa-map-marker-alt fa-3x ok"></i>
 
 
       <div id="fourth-pointer-hover">
               
-              <p style="font-size: 10px;height: auto;width: 237px;font-weight: 400;color: white;background: #FFAB0B;padding: 4px;" class="text-center">We display multiple posts each in a bootstrap carousel, that is we display multiple images using the matrix table.</p>
+              <p style="font-size: 10px;height: auto;width: 131px;font-weight: 400;color: white;background: #FFAB0B;padding: 4px;" class="text-center font-size-20">Sri Lanka</p>
               <div class="pointer" style=" width: 0; height: 0; border-left: 20px solid transparent;border-top: 20px solid #C27C00;"></div>
   
         </div>
+
+      <i id="fifth-pointer" class="fas fa-map-marker-alt fa-3x ok"></i>
+
+
+      <div id="fifth-pointer-hover">
+              
+              <p style="font-size: 10px;height: auto;width: 131px;font-weight: 400;color: white;background: #FFAB0B;padding: 4px;" class="text-center font-size-20">UAE</p>
+              <div class="pointer" style=" width: 0; height: 0; border-left: 20px solid transparent;border-top: 20px solid #C27C00;"></div>
+
+        </div>
+
+                <i id="sixth-pointer" class="fas fa-map-marker-alt fa-3x ok"></i>
+
+
+        <div id="sixth-pointer-hover">
+                
+                <p style="font-size: 10px;height: auto;width: 131px;font-weight: 400;color: white;background: #FFAB0B;padding: 4px;" class="text-center font-size-20">Saudi Arabia</p>
+                <div class="pointer" style=" width: 0; height: 0; border-left: 20px solid transparent;border-top: 20px solid #C27C00;"></div>
+
+          </div>
+
+          <i id="seventh-pointer" class="fas fa-map-marker-alt fa-3x ok"></i>
+
+
+          <div id="seventh-pointer-hover">
+                  
+                  <p style="font-size: 10px;height: auto;width: 131px;font-weight: 400;color: white;background: #FFAB0B;padding: 4px;" class="text-center font-size-20">Spain</p>
+                  <div class="pointer" style=" width: 0; height: 0; border-left: 20px solid transparent;border-top: 20px solid #C27C00;"></div>
+
+            </div>
+
+            <i id="eigth-pointer" class="fas fa-map-marker-alt fa-3x ok"></i>
+
+
+            <div id="eigth-pointer-hover">
+                    
+                    <p style="font-size: 10px;height: auto;width: 131px;font-weight: 400;color: white;background: #FFAB0B;padding: 4px;" class="text-center font-size-20">Belgium</p>
+                    <div class="pointer" style=" width: 0; height: 0; border-left: 20px solid transparent;border-top: 20px solid #C27C00;"></div>
+
+              </div>
+
+              <i id="nine-pointer" class="fas fa-map-marker-alt fa-3x ok"></i>
+
+
+              <div id="nine-pointer-hover">
+                      
+                      <p style="font-size: 10px;height: auto;width: 131px;font-weight: 400;color: white;background: #FFAB0B;padding: 4px;" class="text-center font-size-20">Portugal</p>
+                      <div class="pointer" style=" width: 0; height: 0; border-left: 20px solid transparent;border-top: 20px solid #C27C00;"></div>
+
+                </div>
+
+                <i id="ten-pointer" class="fas fa-map-marker-alt fa-3x ok"></i>
+
+
+                <div id="ten-pointer-hover">
+                        
+                        <p style="font-size: 10px;height: auto;width: 131px;font-weight: 400;color: white;background: #FFAB0B;padding: 4px;" class="text-center font-size-20">Italy</p>
+                        <div class="pointer" style=" width: 0; height: 0; border-left: 20px solid transparent;border-top: 20px solid #C27C00;"></div>
+
+                  </div>
+
+
+                  <i id="eleven-pointer" class="fas fa-map-marker-alt fa-3x ok"></i>
+
+
+                  <div id="eleven-pointer-hover">
+                          
+                          <p style="font-size: 10px;height: auto;width: 131px;font-weight: 400;color: white;background: #FFAB0B;padding: 4px;" class="text-center font-size-20">UK</p>
+                          <div class="pointer" style=" width: 0; height: 0; border-left: 20px solid transparent;border-top: 20px solid #C27C00;"></div>
+
+                    </div>
+
+
+                    <i id="twel-pointer" class="fas fa-map-marker-alt fa-3x ok"></i>
+
+
+                  <div id="twel-pointer-hover">
+                          
+                          <p style="font-size: 10px;height: auto;width: 131px;font-weight: 400;color: white;background: #FFAB0B;padding: 4px;" class="text-center font-size-20">USA</p>
+                          <div class="pointer" style=" width: 0; height: 0; border-left: 20px solid transparent;border-top: 20px solid #C27C00;"></div>
+
+                    </div>
+
+            
    
       </div>
       </div>

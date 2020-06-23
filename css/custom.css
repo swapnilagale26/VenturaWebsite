@@ -2281,8 +2281,8 @@ transform-style: preserve-3d;
 
 #first-pointer {
   cursor: pointer;
-  left: 16%;
-  bottom: 60%;
+  left: 67%;
+  bottom: 39%;
   max-width: 100%;
   height: auto;
   color: #f0a61b;
@@ -2292,8 +2292,8 @@ transform-style: preserve-3d;
 
 #second-pointer {
   cursor: pointer;
-  left: 67%;
-  bottom: 68%;
+  left: 76%;
+  bottom: 26%;
   max-width: 100%;
   height: auto;
   color: #f0a61b;
@@ -2304,7 +2304,7 @@ transform-style: preserve-3d;
 #third-pointer {
   cursor: pointer;
   left: 84%;
-  bottom: 52%;
+  bottom: 15%;
   max-width: 100%;
   height: auto;
   color: #f0a61b;
@@ -2314,8 +2314,8 @@ transform-style: preserve-3d;
 
 #fourth-pointer {
   cursor: pointer;
-  left: 45%;
-  bottom: 36%;
+  left: 69%;
+  bottom: 31%;
   max-width: 100%;
   height: auto;
   color: #f0a61b;
@@ -2323,13 +2323,103 @@ transform-style: preserve-3d;
   z-index: 99;
 }
 
+#fifth-pointer {
+  cursor: pointer;
+  left: 61%;
+  bottom: 40%;
+  max-width: 100%;
+  height: auto;
+  color: #f0a61b;
+  position: absolute;
+  z-index: 99;
+}
+
+#sixth-pointer {
+  cursor: pointer;
+  left: 58%;
+  bottom: 39%;
+  max-width: 100%;
+  height: auto;
+  color: #f0a61b;
+  position: absolute;
+  z-index: 99;
+}
+
+#seventh-pointer {
+  cursor: pointer;
+  left: 45%;
+  bottom: 46%;
+  max-width: 100%;
+  height: auto;
+  color: #f0a61b;
+  position: absolute;
+  z-index: 99;
+}
+
+#eigth-pointer {
+  cursor: pointer;
+  left: 47%;
+  bottom: 55%;
+  max-width: 100%;
+  height: auto;
+  color: #f0a61b;
+  position: absolute;
+  z-index: 99;
+}
+
+#nine-pointer {
+  cursor: pointer;
+  left: 43%;
+  bottom: 48%;
+  max-width: 100%;
+  height: auto;
+  color: #f0a61b;
+  position: absolute;
+  z-index: 99;
+}
+
+
+#ten-pointer {
+  cursor: pointer;
+  left: 51%;
+  bottom: 50%;
+  max-width: 100%;
+  height: auto;
+  color: #f0a61b;
+  position: absolute;
+  z-index: 99;
+}
+
+
+#eleven-pointer {
+  cursor: pointer;
+  left: 44%;
+  bottom: 58%;
+  max-width: 100%;
+  height: auto;
+  color: #f0a61b;
+  position: absolute;
+  z-index: 99;
+}
+
+
+#twel-pointer {
+  cursor: pointer;
+  left: 17%;
+  bottom: 51%;
+  max-width: 100%;
+  height: auto;
+  color: #f0a61b;
+  position: absolute;
+  z-index: 99;
+}
 /* #first-pointer:hover + .front-pointer #first-pointer-hover{
 display: block;
 } */
 
 #first-pointer-hover {
-  left: 12%;
-  bottom: 67.5%;
+  left: 64%;
+  bottom: 43.5%;
   display: none;
   max-width: 100%;
   height: auto;
@@ -2354,9 +2444,41 @@ display: block;
   display: block;
 }
 
+#fifth-pointer:hover + #fifth-pointer-hover {
+  display: block;
+}
+
+#sixth-pointer:hover + #sixth-pointer-hover {
+  display: block;
+}
+
+#seventh-pointer:hover + #seventh-pointer-hover {
+  display: block;
+}
+
+#eigth-pointer:hover + #eigth-pointer-hover {
+  display: block;
+}
+
+#nine-pointer:hover + #nine-pointer-hover {
+  display: block;
+}
+
+#ten-pointer:hover + #ten-pointer-hover {
+  display: block;
+}
+
+#eleven-pointer:hover + #eleven-pointer-hover {
+  display: block;
+}
+
+#twel-pointer:hover + #twel-pointer-hover {
+  display: block;
+}
+
 #second-pointer-hover {
-  left: 62%;
-  bottom: 75%;
+  left: 72%;
+  bottom: 29%;
   display: none;
   max-width: 100%;
   height: auto;
@@ -2367,7 +2489,7 @@ display: block;
 
 #third-pointer-hover {
   left: 75%;
-  bottom: 61%;
+  bottom: 22%;
   display: none;
   max-width: 100%;
   height: auto;
@@ -2377,8 +2499,96 @@ display: block;
 }
 
 #fourth-pointer-hover {
-  left: 40.5%;
-  bottom: 43%;
+  left: 63%;
+  bottom: 34%;
+  display: none;
+  max-width: 100%;
+  height: auto;
+  color: #f0a61b;
+  position: absolute;
+  z-index: 99;
+}
+
+#fifth-pointer-hover {
+  left: 58%;
+  bottom: 45%;
+  display: none;
+  max-width: 100%;
+  height: auto;
+  color: #f0a61b;
+  position: absolute;
+  z-index: 99;
+}
+
+#sixth-pointer-hover {
+  left: 53%;
+  bottom: 44%;
+  display: none;
+  max-width: 100%;
+  height: auto;
+  color: #f0a61b;
+  position: absolute;
+  z-index: 99;
+}
+
+#seventh-pointer-hover {
+  left: 42%;
+  bottom: 50%;
+  display: none;
+  max-width: 100%;
+  height: auto;
+  color: #f0a61b;
+  position: absolute;
+  z-index: 9999;
+}
+
+#eigth-pointer-hover {
+  left: 43%;
+  bottom: 58%;
+  display: none;
+  max-width: 100%;
+  height: auto;
+  color: #f0a61b;
+  position: absolute;
+  z-index: 999;
+}
+
+#nine-pointer-hover {
+  left: 38%;
+  bottom: 52%;
+  display: none;
+  max-width: 100%;
+  height: auto;
+  color: #f0a61b;
+  position: absolute;
+  z-index: 999;
+}
+
+#ten-pointer-hover {
+  left: 47%;
+  bottom: 55%;
+  display: none;
+  max-width: 100%;
+  height: auto;
+  color: #f0a61b;
+  position: absolute;
+  z-index: 99;
+}
+
+#eleven-pointer-hover {
+  left: 40%;
+  bottom: 63%;
+  display: none;
+  max-width: 100%;
+  height: auto;
+  color: #f0a61b;
+  position: absolute;
+  z-index: 99;
+}
+
+#twel-pointer-hover {
+  left: 12%;
+  bottom: 56%;
   display: none;
   max-width: 100%;
   height: auto;
@@ -2592,10 +2802,20 @@ display: block;
   }
 }
 
+@media only screen and (max-width: 670px) {
+  .ok{
+    font-size: 20px;
+  }
+}
+
 @media only screen and (max-width: 550px) {
   .p-readm {
     margin-top: -20px;
     margin-right:30%;
+  }
+
+  .ok{
+    font-size: 15px;
   }
 }
 

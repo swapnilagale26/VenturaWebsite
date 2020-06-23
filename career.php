@@ -178,7 +178,7 @@
                 </video>
                 <div id="videoMessageBox2">
                     <div id="videoMessage2 text-center">
-                        <a href="video-btn" data-toggle="modal" data-src="img/video/team-video.mp4" data-target="#myModal"><img src="img/new-img/play-btn.png" alt="plybtn"></a>
+                        <!-- <a href="video-btn" data-src="img/video/team-video.mp4" ><img src="img/new-img/play-btn.png" alt="plybtn"></a> -->
                     </div>
                 </div>
               </div>
