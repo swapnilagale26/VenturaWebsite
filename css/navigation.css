@@ -1033,8 +1033,8 @@
     display: table;
     position: relative;
     font-family: inherit;
-    background-color: transparent;
-    /* background-image: linear-gradient(to right, #0C23A7 , #0C23A7,#1329A2, #162BA3,#1E34AA,#2E4AB7,#3767C5,#3177CB ); */
+    /* background-color: transparent; */
+    background-image: linear-gradient(to right, #0C23A7 , #0C23A7,#1329A2, #162BA3,#1E34AA,#2E4AB7,#3767C5,#3177CB );
     padding-top: 9px;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
@@ -1047,7 +1047,7 @@
     box-shadow: none;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
-    -o-transition: all 0.3s ease;
+   -o-transition: all 0.3s ease;
   }
 
   /*Nav Links*/

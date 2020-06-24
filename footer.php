@@ -481,6 +481,22 @@ function openCity(evt, cityName) {
   evt.currentTarget.className += " active";
 }
 
+function openContent(evnt, contentName) {
+    console.log("hi")
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tab-content");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tabs = document.getElementsByClassName("tabs");
+  for (i = 0; i < tabs.length; i++) {
+    tabs[i].className = tabs[i].className.replace(" active", "");
+  }
+  document.getElementById(contentName).style.display = "block";
+  evnt.currentTarget.className += " active";
+}
+
+
 </script>
 <script src="js/wow.min.js"></script>
   <script>

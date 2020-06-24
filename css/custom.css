@@ -2930,3 +2930,12 @@ display: block;
   font-weight: 300;
   margin-left: 18px;
 }
+
+/* .tab-content{
+  display: none;
+} */
+
+.tabs.active{
+font-weight: 700;
+color: #172990;
+}

@@ -24,10 +24,14 @@
   </div>
 </div> -->
 <div class="container mt-30">
-<p class="font-size-20 text-center"style="font-weight: 400;color:black;padding-left:20px;padding-right-20px"><b>Blogs</b> | eBooks | Case Studies | Cartoon Strips </p>
+<p class="font-size-20 text-center"style="font-weight: 400;color:black;padding-left:20px;padding-right-20px">
+<span id="blogs"><a href="JavaScript:Void(0)" class="tabs active" onclick="openContent(event, 'blogs-content')">Blogs</a></span> | 
+<span id="ebooks"><a href="JavaScript:Void(0)" class="tabs" onclick="openContent(event, 'ebooks-content')">eBooks</a></span> | 
+<span id="case-studies"><a href="JavaScript:Void(0)" class="tabs" onclick="openContent(event, 'case-studies-content')">Case Studies</a></span> | 
+<span id="cartoon-strips"><a href="JavaScript:Void(0)" class="tabs" onclick="openContent(event, 'cartoon-strips-content')">Cartoon Strips</a></span> </p>
 </div>
 
-<section>
+<section id="blogs-content" class="tab-content">
     <div class="container">
         <div class="row">
            
@@ -125,6 +129,10 @@
 
     </div> 
 </section>
+
+<section id="ebooks-content" class="tab-content tabcon">ebooks-content</section>
+<section id="case-studies-content" class="tab-content tabcon">case-studies-content</section>
+<section id="cartoon-strips-content" class="tab-content tabcon">cartoon-strips-content</section>
 
 <!-- <section class="slider-test">
   <div class="container">
@@ -399,6 +407,20 @@ defer(function() {
       $("#job-description4").slideToggle("slow");
   });
 
+  function openContent(evnt, contentName) {
+    console.log("hi")
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tab-content");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tabs = document.getElementsByClassName("tabs");
+  for (i = 0; i < tabs.length; i++) {
+    tabs[i].className = tabs[i].className.replace(" active", "");
+  }
+  document.getElementById(contentName).style.display = "block";
+  evnt.currentTarget.className += " active";
+}
 
 
 

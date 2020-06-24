@@ -27,10 +27,7 @@
       <div class="resource-box padding-10-perc  background-80 background-no-repeat background-center">
         <div class="section-heading text-left">
           <h4 class="semi-bold font-size-35">Case Studies </h4>
-        </div>
-        <div class="text-content mt-20">
-          <p>Our success stories, one happy customer at a time!</p>
-        </div>  
+        </div> 
          <div class="text-content mt-20">
             <a href="">Review case studies</a>
         </div>

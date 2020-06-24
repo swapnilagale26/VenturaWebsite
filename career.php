@@ -250,7 +250,6 @@ illustrator, Photoshop and After effects</li>
 
           <div id="videoDiv2"> 
               <div id="videoBlock2"> 
-
                 <img src="img/new-img/video-back.jpg" id="videosubstitute" alt="">
                 <video autoplay muted loop id="myVideo" style="width:100%;">
                   <source src="img/video/team-video.mp4" type="video/mp4" >
