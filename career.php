@@ -214,7 +214,7 @@ illustrator, Photoshop and After effects</li>
   <li class="career-list">Testing skills such as Manual Testing, Black Box Testing, Performance Testing, and Usability Standards.</li>
   </ul>
 
-  <div class="job-code"><b>Job Description::</b></div>
+  <div class="job-code"><b>Job Description:</b></div>
 
   <ul>
   <li class="career-list">Ability to analyze the project requirement and scope and prepare test plans accordingly.</li>

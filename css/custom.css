@@ -2935,7 +2935,13 @@ display: block;
   display: none;
 } */
 
-.tabs.active{
-font-weight: 700;
-color: #172990;
+.tabs.active {
+  color: #fff;
+  font-size: 18px;
+  background: #666;
+  /* padding-left: 25px; */
+  /* padding-right: 25px; */
+  padding: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }

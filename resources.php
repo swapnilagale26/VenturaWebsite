@@ -24,7 +24,7 @@
   </div>
 </div> -->
 <div class="container mt-30">
-<p class="font-size-20 text-center"style="font-weight: 400;color:black;padding-left:20px;padding-right-20px">
+<p class="text-center"style="font-size:18px;font-weight: 400;color:black;padding-left:20px;padding-right-20px">
 <span id="blogs"><a href="JavaScript:Void(0)" class="tabs active" onclick="openContent(event, 'blogs-content')">Blogs</a></span> | 
 <span id="ebooks"><a href="JavaScript:Void(0)" class="tabs" onclick="openContent(event, 'ebooks-content')">eBooks</a></span> | 
 <span id="case-studies"><a href="JavaScript:Void(0)" class="tabs" onclick="openContent(event, 'case-studies-content')">Case Studies</a></span> | 
