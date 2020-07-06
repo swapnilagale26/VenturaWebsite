@@ -3410,7 +3410,7 @@ owl-next {
 }
 .testmonials-carousel-2 .owl-dots {
   display: block;
-  text-align: left;
+  text-align: center;
   margin-top: 15x !important;
 }
 .testmonials-carousel-2 .custom-dot.active span {
@@ -6585,10 +6585,10 @@ owl-next {
   display: flex;
   align-items: center;
   transition: 0.5s ease;
-  /* background-color: #6980ff; */
+  background-color: black;
 }
 .portolio-boxed:hover .portolio-boxed-overlay {
-  opacity: 1;
+  opacity: 0.8;
 }
 .portolio-boxed:hover .portolio-boxed-content {
   -webkit-animation: 300ms ease-in-out fadeInUp;

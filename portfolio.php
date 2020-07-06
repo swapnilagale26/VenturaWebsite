@@ -24,67 +24,67 @@
   </div>
 </div> -->
 <div class="container mt-80">
-<h3 class="semi-bold font-size-30"  style="color: black; text-align: center">Elearning Samples</h3>
+<h3 class="semi-bold font-size-30"  style="color: black; text-align: center">eLearning Samples</h3>
       <div class="section-heading-line line-thin" style="color: #8DF284"></div>
 
 <div>
   <div class="container">
     <div class="row">
-      <div class="col-md-4 col-sm-6 col-12">  <!--<a href="#">-->
+      <div class="col-md-4 col-sm-6 col-12">  <a href="#" data-toggle="modal" data-target="#exampleModal4">
         <div class="portolio-boxed"> <img src="img/new-img/a19.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>Dangerous Rocks Kanga</h3>
-            </div> -->
+            <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-        <!-- </a>--> </div>
+        </a> </div>
   
-      <div class="col-md-4 col-sm-6 col-12"> <!--<a href="#">-->
+      <div class="col-md-4 col-sm-6 col-12"> <a href="#" data-toggle="modal" data-target="#exampleModal5">
         <div class="portolio-boxed"> <img src="img/new-img/a22.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>The Bomb Squad</h3>
-            </div> -->
+            <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-        <!-- </a>--> </div>
-      <div class="col-md-4 col-sm-6 col-12"> <!--<a href="#">-->
+        </a> </div>
+      <div class="col-md-4 col-sm-6 col-12"> <a href="#">
         <div class="portolio-boxed"> <img src="img/new-img/a27.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>Yellow Moose</h3>
-            </div> -->
+            <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-        <!-- </a>--> </div>
-      <div class="col-md-4 col-sm-6 col-12"> <!--<a href="#">-->
+        </a> </div>
+      <div class="col-md-4 col-sm-6 col-12"> <a href="#">
         <div class="portolio-boxed"> <img src="img/new-img/a07.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>Pure Panther</h3>
-            </div> -->
+            <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-        <!-- </a>--> </div>
-      <div class="col-md-4 col-sm-6 col-12"> <!--<a href="#">-->
+        </a> </div>
+      <div class="col-md-4 col-sm-6 col-12"> <a href="#">
         <div class="portolio-boxed"> <img src="img/new-img/a01.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>Lemon Drops</h3>
-            </div> -->
+            <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-        <!-- </a>--> </div>
-      <div class="col-md-4 col-sm-6 col-12"> <!--<a href="#">-->
+        </a> </div>
+      <div class="col-md-4 col-sm-6 col-12"> <a href="#">
         <div class="portolio-boxed"> <img src="img/new-img/a02.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>Gray Panthers</h3>
-            </div> -->
+            <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-       <!-- </a>--> </div>
+       </a> </div>
        
     </div>
   </div>
@@ -97,87 +97,87 @@
 <div id="view-more" >
   <div class="container-fluid">
     <div class="row">
-      <div class="col-md-4 col-sm-6 col-12">  <!--<a href="#">-->
+      <div class="col-md-4 col-sm-6 col-12">  <a href="#">
         <div class="portolio-boxed"> <img src="img/new-img/a03.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>Dangerous Rocks Kanga</h3>
-            </div> -->
+            <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-        <!-- </a>--> </div>
-        <div class="col-md-4 col-sm-6 col-12">  <!--<a href="#">-->
+       </a> </div>
+        <div class="col-md-4 col-sm-6 col-12">  <a href="#">
         <div class="portolio-boxed"> <img src="img/new-img/a04.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>Dangerous Rocks Kanga</h3>
-            </div> -->
+            <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-        <!-- </a>--> </div>
-        <div class="col-md-4 col-sm-6 col-12">  <!--<a href="#">-->
+       </a> </div>
+        <div class="col-md-4 col-sm-6 col-12">  <a href="#">
         <div class="portolio-boxed"> <img src="img/new-img/a25.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>Dangerous Rocks Kanga</h3>
-            </div> -->
+            <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-        <!-- </a>--> </div>
-        <div class="col-md-4 col-sm-6 col-12">  <!--<a href="#">-->
+       </a> </div>
+        <div class="col-md-4 col-sm-6 col-12">  <a href="#">
         <div class="portolio-boxed"> <img src="img/new-img/a11.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>Dangerous Rocks Kanga</h3>
-            </div> -->
+            <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-        <!-- </a>--> </div>
-        <div class="col-md-4 col-sm-6 col-12">  <!--<a href="#">-->
+       </a> </div>
+        <div class="col-md-4 col-sm-6 col-12">  <a href="#">
         <div class="portolio-boxed"> <img src="img/new-img/a09.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>Dangerous Rocks Kanga</h3>
-            </div> -->
+            <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-        <!-- </a>--> </div>
-        <div class="col-md-4 col-sm-6 col-12">  <!--<a href="#">-->
+       </a> </div>
+        <div class="col-md-4 col-sm-6 col-12">  <a href="#">
         <div class="portolio-boxed"> <img src="img/new-img/a26.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>Dangerous Rocks Kanga</h3>
-            </div> -->
+            <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-        <!-- </a>--> </div>
-        <div class="col-md-4 col-sm-6 col-12">  <!--<a href="#">-->
+       </a> </div>
+        <div class="col-md-4 col-sm-6 col-12">  <a href="#">
         <div class="portolio-boxed"> <img src="img/new-img/a08.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>Dangerous Rocks Kanga</h3>
-            </div> -->
+            <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-        <!-- </a>--> </div>
-        <div class="col-md-4 col-sm-6 col-12">  <!--<a href="#">-->
+       </a> </div>
+        <div class="col-md-4 col-sm-6 col-12">  <a href="#">
         <div class="portolio-boxed"> <img src="img/new-img/a13.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>Dangerous Rocks Kanga</h3>
-            </div> -->
+            <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-        <!-- </a>--> </div>
-        <div class="col-md-4 col-sm-6 col-12">  <!--<a href="#">-->
+       </a> </div>
+        <div class="col-md-4 col-sm-6 col-12">  <a href="#">
         <div class="portolio-boxed"> <img src="img/new-img/a18.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>Dangerous Rocks Kanga</h3>
-            </div> -->
+            <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-        <!-- </a>--> </div>
+       </a> </div>
     </div>
   </div>
 </div>
@@ -191,61 +191,61 @@
 <div>
   <div class="container">
     <div class="row">
-      <div class="col-md-4 col-sm-6 col-12">  <!--<a href="#">-->
+      <div class="col-md-4 col-sm-6 col-12">  <a href="#">
         <div class="portolio-boxed"> <img src="img/new-img/a15.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>Dangerous Rocks Kanga</h3>
-            </div> -->
+            <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-        <!-- </a>--> </div>
+        </a> </div>
   
-      <div class="col-md-4 col-sm-6 col-12"> <!--<a href="#">-->
+      <div class="col-md-4 col-sm-6 col-12"> <a href="#">
         <div class="portolio-boxed"> <img src="img/new-img/a16.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>The Bomb Squad</h3>
-            </div> -->
+          <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-        <!-- </a>--> </div>
-      <div class="col-md-4 col-sm-6 col-12"> <!--<a href="#">-->
+       </a> </div>
+      <div class="col-md-4 col-sm-6 col-12"> <a href="#">
         <div class="portolio-boxed"> <img src="img/new-img/a20.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>Yellow Moose</h3>
-            </div> -->
+          <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-        <!-- </a>--> </div>
-      <div class="col-md-4 col-sm-6 col-12"> <!--<a href="#">-->
+       </a> </div>
+      <div class="col-md-4 col-sm-6 col-12"> <a href="#">
         <div class="portolio-boxed"> <img src="img/new-img/a05.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>Pure Panther</h3>
-            </div> -->
+          <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-        <!-- </a>--> </div>
-      <div class="col-md-4 col-sm-6 col-12"> <!--<a href="#">-->
+       </a> </div>
+      <div class="col-md-4 col-sm-6 col-12"> <a href="#">
         <div class="portolio-boxed"> <img src="img/new-img/a23.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>Lemon Drops</h3>
-            </div> -->
+          <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-        <!-- </a>--> </div>
-      <div class="col-md-4 col-sm-6 col-12"> <!--<a href="#">-->
+       </a> </div>
+      <div class="col-md-4 col-sm-6 col-12"> <a href="#">
         <div class="portolio-boxed"> <img src="img/new-img/a17.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>Gray Panthers</h3>
-            </div> -->
+          <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-       <!-- </a>--> </div>
+      </a> </div>
        
     </div>
   </div>
@@ -258,55 +258,60 @@
 <div id="view-more1" >
   <div class="container-fluid">
     <div class="row">
-      <div class="col-md-4 col-sm-6 col-12">  <!--<a href="#">-->
+      <div class="col-md-4 col-sm-6 col-12">  <a href="#">
         <div class="portolio-boxed"> <img src="img/new-img/a12.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>Dangerous Rocks Kanga</h3>
-            </div> -->
+            <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-        <!-- </a>--> </div>
-        <div class="col-md-4 col-sm-6 col-12">  <!--<a href="#">-->
+        </a> </div>
+        <div class="col-md-4 col-sm-6 col-12">  <a href="#">
         <div class="portolio-boxed"> <img src="img/new-img/a10.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>Dangerous Rocks Kanga</h3>
-            </div> -->
+            <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-        <!-- </a>--> </div>
-        <div class="col-md-4 col-sm-6 col-12">  <!--<a href="#">-->
+       </a> </div>
+        <div class="col-md-4 col-sm-6 col-12">  <a href="#">
         <div class="portolio-boxed"> <img src="img/new-img/a24.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>Dangerous Rocks Kanga</h3>
-            </div> -->
+            <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-        <!-- </a>--> </div>
-        <div class="col-md-4 col-sm-6 col-12">  <!--<a href="#">-->
+       </a> </div>
+        <div class="col-md-4 col-sm-6 col-12">  <a href="#">
         <div class="portolio-boxed"> <img src="img/new-img/a21.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>Dangerous Rocks Kanga</h3>
-            </div> -->
+            <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-        <!-- </a>--> </div>
-        <div class="col-md-4 col-sm-6 col-12">  <!--<a href="#">-->
+       </a> </div>
+        <div class="col-md-4 col-sm-6 col-12">  <a href="#">
         <div class="portolio-boxed"> <img src="img/new-img/a14.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
-            <!-- <div class="portolio-boxed-content">
-              <h3>Dangerous Rocks Kanga</h3>
-            </div> -->
+            <div class="portolio-boxed-content">
+              <h3>View More</h3>
+            </div>
           </div>
         </div>
-        <!-- </a>--> </div>
+       </a> </div>
     </div>
   </div>
 </div>
 </div>
+
+
+
+
+
 
 
 <script>

@@ -140,8 +140,8 @@ $(document).ready(function() {
         smartSpeed: 850,
         responsiveClass: true,
         nav:true,
-        navText: ["<i class='fas fa-arrow-left'></i>","<i class='fas fa-arrow-right'></i>"],
-        autoplay: true,
+        navText: ["<i class='ti-angle-left fa-4x' style='font-size: 40px;color: #848484;'></i>","<i class='ti-angle-right fa-4x'style='font-size: 40px;color: #848484;'></i>"],
+        autoplay: false,
         autoplayTimeout: 3000,
         responsive: {
             0: {
@@ -158,7 +158,6 @@ $(document).ready(function() {
             },
             1000: {
                 items: 1,
-                nav: false,
                 dots: false,
                 margin: 30,
             }
