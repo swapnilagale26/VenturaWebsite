@@ -40,7 +40,7 @@
                         <div class="innercontent" style="padding:4%">
                         <div class="service-box-3-icon" style="float:left;width:7%;height:7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
                         <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
-                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 4, 2020</p></div>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">March 09, 2020</p></div>
                         <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">Designing Challenges in Responsive Learning Development</p>
                         <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:6px">Tilt that phone, swipe that content, click the next button- different devices, different actions, different experiences, and how? Responsive Content! Works well for us right, as we switch from one device to another? The YouTube content, most websites etc.</p>
                         <div><a href="#blogs" id="blog1" class="readm1" >Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
@@ -54,7 +54,7 @@
                         <div class="innercontent" style="padding:4%">
                         <div class="service-box-3-icon" style="float:left;width:7%;height:7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
                         <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
-                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 8, 2020</p></div>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">March 16, 2020</p></div>
                         <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">Designing Through the Eyes of Learners</p>
                         <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:10px">“Put Yourself in their Shoes.” Heard that one more than once, right? In situations where one fails to interpret other’s thoughts, when one is unable to read between the lines or where one ends up creating something that doesn’t serve the purpose. Well, for those who haven’t. Just ask any Instructional designer.  </p>
                         <div><a href="#blogs" id="blog2" class="readm1" >Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
@@ -68,7 +68,7 @@
                         <div class="innercontent" style="padding:4%">
                         <div class="service-box-3-icon" style="float:left;width:7%;height: 7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
                         <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
-                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 10, 2020</p></div>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">March 23, 2020</p></div>
                         <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">Behavioural Learning vs. Cognitive Learning</p>
                         <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:10px">Learning theories are the foundation of effective learning implementations. The learning content creation is the result of application of learning <br>theories to deliver best learning experiences to the learners, a part usually handled by the instructional designers.</p>
                         <div><a href="#blogs" id="blog3" class="readm1" >Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
@@ -88,7 +88,7 @@
                         <div class="innercontent" style="padding:4%">
                         <div class="service-box-3-icon" style="float:left;width:7%;height: 7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
                         <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
-                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 12, 2020</p></div>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">March 30, 2020</p></div>
                         <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">Tips for L&D Managers to Calculate ROI on eLearning</p>
                         <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:30px">Profits, Turnaround etc. are terms associated with most businesses, and the same applies for investments in eLearning. As mentioned in the eBook- Calculating eLearning ROI In A Corporate Set-Up Where L&D Is A Support Function</p>
                         <div><a href="#blogs" id="blog4" class="readm1" >Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
@@ -102,7 +102,7 @@
                         <div class="innercontent" style="padding:4%">
                         <div class="service-box-3-icon" style="float:left;width:7%;height: 7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
                         <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
-                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 14, 2020</p></div>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">April 06, 2020</p></div>
                         <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">How to Leverage Video Learning in Corporate Workplace</p>
                         <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:5px">A 3-year-old, unlocks my smartphone (pattern lock and all) opens YouTube and says, “what do you watch it is all about Kitchen and stuff (duh! I binge watch cooking videos so what?).” Unsatisfied with feed he asks me to search for Peppa Pig</p>
                         <div><a href="#blogs" id="blog5" class="readm1" >Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
@@ -116,7 +116,7 @@
                         <div class="innercontent" style="padding:4%">
                         <div class="service-box-3-icon" style="float:left;width:7%;height: 7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
                         <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
-                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 16, 2020</p></div>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">April 13, 2020</p></div>
                         <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">Does Localised eLearning Connect Better with Your eLearners?</p>
                         <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:5px">According to <a style="color: blue" target="_blank" href="https://www.researchandmarkets.com/reports/4760701/global-e-learning-market-analysis-and-trends">Research and Markets</a> “The Global E-Learning Market is poised to grow at a CAGR of around 7.2% over the next decade to reach approximately $325 billion by 2025.” The eLearning market is growing and has gained a global level acceptance.</p>
                         <div><a href="#blogs" id="blog6" class="readm1" >Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
@@ -132,7 +132,7 @@
                         <div class="innercontent" style="padding:4%">
                         <div class="service-box-3-icon" style="float:left;width:7%;height: 7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
                         <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
-                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 18, 2020</p></div>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">April 20, 2020</p></div>
                         <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">How Well-designed Illustrations can help storytelling in eLearning</p>
                         <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:5px">‘Once upon the time’ or ‘Long-long ago’, most of us grew up reading at least a couple of stories that began with those standard lines. Gradually the once non-illustrated books started becoming less popular and illustrated stories took its place.</p>
                         <div><a href="#blogs" id="blog7" class="readm1" >Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
@@ -146,7 +146,7 @@
                         <div class="innercontent" style="padding:4%">
                         <div class="service-box-3-icon" style="float:left;width:7%;height: 7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
                         <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
-                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 20, 2020</p></div>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">April 27, 2020</p></div>
                         <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">Flash to HTML5 Conversion - Cost VS Benefits</p>
                         <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:10px">There is no doubt that Flash has been replaced by HTML5. That too, not just in web-based applications but in eLearning too. Various convertors, eLearning authoring tools and specialised eLearning vendors have gained popularity because of the sudden surge in Flash to HTML5 conversion.</p>
                         <div><a href="#blogs" id="blog8" class="readm1" >Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
@@ -160,7 +160,7 @@
                         <div class="innercontent" style="padding:4%">
                         <div class="service-box-3-icon" style="float:left;width:7%;height: 7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
                         <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
-                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 22, 2020</p></div>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">May 04, 2020</p></div>
                         <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">3 Reasons Why You Must Convert Flash to HTML5</p>
                         <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:30px">Corporate workspaces today consist of employees from different demographic. From the Baby boomersto the millennials and Generation Z. Ask the latter about Flash, and they would probably say, “Eh... Grant Gustin, or maybe the fastest man on Earth (pun not intended).</p>
                         <div><a href="#blogs" id="blog9" class="readm1" >Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
@@ -174,7 +174,7 @@
                         <div class="innercontent" style="padding:4%">
                         <div class="service-box-3-icon" style="float:left;width:7%;height: 7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
                         <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
-                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 24, 2020</p></div>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">May 11, 2020</p></div>
                         <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">Reformatting Learning in the Modern Workplace</p>
                         <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:10px">We live in the 21 st Century!<br> How often is this used as a catchphrase to emphasise changes, technological advances, changing demographic in workplaces, the transition in organizational learning goals, the shifting priorities and most of all the way in which devices have become an..</p>
                         <div><a href="#blogs" id="blog10" class="readm1" >Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
@@ -188,7 +188,7 @@
                         <div class="innercontent" style="padding:4%">
                         <div class="service-box-3-icon" style="float:left;width:7%;height: 7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
                         <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
-                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 26, 2020</p></div>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">May 18, 2020</p></div>
                         <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">Learning Experience Designer VS Instructional Designer</p>
                         <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:30px">Instructional Designer! Even newbies in the eLearning Industry must be well acquainted with this term. We know them as the brains behind eLearning, the ones who give life to most eLearning courses. But what do they do really?</p>
                         <div><a href="#blogs" id="blog11" class="readm1" >Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
@@ -202,7 +202,7 @@
                         <div class="innercontent" style="padding:4%">
                         <div class="service-box-3-icon" style="float:left;width:7%;height: 7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
                         <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
-                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 28, 2020</p></div>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">May 25, 2020</p></div>
                         <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">Ideas to Promote Internal Training Amongst Your Employees</p>
                         <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:5px">How often has an eLearning launch gone south in your organisation? Grumbling users, dissatisfied ones,the unenthusiastic learners and so on, a workplace consists of them all. How do you then ensure that he learning strategy is successful?</p>
                         <div><a href="#blogs" id="blog12" class="readm1" >Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
@@ -216,7 +216,7 @@
                         <div class="innercontent" style="padding:4%">
                         <div class="service-box-3-icon" style="float:left;width:7%;height: 7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
                         <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
-                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 30, 2020</p></div>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 01, 2020</p></div>
                         <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">Quick Tips to Consider Before Starting a Rapid Authoring Project</p>
                         <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:25px">Things are fast paced in this millennium, no doubting that! From Content gathering to analysis to development, everything needs to be done in a pace hitherto imagined,......</p>
                         <div><a href="#blogs" id="blog13" class="readm1" >Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
@@ -230,7 +230,7 @@
                         <div class="innercontent" style="padding:4%">
                         <div class="service-box-3-icon" style="float:left;width:7%;height: 7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
                         <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
-                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 32, 2020</p></div>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 08, 2020</p></div>
                         <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">How Is L&amp;D Community Coping Up with New Trends in Learning?</p>
                         <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:5px">Digital technology, transformations, learning strategy, delivery mechanisms, mobile evolution and so on. The L & D community is forever exposed to changes and adapting to those. Each year new market trends are announced as a response to.....</p>
                         <div><a href="#blogs" id="blog14" class="readm1" >Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
@@ -244,7 +244,7 @@
                         <div class="innercontent" style="padding:4%">
                         <div class="service-box-3-icon" style="float:left;width:7%;height: 7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
                         <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
-                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 34, 2020</p></div>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 15, 2020</p></div>
                         <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">Challenges in HTML5 Development (And Resolutions)</p>
                         <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:10px">HTML5 (or Hyper Text Markup Language 5, if you call it so) has been the talk of the town even before the demise of Flash, more in the eLearning circle if one must add. The whole multi device boom added to the growing popularity and suddenly HTML5 became the next big thing.</p>
                         <div><a href="#blogs" id="blog15" class="readm1" >Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
@@ -258,7 +258,7 @@
                         <div class="innercontent" style="padding:4%">
                         <div class="service-box-3-icon" style="float:left;width:7%;height: 7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
                         <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
-                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 36, 2020</p></div>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 22, 2020</p></div>
                         <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">Can eLearning Save Time and Cost for Small-medium Size Companies?</p>
                         <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:25px">eLearning, electronic learning or online learning has been widely adopted globally and by organisations with large employee strength mostly owing to the expanse of its outreach and cost-effectiveness.</p>
                         <div><a href="#blogs" id="blog16" class="readm1" >Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
@@ -273,7 +273,7 @@
                         <div class="innercontent" style="padding:4%">
                         <div class="service-box-3-icon" style="float:left;width:7%;height: 7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
                         <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
-                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 38, 2020</p></div>
+                        <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 29, 2020</p></div>
                         <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">Can the Impact of Compliance Training Be Increased If Delivered in Digital Mode?</p>
                         <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:25px">Compliance Training! The same old boring norms and long list of rules to follow. Usually the first thought that buzzes through our minds when it comes to compliance training is that it is boring.</p>
                         <div><a href="#blogs" id="blog17" class="readm1" >Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
@@ -287,7 +287,7 @@
         <div class="moreInfo" id="blog1-info">
           <div class="innercontent" style="padding: 4% 4% 3% 0%;">
                         <div class="service-box-3-icon" style="float:left;width:5%;height: 1%"><img src="img/new-img/1.png" class="img-responsive img-circle blog-owner"></div>
-                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">June 4, 2020</span> | comments</p>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">March 09, 2020</span> | comments</p>
                         </div>
           </div>
           <div class="blogHeading">Designing Challenges in Responsive Learning Development</div>
@@ -319,7 +319,7 @@
         <div class="moreInfo" id="blog2-info">
           <div class="innercontent" style="padding: 4% 4% 3% 0%;">
                         <div class="service-box-3-icon" style="float:left;width:5%;height: 1%"><img src="img/new-img/1.png" class="img-responsive img-circle blog-owner"></div>
-                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">June 8, 2020</span> | comments</p>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">March 16, 2020</span> | comments</p>
                         </div>
           </div>
           <div class="blogHeading">Designing Through the Eyes of Learners</div>
@@ -363,7 +363,7 @@
         <div class="moreInfo" id="blog3-info">
           <div class="innercontent" style="padding: 4% 4% 3% 0%;">
                         <div class="service-box-3-icon" style="float:left;width:5%;height: 1%"><img src="img/new-img/1.png" class="img-responsive img-circle blog-owner"></div>
-                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">June 10, 2020</span> | comments</p>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">March 23, 2020</span> | comments</p>
                         </div>
           </div>
           <div class="blogHeading">Behavioural Learning vs. Cognitive Learning</div>
@@ -407,7 +407,7 @@
         <div class="moreInfo" id="blog4-info">
           <div class="innercontent" style="padding: 4% 4% 3% 0%;">
                         <div class="service-box-3-icon" style="float:left;width:5%;height: 1%"><img src="img/new-img/1.png" class="img-responsive img-circle blog-owner"></div>
-                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">June 12, 2020</span> | comments</p>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">March 30, 2020</span> | comments</p>
                         </div>
           </div>
           <div class="blogHeading">Tips for L&D Managers to Calculate ROI on eLearning</div>
@@ -441,7 +441,7 @@
         <div class="moreInfo" id="blog5-info">
           <div class="innercontent" style="padding: 4% 4% 3% 0%;">
                         <div class="service-box-3-icon" style="float:left;width:5%;height: 1%"><img src="img/new-img/1.png" class="img-responsive img-circle blog-owner"></div>
-                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">June 14, 2020</span> | comments</p>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">April 06, 2020</span> | comments</p>
                         </div>
           </div>
           <div class="blogHeading">How to Leverage Video Learning in Corporate Workplace</div>
@@ -480,7 +480,7 @@
         <div class="moreInfo" id="blog6-info">
           <div class="innercontent" style="padding: 4% 4% 3% 0%;">
                         <div class="service-box-3-icon" style="float:left;width:5%;height: 1%"><img src="img/new-img/1.png" class="img-responsive img-circle blog-owner"></div>
-                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">June 16, 2020</span> | comments</p>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">April 13, 2020</span> | comments</p>
                         </div>
           </div>
           <div class="blogHeading">Does Localised eLearning Connect Better with Your eLearners?</div>
@@ -513,7 +513,7 @@
         <div class="moreInfo" id="blog7-info">
           <div class="innercontent" style="padding: 4% 4% 3% 0%;">
                         <div class="service-box-3-icon" style="float:left;width:5%;height: 1%"><img src="img/new-img/1.png" class="img-responsive img-circle blog-owner"></div>
-                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">June 18, 2020</span> | comments</p>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">April 20, 2020</span> | comments</p>
                         </div>
           </div>
           <div class="blogHeading">How Well-designed Illustrations can help storytelling in eLearning</div>
@@ -553,7 +553,7 @@
         <div class="moreInfo" id="blog8-info">
           <div class="innercontent" style="padding: 4% 4% 3% 0%;">
                         <div class="service-box-3-icon" style="float:left;width:5%;height: 1%"><img src="img/new-img/1.png" class="img-responsive img-circle blog-owner"></div>
-                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">June 20, 2020</span> | comments</p>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">April 27, 2020</span> | comments</p>
                         </div>
           </div>
           <div class="blogHeading">Flash to HTML5 Conversion - Cost VS Benefits</div>
@@ -591,7 +591,7 @@
         <div class="moreInfo" id="blog9-info">
           <div class="innercontent" style="padding: 4% 4% 3% 0%;">
                         <div class="service-box-3-icon" style="float:left;width:5%;height: 1%"><img src="img/new-img/1.png" class="img-responsive img-circle blog-owner"></div>
-                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">June 22, 2020</span> | comments</p>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">May 04, 2020</span> | comments</p>
                         </div>
           </div>
           <div class="blogHeading">3 Reasons Why You Must Convert Flash to HTML5</div>
@@ -621,7 +621,7 @@
         <div class="moreInfo" id="blog10-info">
           <div class="innercontent" style="padding: 4% 4% 3% 0%;">
                         <div class="service-box-3-icon" style="float:left;width:5%;height: 1%"><img src="img/new-img/1.png" class="img-responsive img-circle blog-owner"></div>
-                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">June 24, 2020</span> | comments</p>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">May 11, 2020</span> | comments</p>
                         </div>
           </div>
           <div class="blogHeading">Reformatting Learning in the Modern Workplace</div>
@@ -660,7 +660,7 @@
         <div class="moreInfo" id="blog11-info">
           <div class="innercontent" style="padding: 4% 4% 3% 0%;">
                         <div class="service-box-3-icon" style="float:left;width:5%;height: 1%"><img src="img/new-img/1.png" class="img-responsive img-circle blog-owner"></div>
-                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">June 26, 2020</span> | comments</p>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">May 18, 2020</span> | comments</p>
                         </div>
           </div>
           <div class="blogHeading">Learning Experience Designer VS Instructional Designer</div>
@@ -705,7 +705,7 @@
         <div class="moreInfo" id="blog12-info">
           <div class="innercontent" style="padding: 4% 4% 3% 0%;">
                         <div class="service-box-3-icon" style="float:left;width:5%;height: 1%"><img src="img/new-img/1.png" class="img-responsive img-circle blog-owner"></div>
-                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">June 28, 2020</span> | comments</p>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">May 25, 2020</span> | comments</p>
                         </div>
           </div>
           <div class="blogHeading">Ideas to Promote Internal Training Amongst Your Employees </div>
@@ -737,7 +737,7 @@
         <div class="moreInfo" id="blog13-info">
           <div class="innercontent" style="padding: 4% 4% 3% 0%;">
                         <div class="service-box-3-icon" style="float:left;width:5%;height: 1%"><img src="img/new-img/1.png" class="img-responsive img-circle blog-owner"></div>
-                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">June 30, 2020</span> | comments</p>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">June 01, 2020</span> | comments</p>
                         </div>
           </div>
           <div class="blogHeading">Quick Tips to Consider Before Starting a Rapid Authoring Project</div>
@@ -769,7 +769,7 @@
         <div class="moreInfo" id="blog14-info">
           <div class="innercontent" style="padding: 4% 4% 3% 0%;">
                         <div class="service-box-3-icon" style="float:left;width:5%;height: 1%"><img src="img/new-img/1.png" class="img-responsive img-circle blog-owner"></div>
-                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">June 32, 2020</span> | comments</p>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">June 08, 2020</span> | comments</p>
                         </div>
           </div>
           <div class="blogHeading">How Is L&D Community Coping Up with New Trends in Learning?</div>
@@ -811,7 +811,7 @@
         <div class="moreInfo" id="blog15-info">
           <div class="innercontent" style="padding: 4% 4% 3% 0%;">
                         <div class="service-box-3-icon" style="float:left;width:5%;height: 1%"><img src="img/new-img/1.png" class="img-responsive img-circle blog-owner"></div>
-                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">June 34, 2020</span> | comments</p>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">June 15, 2020</span> | comments</p>
                         </div>
           </div>
           <div class="blogHeading">Challenges in HTML5 Development (And Resolutions)</div>
@@ -853,7 +853,7 @@
         <div class="moreInfo" id="blog16-info">
           <div class="innercontent" style="padding: 4% 4% 3% 0%;">
                         <div class="service-box-3-icon" style="float:left;width:5%;height: 1%"><img src="img/new-img/1.png" class="img-responsive img-circle blog-owner"></div>
-                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">June 36, 2020</span> | comments</p>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">June 22, 2020</span> | comments</p>
                         </div>
           </div>
           <div class="blogHeading">Can eLearning Save Time and Cost for Small-medium Size Companies?</div>
@@ -915,7 +915,7 @@
         <div class="moreInfo" id="blog17-info">
           <div class="innercontent" style="padding: 4% 4% 3% 0%;">
                         <div class="service-box-3-icon" style="float:left;width:5%;height: 1%"><img src="img/new-img/1.png" class="img-responsive img-circle blog-owner"></div>
-                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">June 38, 2020</span> | comments</p>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">June 29, 2020</span> | comments</p>
                         </div>
           </div>
           <div class="blogHeading">Can the Impact of Compliance Training Be Increased If Delivered in Digital Mode?</div>
@@ -969,7 +969,7 @@
                                     <div class="innercontent" style="padding:4%">
                                     <div class="service-box-3-icon" style="float:left;width:7%;height:7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
                                     <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
-                                    <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 4, 2020</p></div>
+                                    <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">May 01, 2020</p></div>
                                     <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">HOW TO DESIGN AND DEVELOP RESPONSIVE LEARNING</p>
                                     <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:6px">With the ever-growing increase in mobile and other devices with varied screen-sizes that are being added to the eLearning mix, Responsive Learning has become a must-have. The eBook discusses about the what and how of Responsive Learning.</p>
                                     <div><a target="_blank" href="https://drive.google.com/file/d/1hc3Z4QoWH55sp9K6RcFbCeRpaWAM9-pT/view?usp=sharing" id="ebook1" class="readm1" >Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
@@ -977,20 +977,20 @@
                         </div>
               </div>
 
-                <div class="col-md-6 col-lg-4 col-12 imgbox" id="ebook2-d">
+              <div class="col-md-6 col-lg-4 col-12 imgbox" id="ebook2-d">
                         <div style="border:1px solid grey;">    
                                     <img src="img/ebooks/ebook2.png" alt="Responsive image" class="min-vh-100">
                             <div class="innercontent" style="padding:4%">
                                     <div class="service-box-3-icon" style="float:left;width:7%;height:7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
                                     <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
-                                    <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 6, 2020</p></div>
+                                    <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 01, 2020</p></div>
                                     <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">BEST PRACTICES WHILE CONVERTING ILT INTO eLEARNING</p>
                                     <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:6px">Until a few years back, Instructor-led training (ILT) was the core of any corporate L&amp;D venture. Derived from the traditional classroom setting where an instructor/trainer/educator instilled knowledge to the employees/learners/students through <face-to-face class=""></face-to-face></p>
                                     <div><a target="_blank" href="https://drive.google.com/file/d/1WJl72y8FoXMmX3K_u4B9ZwaaBHsBLamW/view?usp=sharing" id="ebook2" class="readm1" >Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
                                     </div>
-                          </div>
-                  </div>
-          </div>
+                            </div>
+                       </div>
+              </div>
               
       
 
@@ -999,15 +999,85 @@
 
 
 <section id="case-studies-content" class="tab-content tabcon"><div class="container">
-        <div class="row">
-              case studies content
+<div class="container">
+<div class="row allebooks">
+              <div class="col-md-6 col-lg-4 col-12 imgbox" id="caseStudy1-d">
+                        <div style="border:1px solid grey;">    
+                                    <img src="img/blogs/blog1-banner.png" alt="Responsive image" class="min-vh-100">
+                                    <div class="innercontent" style="padding:4%">
+                                    <div class="service-box-3-icon" style="float:left;width:7%;height:7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
+                                    <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
+                                    <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">May 01, 2020</p></div>
+                                    <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">HOW TO DESIGN AND DEVELOP RESPONSIVE LEARNING</p>
+                                    <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:6px">With the ever-growing increase in mobile and other devices with varied screen-sizes that are being added to the eLearning mix, Responsive Learning has become a must-have. The eBook discusses about the what and how of Responsive Learning.</p>
+                                    <div><a target="_blank" href="https://drive.google.com/file/d/1hc3Z4QoWH55sp9K6RcFbCeRpaWAM9-pT/view?usp=sharing" id="caseStudy1" class="readm1" >Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
+                                    </div>
+                        </div>
+              </div>
 
-    </div>
+              <div class="col-md-6 col-lg-4 col-12 imgbox" id="caseStudy2-d">
+                        <div style="border:1px solid grey;">    
+                                    <img src="img/ebooks/ebook2.png" alt="Responsive image" class="min-vh-100">
+                            <div class="innercontent" style="padding:4%">
+                                    <div class="service-box-3-icon" style="float:left;width:7%;height:7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
+                                    <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies | comments</p>
+                                    <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">June 01, 2020</p></div>
+                                    <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">BEST PRACTICES WHILE CONVERTING ILT INTO eLEARNING</p>
+                                    <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:6px">Until a few years back, Instructor-led training (ILT) was the core of any corporate L&amp;D venture. Derived from the traditional classroom setting where an instructor/trainer/educator instilled knowledge to the employees/learners/students through <face-to-face class=""></face-to-face></p>
+                                    <div><a target="_blank" href="https://drive.google.com/file/d/1WJl72y8FoXMmX3K_u4B9ZwaaBHsBLamW/view?usp=sharing" id="caseStudy2" class="readm1" >Read More<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
+                                    </div>
+                            </div>
+                       </div>
+              </div>
+              
+      
+
+</div>
+
   </section>
   
 
   
-<section id="cartoon-strips-content" class="tab-content tabcon">cartoon-strips-content</section>
+<section id="cartoon-strips-content" class="tab-content tabcon mt-40">
+<div class="container mb-80">
+        <div class="moreInfo" style="display: block" id="vt-1">
+          <div class="innercontent" style="padding: 4% 4% 3% 0%;">
+                        <div class="service-box-3-icon" style="float:left;width:5%;height: 1%"><img src="img/new-img/1.png" class="img-responsive img-circle blog-owner"></div>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">June 05, 2020</span> | VTWitty</p>
+                        </div>
+          </div>
+          <!-- <div class="blogHeading">Can the Impact of Compliance Training Be Increased If Delivered in Digital Mode?</div> -->
+          <div class="row">
+            
+          <img class="vt-comic-images col-12" src="./img/comic/comic1.jpg"></img>
+
+          <p class="col-12 mt-30 comic-discription">
+          Online meetings in the <a href="https://www.facebook.com/hashtag/newnormal" target="_blank" class="hashtag" > #newnormal</a> be like! <a href="https://www.facebook.com/hashtag/thenewnormal" target="_blank" class="hashtag" >#thenewnormal</a> <a href="https://www.facebook.com/hashtag/workingremotely" target="_blank" class="hashtag" >#workingremotely</a> <a class="hashtag" href="https://www.facebook.com/hashtag/covidimpact" target="_blank" >#covidimpact</a> <a class="hashtag" href="https://www.facebook.com/hashtag/lifeatventura" target="_blank" >#lifeatventura</a> <a class="hashtag" href="https://www.facebook.com/hashtag/VTWitty" target="_blank" >#VTWitty</a> - our comic series on the new way of working!
+        </p>
+
+          </div>
+          </div>
+
+          <div class="moreInfo" style="display: block" id="vt-2">
+          <div class="innercontent" style="padding: 4% 4% 3% 0%;">
+                        <div class="service-box-3-icon" style="float:left;width:5%;height: 1%"><img src="img/new-img/1.png" class="img-responsive img-circle blog-owner"></div>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:5%;padding-top:1%">Tushar Agale | venturatechnologies | <span style="font-weight: 400;color:gray;font-size:12px;">June 19, 2020</span> | VTWitty</p>
+                        </div>
+          </div>
+          <!-- <div class="blogHeading">Can the Impact of Compliance Training Be Increased If Delivered in Digital Mode?</div> -->
+          <div class="row">
+            
+          <img class="vt-comic-images col-12" src="./img/comic/comic2.jpg" ></img>
+
+          <p class="col-12 mt-30 comic-discription">
+          While working from home in the <a href="https://www.facebook.com/hashtag/newnormal" target="_blank" class="hashtag" >#newnormal</a> is convenient and safe, there are moments that we miss from office environment. Whether it is sharing lunches, coffee with colleagues, birthday celebrations or the little informal chat between meetings. Capturing these moments in our next VT-Witty edition. Do you also miss them?<br>
+          <a href="https://www.facebook.com/hashtag/newnormal" target="_blank" class="hashtag" > #newnormal</a> <a class="hashtag" href="https://www.facebook.com/hashtag/workfromhomelife" target="_blank" >#workfromhomelife</a> <a class="hashtag" href="https://www.facebook.com/hashtag/lifeatventura" target="_blank" >#lifeatventura</a>
+        </p>
+
+          </div>
+          </div>
+</div>
+</section>
 
 <!-- <section class="slider-test">
   <div class="container">

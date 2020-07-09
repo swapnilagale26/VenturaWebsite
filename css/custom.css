@@ -3068,3 +3068,22 @@ color: #1614a8;
     color: grey !important;
     filter: grayscale(100%);
   }
+
+  .vt-comic-images{
+    background-size: cover;
+    width: 100%;
+    height: auto;
+  }
+
+  .comic-discription{
+    font-size: 16px;
+  }
+
+  .hashtag{
+    font-weight:600;
+    color:black;
+  }
+
+  .hashtag:hover{
+    border-bottom: 2px solid;
+  }
