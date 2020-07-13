@@ -6,7 +6,7 @@
       <div class="col-md-12">
         <h3 style="color: black; text-transform: uppercase;">Resources</h3>
       <div class="section-heading-line line-thin" style="color: #8DF284; margin-left:0px;width:160px"></div>
-      <p>The only source of knowledge is experience.<br> - Albert Einstein</p>
+      <p >The only source of knowledge is experience<br> <span class="reswriter" style="float:right">- Albert Einstein</span></p>
 
 
       </div>
@@ -26,8 +26,9 @@
 <div class="container mt-30">
 <p class="text-center"style="font-size:18px;font-weight: 400;color:black;padding-left:20px;padding-right-20px">
 <span id="blogs"><a href="JavaScript:Void(0)" class="tabs active" onclick="openContent(event, 'blogs-content')">Blogs</a></span> | 
-<span id="ebooks"><a href="JavaScript:Void(0)" class="tabs" onclick="openContent(event, 'ebooks-content')">eBooks</a></span> | 
-<span id="case-studies"><a href="JavaScript:Void(0)" class="tabs" onclick="openContent(event, 'case-studies-content')">Case Studies</a></span> | 
+<span id="ebooks"><a href="JavaScript:Void(0)" class="tabs" onclick="openContent(event, 'ebooks-content')">Ebooks</a></span> | 
+<span id="case-studies"><a href="JavaScript:Void(0)" class="tabs" style="color: gray">Case Studies</a></span> | 
+<!-- <span id="case-studies"><a href="JavaScript:Void(0)" class="tabs" onclick="openContent(event, 'case-studies-content')">Case Studies</a></span> |  -->
 <span id="cartoon-strips"><a href="JavaScript:Void(0)" class="tabs" onclick="openContent(event, 'cartoon-strips-content')">Cartoon Strips</a></span> </p>
 </div>
 
@@ -1047,14 +1048,14 @@
                         </div>
           </div>
           <!-- <div class="blogHeading">Can the Impact of Compliance Training Be Increased If Delivered in Digital Mode?</div> -->
-          <div class="row">
-            
-          <img class="vt-comic-images col-12" src="./img/comic/comic1.jpg"></img>
-
-          <p class="col-12 mt-30 comic-discription">
+          <div class="row mb-30">
+          <p class="col-md-6 col-12 mt-30 comic-discription">
           Online meetings in the <a href="https://www.facebook.com/hashtag/newnormal" target="_blank" class="hashtag" > #newnormal</a> be like! <a href="https://www.facebook.com/hashtag/thenewnormal" target="_blank" class="hashtag" >#thenewnormal</a> <a href="https://www.facebook.com/hashtag/workingremotely" target="_blank" class="hashtag" >#workingremotely</a> <a class="hashtag" href="https://www.facebook.com/hashtag/covidimpact" target="_blank" >#covidimpact</a> <a class="hashtag" href="https://www.facebook.com/hashtag/lifeatventura" target="_blank" >#lifeatventura</a> <a class="hashtag" href="https://www.facebook.com/hashtag/VTWitty" target="_blank" >#VTWitty</a> - our comic series on the new way of working!
         </p>
-
+          </div>
+          <div class="row">
+        <img class="vt-comic-images col-md-6 col-12" src="./img/comic/comic1.jpg"></img>
+          
           </div>
           </div>
 
@@ -1065,14 +1066,16 @@
                         </div>
           </div>
           <!-- <div class="blogHeading">Can the Impact of Compliance Training Be Increased If Delivered in Digital Mode?</div> -->
-          <div class="row">
-            
-          <img class="vt-comic-images col-12" src="./img/comic/comic2.jpg" ></img>
-
-          <p class="col-12 mt-30 comic-discription">
+          <div class="row mb-30">
+          <p class="col-12 col-md-6 mt-30 comic-discription">
           While working from home in the <a href="https://www.facebook.com/hashtag/newnormal" target="_blank" class="hashtag" >#newnormal</a> is convenient and safe, there are moments that we miss from office environment. Whether it is sharing lunches, coffee with colleagues, birthday celebrations or the little informal chat between meetings. Capturing these moments in our next VT-Witty edition. Do you also miss them?<br>
           <a href="https://www.facebook.com/hashtag/newnormal" target="_blank" class="hashtag" > #newnormal</a> <a class="hashtag" href="https://www.facebook.com/hashtag/workfromhomelife" target="_blank" >#workfromhomelife</a> <a class="hashtag" href="https://www.facebook.com/hashtag/lifeatventura" target="_blank" >#lifeatventura</a>
         </p>
+          </div>
+
+        <div class="row">
+        <img class="vt-comic-images col-12 col-md-6" src="./img/comic/comic2.jpg" ></img>
+        </div>
 
           </div>
           </div>

@@ -164,7 +164,7 @@ a:hover {
   padding: 70px;
 }
 .section-heading-line {
-  background: #8df284;
+  background: #8DF284;
 }
 .features-box-2-icon {
   border: 2px solid #24c6fa;
@@ -1124,6 +1124,7 @@ transform-style: preserve-3d;
 .privacypolicy h1 {
   text-align: center;
   font-size: 40px;
+  margin-top: 80px;
   color: #123667;
 }
 .privacypolicy p {
@@ -2939,7 +2940,7 @@ display: block;
 .tabs.active {
   color: #fff;
   font-size: 18px;
-  background: #666;
+  background: #1614a8;
   /* padding-left: 25px; */
   /* padding-right: 25px; */
   padding: 12px;
@@ -3076,14 +3077,42 @@ color: #1614a8;
   }
 
   .comic-discription{
-    font-size: 16px;
+    font-size: 14px;
+    font-weight: 400;
   }
 
   .hashtag{
-    font-weight:600;
-    color:black;
+    font-weight:500;
+    color:#222;
   }
 
   .hashtag:hover{
     border-bottom: 2px solid;
   }
+
+  .reswriter{
+    float: right;
+    margin-right: 103px;
+  }
+
+  @media only screen and (max-width: 991px) {
+    .reswriter{
+      float: right;
+      margin-right: 18px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+  .reswriter{
+    float: right;
+    margin-right: 28px;
+  }
+}
+
+.referid{
+  color: blue;
+}
+
+.referid:hover{
+  border-bottom: 1px solid blue;
+}

@@ -6,7 +6,7 @@
       <div class="col-md-12">
         <h3 style="color: black; text-transform: uppercase;">Portfolio</h3>
       <div class="section-heading-line line-thin" style="color: #8DF284; margin-left:0px;width:160px"></div>
-      <p>Learning that is custom designed exclusively for you.</p>
+      <p>Learning that is custom designed exclusively for you</p>
 
 
       </div>
@@ -49,7 +49,7 @@
           </div>
         </div>
         </a> </div>
-      <div class="col-md-4 col-sm-6 col-12"> <a href="#">
+      <div class="col-md-4 col-sm-6 col-12"> <a href="#" data-toggle="modal" data-target="#exampleModal6">
         <div class="portolio-boxed"> <img src="img/new-img/a27.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <div class="portolio-boxed-content">
@@ -58,7 +58,7 @@
           </div>
         </div>
         </a> </div>
-      <div class="col-md-4 col-sm-6 col-12"> <a href="#">
+      <div class="col-md-4 col-sm-6 col-12"> <a href="#" data-toggle="modal" data-target="#exampleModal7">
         <div class="portolio-boxed"> <img src="img/new-img/a07.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <div class="portolio-boxed-content">
@@ -67,7 +67,7 @@
           </div>
         </div>
         </a> </div>
-      <div class="col-md-4 col-sm-6 col-12"> <a href="#">
+      <div class="col-md-4 col-sm-6 col-12"> <a href="#" data-toggle="modal" data-target="#exampleModal8">
         <div class="portolio-boxed"> <img src="img/new-img/a01.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <div class="portolio-boxed-content">
@@ -76,7 +76,7 @@
           </div>
         </div>
         </a> </div>
-      <div class="col-md-4 col-sm-6 col-12"> <a href="#">
+      <div class="col-md-4 col-sm-6 col-12"> <a href="#" data-toggle="modal" data-target="#exampleModal9">
         <div class="portolio-boxed"> <img src="img/new-img/a02.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <div class="portolio-boxed-content">
@@ -97,7 +97,7 @@
 <div id="view-more" >
   <div class="container-fluid">
     <div class="row">
-      <div class="col-md-4 col-sm-6 col-12">  <a href="#">
+      <div class="col-md-4 col-sm-6 col-12">  <a href="#" data-toggle="modal" data-target="#exampleModal10">
         <div class="portolio-boxed"> <img src="img/new-img/a03.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <div class="portolio-boxed-content">
@@ -106,7 +106,7 @@
           </div>
         </div>
        </a> </div>
-        <div class="col-md-4 col-sm-6 col-12">  <a href="#">
+        <div class="col-md-4 col-sm-6 col-12">  <a href="#" data-toggle="modal" data-target="#exampleModal11">
         <div class="portolio-boxed"> <img src="img/new-img/a04.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <div class="portolio-boxed-content">
@@ -115,7 +115,7 @@
           </div>
         </div>
        </a> </div>
-        <div class="col-md-4 col-sm-6 col-12">  <a href="#">
+        <div class="col-md-4 col-sm-6 col-12">  <a href="#" data-toggle="modal" data-target="#exampleModal12">
         <div class="portolio-boxed"> <img src="img/new-img/a25.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <div class="portolio-boxed-content">
@@ -124,7 +124,7 @@
           </div>
         </div>
        </a> </div>
-        <div class="col-md-4 col-sm-6 col-12">  <a href="#">
+        <div class="col-md-4 col-sm-6 col-12">  <a href="#" data-toggle="modal" data-target="#exampleModal13">
         <div class="portolio-boxed"> <img src="img/new-img/a11.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <div class="portolio-boxed-content">
@@ -133,7 +133,7 @@
           </div>
         </div>
        </a> </div>
-        <div class="col-md-4 col-sm-6 col-12">  <a href="#">
+        <div class="col-md-4 col-sm-6 col-12">  <a href="#" data-toggle="modal" data-target="#exampleModal14">
         <div class="portolio-boxed"> <img src="img/new-img/a09.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <div class="portolio-boxed-content">
@@ -142,7 +142,7 @@
           </div>
         </div>
        </a> </div>
-        <div class="col-md-4 col-sm-6 col-12">  <a href="#">
+        <div class="col-md-4 col-sm-6 col-12">  <a href="#" data-toggle="modal" data-target="#exampleModal15">
         <div class="portolio-boxed"> <img src="img/new-img/a26.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <div class="portolio-boxed-content">
@@ -151,7 +151,7 @@
           </div>
         </div>
        </a> </div>
-        <div class="col-md-4 col-sm-6 col-12">  <a href="#">
+        <div class="col-md-4 col-sm-6 col-12">  <a href="#" data-toggle="modal" data-target="#exampleModal16">
         <div class="portolio-boxed"> <img src="img/new-img/a08.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <div class="portolio-boxed-content">
@@ -160,7 +160,7 @@
           </div>
         </div>
        </a> </div>
-        <div class="col-md-4 col-sm-6 col-12">  <a href="#">
+        <div class="col-md-4 col-sm-6 col-12">  <a href="#" data-toggle="modal" data-target="#exampleModal17">
         <div class="portolio-boxed"> <img src="img/new-img/a13.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <div class="portolio-boxed-content">
@@ -169,7 +169,7 @@
           </div>
         </div>
        </a> </div>
-        <div class="col-md-4 col-sm-6 col-12">  <a href="#">
+        <div class="col-md-4 col-sm-6 col-12">  <a href="#" data-toggle="modal" data-target="#exampleModal18">
         <div class="portolio-boxed"> <img src="img/new-img/a18.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <div class="portolio-boxed-content">
@@ -191,7 +191,7 @@
 <div>
   <div class="container">
     <div class="row">
-      <div class="col-md-4 col-sm-6 col-12">  <a href="#">
+      <div class="col-md-4 col-sm-6 col-12">  <a href="#" data-toggle="modal" data-target="#exampleModal19">
         <div class="portolio-boxed"> <img src="img/new-img/a15.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <div class="portolio-boxed-content">
@@ -201,7 +201,7 @@
         </div>
         </a> </div>
   
-      <div class="col-md-4 col-sm-6 col-12"> <a href="#">
+      <div class="col-md-4 col-sm-6 col-12"> <a href="#" data-toggle="modal" data-target="#exampleModal20">
         <div class="portolio-boxed"> <img src="img/new-img/a16.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
           <div class="portolio-boxed-content">
@@ -210,7 +210,7 @@
           </div>
         </div>
        </a> </div>
-      <div class="col-md-4 col-sm-6 col-12"> <a href="#">
+      <div class="col-md-4 col-sm-6 col-12"> <a href="#" data-toggle="modal" data-target="#exampleModal21">
         <div class="portolio-boxed"> <img src="img/new-img/a20.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
           <div class="portolio-boxed-content">
@@ -219,7 +219,7 @@
           </div>
         </div>
        </a> </div>
-      <div class="col-md-4 col-sm-6 col-12"> <a href="#">
+      <div class="col-md-4 col-sm-6 col-12"> <a href="#" data-toggle="modal" data-target="#exampleModal22">
         <div class="portolio-boxed"> <img src="img/new-img/a05.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
           <div class="portolio-boxed-content">
@@ -228,7 +228,7 @@
           </div>
         </div>
        </a> </div>
-      <div class="col-md-4 col-sm-6 col-12"> <a href="#">
+      <div class="col-md-4 col-sm-6 col-12"> <a href="#" data-toggle="modal" data-target="#exampleModal23"> 
         <div class="portolio-boxed"> <img src="img/new-img/a23.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
           <div class="portolio-boxed-content">
@@ -237,7 +237,7 @@
           </div>
         </div>
        </a> </div>
-      <div class="col-md-4 col-sm-6 col-12"> <a href="#">
+      <div class="col-md-4 col-sm-6 col-12"> <a href="#" data-toggle="modal" data-target="#exampleModal24">
         <div class="portolio-boxed"> <img src="img/new-img/a17.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
           <div class="portolio-boxed-content">
@@ -258,7 +258,7 @@
 <div id="view-more1" >
   <div class="container-fluid">
     <div class="row">
-      <div class="col-md-4 col-sm-6 col-12">  <a href="#">
+      <div class="col-md-4 col-sm-6 col-12">  <a href="#" data-toggle="modal" data-target="#exampleModal25">
         <div class="portolio-boxed"> <img src="img/new-img/a12.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <div class="portolio-boxed-content">
@@ -267,7 +267,7 @@
           </div>
         </div>
         </a> </div>
-        <div class="col-md-4 col-sm-6 col-12">  <a href="#">
+        <div class="col-md-4 col-sm-6 col-12">  <a href="#" data-toggle="modal" data-target="#exampleModal26"> 
         <div class="portolio-boxed"> <img src="img/new-img/a10.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <div class="portolio-boxed-content">
@@ -276,7 +276,7 @@
           </div>
         </div>
        </a> </div>
-        <div class="col-md-4 col-sm-6 col-12">  <a href="#">
+        <div class="col-md-4 col-sm-6 col-12">  <a href="#" data-toggle="modal" data-target="#exampleModal27">
         <div class="portolio-boxed"> <img src="img/new-img/a24.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <div class="portolio-boxed-content">
@@ -285,7 +285,7 @@
           </div>
         </div>
        </a> </div>
-        <div class="col-md-4 col-sm-6 col-12">  <a href="#">
+        <div class="col-md-4 col-sm-6 col-12">  <a href="#" data-toggle="modal" data-target="#exampleModal28">
         <div class="portolio-boxed"> <img src="img/new-img/a21.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <div class="portolio-boxed-content">
@@ -294,7 +294,7 @@
           </div>
         </div>
        </a> </div>
-        <div class="col-md-4 col-sm-6 col-12">  <a href="#">
+        <div class="col-md-4 col-sm-6 col-12">  <a href="#" data-toggle="modal" data-target="#exampleModal29">
         <div class="portolio-boxed"> <img src="img/new-img/a14.jpg" alt="Avatar" class="image">
           <div class="portolio-boxed-overlay">
             <div class="portolio-boxed-content">

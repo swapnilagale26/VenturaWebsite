@@ -6,7 +6,7 @@
       <div class="col-md-12">
         <h3 style="color: black; text-transform: uppercase;">careers</h3>
       <div class="section-heading-line line-thin" style="color: #8DF284; margin-left:0px;width:160px"></div>
-      <p>Join us for a career that challenges your creativity.</p>
+      <p>Join us for a career that challenges your creativity</p>
 
 
       </div>
@@ -43,7 +43,7 @@
 <div class="position-section mt-25">
 <h3 class="semi-bold font-size-30 jd"  id="jd1">Sr. Instructional Designer<h3>
 <p>Experince: 6-8 years  |  Position: 1</p>
-<p style="font-size:16px; display: none">To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p>
+<p style="font-size:16px; display: none">To apply for this position, mail your details to <a class="referid" href="mailto:aparna@venturatechnologies.in">aparna@venturatechnologies.in</a> with Job Code mentioned in the subject line.</p>
 </div>
 
 <div class="job-description" id="job-description1">
@@ -79,7 +79,7 @@
   <li class="career-list">Compile content and restructure/rewrite/summarize it as needed</li>
   </ul>
 
-  <p >To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p> 
+  <p >To apply for this position, mail your details to <a class="referid" href="mailto:aparna@venturatechnologies.in">aparna@venturatechnologies.in</a> with Job Code mentioned in the subject line.</p> 
   <button data-toggle="modal" data-target="#exampleModal2" class="button-md button-primary mt-25 apply">Apply</button>
   
   </div>
@@ -91,7 +91,7 @@
 <div class="position-section mt-80">
 <h3 class="semi-bold font-size-30 jd"  id="jd2">Instructional Designers<h3>
 <p>Experience: 3-5 years  |  Position: 2</p>
-<p style="font-size:16px;display: none">To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p>
+<p style="font-size:16px;display: none">To apply for this position, mail your details to <a class="referid" href="mailto:aparna@venturatechnologies.in">aparna@venturatechnologies.in</a> with Job Code mentioned in the subject line.</p>
 </div>
 
 <div class="job-description" id="job-description2">
@@ -126,7 +126,7 @@
   <li class="career-list">Compile content and restructure/rewrite/summarize it as needed</li>
   </ul>
 
-  <p>To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p> 
+  <p>To apply for this position, mail your details to <a class="referid" href="mailto:aparna@venturatechnologies.in">aparna@venturatechnologies.in</a> with Job Code mentioned in the subject line.</p> 
   <button data-toggle="modal" data-target="#exampleModal2" class="button-md button-primary mt-25 apply">Apply</button>
   
   </div>
@@ -137,7 +137,7 @@
 <div class="position-section mt-80">
 <h3 class="semi-bold font-size-30 jd"  id="jd3">Video Animator<h3>
 <p>Experience: 3-5 years  |  Position: 2</p>
-<p style="font-size:16px;display: none">To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p>
+<p style="font-size:16px;display: none">To apply for this position, mail your details to <a class="referid" href="mailto:aparna@venturatechnologies.in">aparna@venturatechnologies.in</a> with Job Code mentioned in the subject line.</p>
 </div>
 
 <div class="job-description" id="job-description3">
@@ -154,7 +154,7 @@
   <li class="career-list">Needs to be a team player with strong problem solving skills.</li>
   </ul>
 
-  <p>To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p> 
+  <p>To apply for this position, mail your details to <a class="referid" href="mailto:aparna@venturatechnologies.in">aparna@venturatechnologies.in</a> with Job Code mentioned in the subject line.</p> 
   <button data-toggle="modal" data-target="#exampleModal2" class="button-md button-primary mt-25 apply">Apply</button>
   
   </div>
@@ -166,7 +166,7 @@
 <div class="position-section mt-80">
 <h3 class="semi-bold font-size-30 jd" id="jd4">Storyline Developers<h3>
 <p>Experience: 3-5 years  |  Position: 2</p>
-<p style="font-size:16px;display: none">To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p>
+<p style="font-size:16px;display: none">To apply for this position, mail your details to <a class="referid" href="mailto:aparna@venturatechnologies.in">aparna@venturatechnologies.in</a> with Job Code mentioned in the subject line.</p>
 </div>
 
 <div class="job-description" id="job-description4">
@@ -190,7 +190,7 @@ learning needs.</li>
 illustrator, Photoshop and After effects</li>
   </ul>
 
-  <p>To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p> 
+  <p>To apply for this position, mail your details to <a class="referid" href="mailto:aparna@venturatechnologies.in">aparna@venturatechnologies.in</a> with Job Code mentioned in the subject line.</p> 
   <button data-toggle="modal" data-target="#exampleModal2" class="button-md button-primary mt-25 apply">Apply</button>
   
   </div>
@@ -199,7 +199,7 @@ illustrator, Photoshop and After effects</li>
   <div class="position-section mt-80">
 <h3 class="semi-bold font-size-30 jd"  id="jd5">Quality Analyst<h3>
 <p>Experience: 2-3 years  |  Position: 2</p>
-<p style="font-size:16px;display: none">To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p>
+<p style="font-size:16px;display: none">To apply for this position, mail your details to <a class="referid" href="mailto:aparna@venturatechnologies.in">aparna@venturatechnologies.in</a> with Job Code mentioned in the subject line.</p>
 </div>
 
 <div class="job-description" id="job-description5">
@@ -227,7 +227,7 @@ illustrator, Photoshop and After effects</li>
   <li class="career-list">Should have experience in Agile Methodology </li>
   </ul>
 
-  <p>To apply for this position, mail your details to careers@ventura.com with Job Code mentioned in the subject line.</p> 
+  <p>To apply for this position, mail your details to <a class="referid" href="mailto:aparna@venturatechnologies.in">aparna@venturatechnologies.in</a> with Job Code mentioned in the subject line.</p> 
   <button data-toggle="modal" data-target="#exampleModal2" class="button-md button-primary mt-25 apply">Apply</button>
   
   </div>
