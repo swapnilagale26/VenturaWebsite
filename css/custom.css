@@ -164,7 +164,7 @@ a:hover {
   padding: 70px;
 }
 .section-heading-line {
-  background: #8DF284;
+  background: #8df284;
 }
 .features-box-2-icon {
   border: 2px solid #24c6fa;
@@ -2834,38 +2834,41 @@ display: block;
 
 .dpdw .dpbtn {
   cursor: pointer;
-  font-size: 16px;
+  font-size: 18px;
   border: none;
   outline: none;
-  color: white;
+  color: #ffffff;
   padding: 14px 16px;
   background-color: inherit;
   font-family: inherit;
   margin: 0;
+  border-radius: 8px;
 }
 
 .dpdw-content {
   display: none;
   position: absolute;
-  background-color: white;
+  background-color: #317bce;
   min-width: 180px;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
+  border-radius: 8px;
 }
 
 .dpdw-content a {
   float: none;
-  color: black;
+  color: #ffffff;
   padding: 12px 16px;
   text-decoration: none;
   font-size: 12px;
   font-weight: 300;
   display: block;
   text-align: left;
+  border-radius: 8px;
 }
 
 .dpdw-content a:hover {
-  background-color: #ddd;
+  background-color: #222;
 }
 
 .show {
@@ -2948,171 +2951,169 @@ display: block;
   padding-bottom: 5px;
 }
 
-
-.closebtn{
+.closebtn {
   font-size: 80px !important;
   margin-top: -78px !important;
 }
 
 @media only screen and (max-width: 600px) {
-  .closebtn{
+  .closebtn {
     font-size: 60px !important;
   }
 }
 
-.mrg1{
+.mrg1 {
   margin-top: 20px;
-  margin-bottom: 60px; 
+  margin-bottom: 60px;
 }
 
-.mrg2{
+.mrg2 {
   margin-top: 20px;
-  margin-bottom: 60px; 
+  margin-bottom: 60px;
 }
 
-.mrg3{
+.mrg3 {
   margin-top: 20px;
-  margin-bottom: 60px; 
+  margin-bottom: 60px;
 }
 
-
-.hide1{
-display: none;
-/* margin-top:0px; */
-}
-
-.hide2{
+.hide1 {
   display: none;
-  }
+  /* margin-top:0px; */
+}
 
-.hide3{
+.hide2 {
   display: none;
 }
 
-.introImage{
+.hide3 {
+  display: none;
+}
+
+.introImage {
   background-image: url("../img/blogs/blog1-image.png");
   width: 100%;
-  height:300px;
+  height: 300px;
   object-fit: cover;
   margin-bottom: 20px;
   background-position: 50% 50%;
 }
 
-.blogHeading{
+.blogHeading {
   font-size: 20px;
   color: #1614a8;
   text-align: left;
   margin-bottom: 20px;
 }
 
-.moreInfo p{
-color:#222;
+.moreInfo p {
+  color: #222;
 }
 
-.moreInfo li{
-  color:#222;
+.moreInfo li {
+  color: #222;
   font-size: 14px;
   list-style-type: disc;
   margin-left: 15px;
-  }
+}
 
-  .moreInfo ol li{
-    color:#222;
-    font-size: 14px;
-    list-style-type: inherit;
-    margin-left: 15px;
-    }
+.moreInfo ol li {
+  color: #222;
+  font-size: 14px;
+  list-style-type: inherit;
+  margin-left: 15px;
+}
 
-.navigationButtons{
+.navigationButtons {
   margin-top: 30px;
 }
 
-.next-blog{
+.next-blog {
   float: right;
   font-size: 14px;
 }
 
-.next-blog:hover{
-font-size: 16px;
-color: #1614a8;
+.next-blog:hover {
+  font-size: 16px;
+  color: #1614a8;
 }
 
-.prev-blog{
+.prev-blog {
   float: left;
   font-size: 14px;
 }
 
-.prev-blog:hover{
+.prev-blog:hover {
   font-size: 16px;
   color: #1614a8;
-  }
+}
 
-  .rotate{
-    -moz-transform: scaleX(-1);
-    -webkit-transform: scaleX(-1);
-    -o-transform: scaleX(-1);
-    transform: scaleX(-1);
-    -ms-filter: fliph; /*IE*/
-    filter: fliph; /*IE*/
-  }
+.rotate {
+  -moz-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  transform: scaleX(-1);
+  -ms-filter: fliph; /*IE*/
+  filter: fliph; /*IE*/
+}
 
-  .moreInfo{
-    display: none;
-  }
+.moreInfo {
+  display: none;
+}
 
-  .blog-owner{
-    height: auto;
-    width:70%
-  }
+.blog-owner {
+  height: auto;
+  width: 70%;
+}
 
-  .disable{
-    color: grey !important;
-    filter: grayscale(100%);
-  }
+.disable {
+  color: grey !important;
+  filter: grayscale(100%);
+}
 
-  .vt-comic-images{
-    background-size: cover;
-    width: 100%;
-    height: auto;
-  }
+.vt-comic-images {
+  background-size: cover;
+  width: 100%;
+  height: auto;
+}
 
-  .comic-discription{
-    font-size: 14px;
-    font-weight: 400;
-  }
+.comic-discription {
+  font-size: 14px;
+  font-weight: 400;
+}
 
-  .hashtag{
-    font-weight:500;
-    color:#222;
-  }
+.hashtag {
+  font-weight: 500;
+  color: #222;
+}
 
-  .hashtag:hover{
-    border-bottom: 2px solid;
-  }
+.hashtag:hover {
+  border-bottom: 2px solid;
+}
 
-  .reswriter{
+.reswriter {
+  float: right;
+  margin-right: 103px;
+}
+
+@media only screen and (max-width: 991px) {
+  .reswriter {
     float: right;
-    margin-right: 103px;
+    margin-right: 18px;
   }
-
-  @media only screen and (max-width: 991px) {
-    .reswriter{
-      float: right;
-      margin-right: 18px;
-    }
 }
 
 @media only screen and (max-width: 767px) {
-  .reswriter{
+  .reswriter {
     float: right;
     margin-right: 28px;
   }
 }
 
-.referid{
+.referid {
   color: blue;
 }
 
-.referid:hover{
+.referid:hover {
   border-bottom: 1px solid blue;
 }

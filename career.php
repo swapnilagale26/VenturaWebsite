@@ -313,7 +313,7 @@ illustrator, Photoshop and After effects</li>
             <img class="col-md-1 col-2 mb-30" src="img/Portfolio/train.png">
             <div class="col-md-5 col-10 mb-30">
             <h4>Offsite Trainings</h4>
-            <p>We believe learning is a continuous process and an important one to be competitive. Enjoy offsite trainings and team bonding time twice a year.</p>
+            <p>We believe learning is a continuous process and an important one to be competitive. Enjoy offsite trainings and team bonding time twice <br>a year.</p>
             </div>
             
 
@@ -321,7 +321,7 @@ illustrator, Photoshop and After effects</li>
             <img class="col-md-1 col-2 mb-30" src="img/Portfolio/leaves.png">
             <div class="col-md-5 col-10 mb-30">
             <h4>Leaves and Holidays</h4>
-            <p>We believe in work-life balance. We offer 8 paid leaves and 10 public holidays a year and encourage employees to plan vacations to rejuvenate.</p>
+            <p>We believe in work-life balance. We offer 8 paid leaves and 10 <br>public holidays a year and encourage employees to plan vacations <br>to rejuvenate.</p>
             </div>
             
 

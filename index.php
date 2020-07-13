@@ -70,12 +70,12 @@
     <span style="font-size: 16px">Crafting learning experiences that help achieve performance improvements in organisations</span><br><br>
     <a href="services.php" style="font-size: 20px;color:white" target="_blank"><img class="next_arrow" src="./img/quick_links_arrrow.png" ></img></a></div>
 
-    <div class="col-md-6 col-lg-3 sub-links" style="background-color:#5FEF95;">
+    <div class="col-md-6 col-lg-3 sub-links" style="background-color:#70E765;">
     <a href="#why-us" >Why us</a><br><br>
     <span style="font-size: 16px">The right-sized team, the right mix of skill sets and the zeal to make an impact = 95% repeat business</span><br><br>
     <a href="#why-us" style="font-size: 20px;color:white" target="_blank"><img class="next_arrow" src="./img/quick_links_arrrow.png" ></img></a></div>
 
-    <div class="col-md-6 col-lg-3 sub-links" style="background-color:#EFD95F;">
+    <div class="col-md-6 col-lg-3 sub-links" style="background-color:#FFBA35;">
     <a href="career.php" >Life at Ventura</a>
     <br><br><span style="font-size: 16px">A happy workplace, fostering collaborative and transparent work culture</span><br><br>
     <a href="career.php" style="font-size: 20px;color:white" target="_blank"><img class="next_arrow" src="./img/quick_links_arrrow.png" ></img></a></div> 

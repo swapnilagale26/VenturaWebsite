@@ -59,7 +59,7 @@
             <!-- <div class="section-heading-line line-thin"></div> -->
             
             <p style="font-weight: 400;">Ventura creates learning solutions with patience, designing special molds to create pieces that match the learning perspective and piecing them together to create a perfect blend of engagement and contextual learning.</p>
-              <p style="font-weight: 400;">We believe that every organization has a specific need which requires careful understanding and efforts to create a custom content</p>
+              <p style="font-weight: 400;">We believe that every organization has a specific need <br>which requires careful understanding and efforts to create <br>a custom content</p>
              
            
           </div>
