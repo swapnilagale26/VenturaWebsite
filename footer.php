@@ -137,10 +137,10 @@
 </div>
 
 <div class="schedule modal fade  " id="exampleModal4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -154,7 +154,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -164,7 +164,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -173,7 +173,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -183,7 +183,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -193,7 +193,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -218,10 +218,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal5" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -235,7 +235,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -245,7 +245,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -254,7 +254,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -264,7 +264,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -274,7 +274,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -296,10 +296,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal6" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -313,7 +313,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -323,7 +323,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -332,7 +332,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -342,7 +342,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -352,7 +352,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -376,10 +376,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal7" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -393,7 +393,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -403,7 +403,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -412,7 +412,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -422,7 +422,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -432,7 +432,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -455,10 +455,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal8" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -472,7 +472,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -482,7 +482,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -491,7 +491,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -501,7 +501,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -511,7 +511,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -534,10 +534,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal9" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -551,7 +551,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -561,7 +561,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -570,7 +570,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -580,7 +580,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -590,7 +590,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -613,10 +613,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal10" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -630,7 +630,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -640,7 +640,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -649,7 +649,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -659,7 +659,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -669,7 +669,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -693,10 +693,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal11" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -710,7 +710,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -720,7 +720,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -729,7 +729,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -739,7 +739,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -749,7 +749,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -773,10 +773,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal12" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -790,7 +790,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -800,7 +800,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -809,7 +809,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -819,7 +819,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -829,7 +829,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -852,10 +852,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal13" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -869,7 +869,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -879,7 +879,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -888,7 +888,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -898,7 +898,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -908,7 +908,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -931,10 +931,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal14" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -948,7 +948,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -958,7 +958,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -967,7 +967,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -977,7 +977,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -987,7 +987,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -1011,10 +1011,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal15" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1028,7 +1028,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -1038,7 +1038,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -1047,7 +1047,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -1057,7 +1057,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -1067,7 +1067,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -1090,10 +1090,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal16" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1107,7 +1107,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -1117,7 +1117,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -1126,7 +1126,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -1136,7 +1136,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -1146,7 +1146,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -1170,10 +1170,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal17" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1187,7 +1187,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -1197,7 +1197,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -1206,7 +1206,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -1216,7 +1216,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -1226,7 +1226,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -1249,10 +1249,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal18" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1266,7 +1266,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -1276,7 +1276,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -1285,7 +1285,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -1295,7 +1295,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -1305,7 +1305,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -1329,10 +1329,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal19" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1346,7 +1346,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -1356,7 +1356,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -1365,7 +1365,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -1375,7 +1375,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -1385,7 +1385,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -1409,10 +1409,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal20" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1426,7 +1426,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -1436,7 +1436,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -1445,7 +1445,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -1455,7 +1455,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -1465,7 +1465,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -1488,10 +1488,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal21" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1505,7 +1505,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -1515,7 +1515,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -1524,7 +1524,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -1534,7 +1534,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -1544,7 +1544,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -1568,10 +1568,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal22" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1585,7 +1585,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -1595,7 +1595,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -1604,7 +1604,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -1614,7 +1614,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -1624,7 +1624,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -1647,10 +1647,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal23" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1664,7 +1664,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -1674,7 +1674,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -1683,7 +1683,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -1693,7 +1693,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -1703,7 +1703,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -1727,10 +1727,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal24" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1744,7 +1744,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -1754,7 +1754,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -1763,7 +1763,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -1773,7 +1773,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -1783,7 +1783,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -1807,10 +1807,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal25" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1824,7 +1824,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -1834,7 +1834,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -1843,7 +1843,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -1853,7 +1853,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -1863,7 +1863,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -1887,10 +1887,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal26" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1904,7 +1904,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -1914,7 +1914,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -1923,7 +1923,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -1933,7 +1933,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -1943,7 +1943,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -1967,10 +1967,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal27" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1984,7 +1984,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -1994,7 +1994,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -2003,7 +2003,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -2013,7 +2013,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -2023,7 +2023,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -2048,10 +2048,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal28" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -2065,7 +2065,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -2075,7 +2075,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -2084,7 +2084,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -2094,7 +2094,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -2104,7 +2104,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -2128,10 +2128,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal29" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -2145,7 +2145,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -2155,7 +2155,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -2164,7 +2164,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -2174,7 +2174,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -2184,7 +2184,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -2207,10 +2207,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal30" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -2224,7 +2224,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -2234,7 +2234,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -2243,7 +2243,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -2253,7 +2253,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -2263,7 +2263,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>

@@ -140,7 +140,7 @@ $(document).ready(function() {
         smartSpeed: 850,
         responsiveClass: true,
         nav:true,
-        navText: ["<i class='ti-angle-left fa-4x' style='font-size: 40px;color: #848484;'></i>","<i class='ti-angle-right fa-4x'style='font-size: 40px;color: #848484;'></i>"],
+        navText: ["<i class='ti-angle-left fa-4x' style='font-size: 40px;color: #848484; margin-left:55px'></i>","<i class='ti-angle-right fa-4x'style='font-size: 40px;color: #848484;'></i>"],
         autoplay: false,
         autoplayTimeout: 3000,
         responsive: {
@@ -159,7 +159,7 @@ $(document).ready(function() {
             1000: {
                 items: 1,
                 dots: false,
-                margin: 30,
+                margin: 100,
             }
         }
     })
