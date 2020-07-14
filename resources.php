@@ -159,8 +159,8 @@
                     <div style="border:1px solid grey;">    
                         <img src="img/blogs/blog9-banner.png" alt="Responsive image" class="min-vh-100">
                         <div class="innercontent" style="padding:4%">
-                        <div class="service-box-3-icon" style="float:left;width:7%;height: 7%"><img src="img/new-img/1.png" class="img-responsive img-circle"></div>
-                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Tushar Agale | venturatechnologies </p>
+                        <div class="service-box-3-icon" style="float:left;width:7%;height: 7%"><img src="img/new-img/Satish.png" class="img-responsive img-circle"></div>
+                        <div class="related-text"><p style="font-weight: 400;color:#1614A8;font-size:12px;margin-left:9%">Satish More | venturatechnologies </p>
                         <p style="font-weight: 400;color:gray;font-size:12px;margin-left:9%">May 04, 2020</p></div>
                         <p style="font-weight: 400;color: #1614A8;font-size: 21px;padding-top: 20px;line-height: 1.2;">3 Reasons Why You Must Convert Flash to HTML5</p>
                         <p style="font-weight: 400;color:gray;font-size:12px;margin-top:10px;margin-bottom:30px">Corporate workspaces today consist of employees from different demographic. From the Baby boomersto the millennials and Generation Z. Ask the latter about Flash, and they would probably say, “Eh... Grant Gustin, or maybe the fastest man on Earth (pun not intended).</p>

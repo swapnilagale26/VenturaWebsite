@@ -313,7 +313,7 @@
   background: #6980ff;
   margin: auto;
   margin-top: 20px;
-  margin-bottom: 10px;
+  margin-bottom: 22px;
 }
 .section-heading-line-white {
   content: "";
@@ -7207,6 +7207,6 @@ blockquote {
   /* position: relative; */
 }
 
-.allblogs{
-  margin-bottom:40px;
+.allblogs {
+  margin-bottom: 40px;
 }

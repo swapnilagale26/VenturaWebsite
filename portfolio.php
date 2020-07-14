@@ -90,9 +90,22 @@
   </div>
 </div>
 
-<div id="view-more-btn" class="link text-center" style="margin-top:60px;margin-bottom:60px">
-                  <div   class="btn button-primary va" style="padding-left: 30px;padding-right: 30px;">View All</div>
-                </div>
+<div id="view-more-btn"><a href="#blogs" id="blog3" class="readm1" style="margin-left: 90%;">View All<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
+
+<div id="requestcall2" class="link text-center" style="margin-top:18px;margin-bottom:60px">
+      
+                  <div class="btn button-primary va " data-toggle="modal" data-target="#exampleModal" style="padding-left: 30px;padding-right: 30px;">Request call back</div>
+</div>
+
+
+
+
+
+
+
+
+
+
 
 <div id="view-more" >
   <div class="container-fluid">
@@ -183,6 +196,10 @@
 </div>
 </div>
 
+<div id="requestcall3" class="link text-center">
+      
+                  <div class="btn button-primary va " data-toggle="modal" data-target="#exampleModal" style="padding-left: 30px;padding-right: 30px;">Request call back</div>
+</div>
 
 <div class="container mt-30">
 <h3 class="semi-bold font-size-30"  style="color: black; text-align: center">Videos Samples</h3>
@@ -251,9 +268,14 @@
   </div>
 </div>
 
-<div id="view-more-btn1" class="link text-center" style="margin-top:60px;margin-bottom:60px">
-                  <div   class="btn button-primary va" style="padding-left: 30px;padding-right: 30px;">View All</div>
-                </div>
+<div id="view-more-btn1"><a href="#blogs" id="blog2" class="readm1" style="margin-left: 90%;">View All<img src="./img/read_more.png" style="width: 34px;margin: 10px;"></img></a></div>
+
+<div id="requestcall" class="link text-center" style="margin-top:18px;margin-bottom:60px">
+      
+                  <div class="btn button-primary va " data-toggle="modal" data-target="#exampleModal" style="padding-left: 30px;padding-right: 30px;">Request call back</div>
+</div>
+
+
 
 <div id="view-more1" >
   <div class="container-fluid">
@@ -311,6 +333,11 @@
 
 
 
+<div id="requestcall1" class="link text-center">
+      
+                  <div class="btn button-primary va " data-toggle="modal" data-target="#exampleModal" style="padding-left: 30px;padding-right: 30px;">Request call back</div>
+</div>
+
 
 
 
@@ -319,11 +346,15 @@
 $("#view-more-btn").click(function(){
   $("#view-more").show();
   $("#view-more-btn").hide();
+  $("#requestcall2").hide();
+  $("#requestcall3").show();
   });
 
   $("#view-more-btn1").click(function(){
   $("#view-more1").show();
   $("#view-more-btn1").hide();
+  $("#requestcall").hide();
+  $("#requestcall1").show();
   });
 
 </script>

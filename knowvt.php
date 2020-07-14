@@ -27,7 +27,7 @@
 
           <div class="culture col-md-6 col-12" >
           <h3 >Our Story</h3>
-          <p>The foundation of Ventura was laid in the year 2012 when Tushar, our founder, kicked-off his entrepreneurial journey to help our customers design impactful learning. Tushar brought in 10+ years of in-depth expertise in eLearning Design, and initially catered to domestic clients.<br> <br> It was the year 2017 when Aparna, our co-founder, came on board to lead the Sales and Marketing efforts. It helped us expand our reach in the international market. Together as a team, it worked out to be a perfect blend of delivering best quality output and excellent customer service today, we have our imprints in 11 countries, and counting! Our founders believe that any workplace can operate at its full efficiency only when the workforce is well equipped with the required skill sets and continued learning opportunities. <br><br>With the vision of empowering workplaces to go the extra mile, Ventura has been helping organisations across geographies and verticals to leverage technology and drive behavioural change in <br>the workforce.</p>
+          <p>How does Learning become impactful? <br><br>It’s the approach that often makes the difference. What helps, is the experience in creating learning that adjusts in accordance to the changing times. We help in creating a learning scenario that caters to the learners and Empowers them.<br><br>We believe in creating something different every time.<br><br>The requirement is always the key, which is why offer a plethora <br>of services.</p>
           </div>
 
           <div class="culture col-md-6 col-12 mb-80" >

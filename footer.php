@@ -137,10 +137,10 @@
 </div>
 
 <div class="schedule modal fade  " id="exampleModal4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -154,49 +154,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/30-60-90/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/30-60-90/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/30-60-90/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/30-60-90/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/30-60-90/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -218,10 +218,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal5" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -235,49 +235,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/River Game/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/River Game/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/River Game/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/River Game/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/River Game/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -296,10 +296,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal6" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -313,49 +313,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/Cipla/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/Cipla/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Cipla/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Cipla/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Cipla/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -376,10 +376,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal7" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -393,49 +393,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/Kalpataru/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/Kalpataru/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Kalpataru/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Kalpataru/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Kalpataru/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -455,10 +455,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal8" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -472,49 +472,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/Mandatory Reporting Project/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/Mandatory Reporting Project/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Mandatory Reporting Project/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Mandatory Reporting Project/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Mandatory Reporting Project/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -534,10 +534,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal9" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -551,49 +551,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/Image system Compressor/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/Image system Compressor/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Image system Compressor/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Image system Compressor/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Image system Compressor/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -613,10 +613,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal10" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -630,49 +630,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/Philips/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/Philips/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Philips/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Philips/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Philips/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -693,10 +693,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal11" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -710,49 +710,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/Pepsico/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/Pepsico/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Pepsico/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Pepsico/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Pepsico/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -773,10 +773,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal12" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -790,49 +790,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/Renault/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/Renault/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Renault/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Renault/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Renault/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -852,10 +852,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal13" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -869,49 +869,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/Blockchain/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/Blockchain/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Blockchain/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Blockchain/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Blockchain/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -931,10 +931,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal14" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -948,49 +948,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/JLL/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/JLL/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/JLL/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/JLL/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/JLL/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -1011,10 +1011,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal15" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1028,49 +1028,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/Art of Change Management/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/Art of Change Management/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Art of Change Management/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Art of Change Management/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Art of Change Management/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -1090,10 +1090,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal16" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1107,49 +1107,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/EMB Corp Proto/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/EMB Corp Proto/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/EMB Corp Proto/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/EMB Corp Proto/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/EMB Corp Proto/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -1170,10 +1170,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal17" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1187,49 +1187,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/forklift/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/forklift/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/forklift/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/forklift/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/forklift/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -1249,10 +1249,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal18" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1266,49 +1266,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/30-60-90/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/30-60-90/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/30-60-90/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/30-60-90/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/30-60-90/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -1329,10 +1329,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal19" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1346,49 +1346,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/Imarticus How we learn Video/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/Imarticus How we learn Video/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Imarticus How we learn Video/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Imarticus How we learn Video/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Imarticus How we learn Video/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -1409,10 +1409,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal20" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1426,49 +1426,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/EI design video Proto/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/EI design video Proto/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/EI design video Proto/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/EI design video Proto/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/EI design video Proto/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -1488,10 +1488,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal21" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1505,49 +1505,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/River Game/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/River Game/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/River Game/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/River Game/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/River Game/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -1568,10 +1568,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal22" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1585,49 +1585,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/Spoton Video/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/Spoton Video/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Spoton Video/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Spoton Video/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Spoton Video/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -1647,10 +1647,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal23" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1664,49 +1664,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/Indian oil video Project/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/Indian oil video Project/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Indian oil video Project/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Indian oil video Project/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Indian oil video Project/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -1722,15 +1722,13 @@
 </div>
 </div>  
 </div>
-
-
 
 
 <div class="schedule modal fade  " id="exampleModal24" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1744,49 +1742,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/adnoc/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/adnoc/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/adnoc/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/adnoc/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/adnoc/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -1804,13 +1802,14 @@
 </div>
 
 
+<!-- Pending -->
 
 
 <div class="schedule modal fade  " id="exampleModal25" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1824,49 +1823,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/Motila Oswal Video/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/Motila Oswal Video/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Motila Oswal Video/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Motila Oswal Video/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Motila Oswal Video/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -1884,13 +1883,14 @@
 </div>
 
 
+<!-- Pending -->
 
 
 <div class="schedule modal fade  " id="exampleModal26" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1904,7 +1904,7 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
          <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
@@ -1914,7 +1914,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
            <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
@@ -1923,7 +1923,7 @@
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
@@ -1933,7 +1933,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
@@ -1943,7 +1943,7 @@
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
           <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
@@ -1967,10 +1967,10 @@
 
 
 <div class="schedule modal fade  " id="exampleModal27" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -1984,49 +1984,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/IIFL/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/IIFL/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/IIFL/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/IIFL/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/IIFL/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -2042,16 +2042,15 @@
 </div>
 </div>  
 </div>
-
 
 
 
 
 <div class="schedule modal fade  " id="exampleModal28" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -2065,49 +2064,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/Bike Game/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/Bike Game/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Bike Game/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Bike Game/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Bike Game/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
@@ -2123,15 +2122,14 @@
 </div>
 </div>  
 </div>
-
 
 
 
 <div class="schedule modal fade  " id="exampleModal29" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
+<div class="modal-dialog modal-lg" role="document" style="max-width:1000px">
 <div class="modal-content">
 <div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
+<div class="testmonials section-block space">
   <div class="container">
     <div class="section-heading text-center"> 
       <h3 class="semi-bold font-size-30">Course Overview</h3>
@@ -2145,128 +2143,49 @@
     </div>
     <div class="row">
       <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
          <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
+         <div> <img src="img/Portfolio/Induction/1.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
          
            <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
+           <div> <img src="img/Portfolio/Induction/2.jpg" alt="img"> </div>
             <!-- <span class="testmonial-name"> didier brackx 
             </span><br>
             <span class="test-prof">eLearning Project Manager</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Induction/3.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Induction/4.jpg" alt="img"> </div>
            
               <!-- <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
               <span class="test-prof">Director, Learning Programs</span> -->
           </div>
         </div>
-        <div class="testmonial-box">
+        <div class="testmonial-box addleft">
         
           <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
-           
-             <!--  <span class="testmonial-name"> Jamel Ahmed 
-              </span><br>
-              <span class="test-prof">Director, Learning Programs</span> -->
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-</div>
-</div>
-</div>  
-</div>
-
-
-
-<div class="schedule modal fade  " id="exampleModal30" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog modal-lg" role="document" style="max-width:1500px">
-<div class="modal-content">
-<div class="modal-body" style="padding:2rem">
-<div class="testmonials section-block">
-  <div class="container">
-    <div class="section-heading text-center"> 
-      <h3 class="semi-bold font-size-30">Course Overview</h3>
-    <div class="section-heading-line"></div>
-      <div>
-      
-      <button type="button"  class="close closebtn" data-dismiss="modal" aria-label="Close">
-         <span class="closebtn" aria-hidden="true">&times;</span>
-        </button>
-
-    </div>
-    <div class="row">
-      <div class="owl-carousel owl-theme testmonials-carousel-2">
-        <div class="testmonial-box">
-        
-         <div class="testmonial-item">
-         <div> <img src="img/new-img/a19.jpg" alt="img"> </div>
-           
-              <!-- <span class="testmonial-name"> Jamel Ahmed 
-              </span><br>
-              <span class="test-prof">Director, Learning Programs</span> -->
-          </div>
-        </div>
-        <div class="testmonial-box">
-         
-           <div class="testmonial-item">
-           <div> <img src="img/new-img/a15.jpg" alt="img"> </div>
-            <!-- <span class="testmonial-name"> didier brackx 
-            </span><br>
-            <span class="test-prof">eLearning Project Manager</span> -->
-          </div>
-        </div>
-        <div class="testmonial-box">
-        
-          <div class="testmonial-item">
-          <div> <img src="img/new-img/a22.jpg" alt="img"> </div>
-           
-              <!-- <span class="testmonial-name"> Jamel Ahmed 
-              </span><br>
-              <span class="test-prof">Director, Learning Programs</span> -->
-          </div>
-        </div>
-        <div class="testmonial-box">
-        
-          <div class="testmonial-item">
-          <div> <img src="img/new-img/a16.jpg" alt="img"> </div>
-           
-              <!-- <span class="testmonial-name"> Jamel Ahmed 
-              </span><br>
-              <span class="test-prof">Director, Learning Programs</span> -->
-          </div>
-        </div>
-        <div class="testmonial-box">
-        
-          <div class="testmonial-item">
-          <div> <img src="img/new-img/a27.jpg" alt="img"> </div>
+          <div> <img src="img/Portfolio/Induction/5.jpg" alt="img"> </div>
            
              <!--  <span class="testmonial-name"> Jamel Ahmed 
               </span><br>
